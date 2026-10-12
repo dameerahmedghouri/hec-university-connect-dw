@@ -135,3 +135,67 @@ git rm -r --cached unwanted_file.csv
 git commit -m "chore: removed unwanted file"
 git push origin team-XX
 ```
+
+---
+
+## Sab Se Bada Darr: "Kya Pull Karne Se Mera Likha Hua Code Chala Jayega?"
+
+**Jawab: BILKUL NAHI! Git aapka code kabhi delete ya overwrite nahi karta.**
+
+Yeh samjhein ke asal mein hota kya hai aur is se kaise bachna hai:
+
+### Scenario A: Team ke 2 members alag alag files par kaam kar rahe hain (Best Practice)
+- Maslan: **Member 1** `02_clean/clean_applicants.sql` bana raha hai.
+- Aur **Member 2** `02_clean/clean_status.sql` bana raha hai.
+- Member 1 ne pehle push kar diya.
+- Jab Member 2 `git pull` karega, to Git Member 1 ki nayi file le aayega aur **Member 2 ka apna code 100% mehfooz rahega**. Dono files aapas mein automatically merge ho jayengi!
+
+---
+
+### Scenario B: Agar doosre ne push kar diya aur aapne abhi commit nahi kiya
+Agar aapne kuch code likha hua hai aur aap `git pull` karte hain, to Git aapko foran rok dega aur error dega:  
+`"error: Your local changes would be overwritten by merge. Please commit your changes or stash them."`  
+**Matlab Git aapka code khud se urane hi nahi deta!**
+
+**Aasan 3-Step Formula (Hamesha Yeh Karein):**
+1. **Pehle apna code commit karein** (Commit karne se aapka code lock aur safe ho jata hai):
+   ```bash
+   git add teams/team-XX/
+   git commit -m "my latest work"
+   ```
+2. **Phir pull karein** (Doosre ka code lene ke liye):
+   ```bash
+   git pull origin team-XX
+   ```
+3. **Phir push kar dein**:
+   ```bash
+   git push origin team-XX
+   ```
+
+---
+
+### Scenario C: Agar do members ne EK HI FILE ki EK HI LINE ko badal diya (Merge Conflict)
+Agar aisa ho jaye to Git kisi ka bhi code delete nahi karta, balki file ke andar dono ka code dikha deta hai:
+```text
+<<<<<<< HEAD (Aapka likha hua code)
+SELECT student_id, UPPER(student_name) FROM raw_applicants;
+=======
+SELECT student_id, TRIM(student_name) FROM raw_applicants;
+>>>>>>> origin/team-XX (Aapke sathi ka code)
+```
+**Hal:**
+1. VS Code mein upar buttons aate hain: `Accept Current Change` ya `Accept Incoming Change` ya `Accept Both`.
+2. Dono sathi aapas mein baat karein ke kaunsa code sahi hai, usko select karein aur file save karein.
+3. Commit & push kar dein:
+   ```bash
+   git commit -m "resolved conflict"
+   git push origin team-XX
+   ```
+
+### 💡 Golden Tip For Teams (Clash Se Bachne Ka Rasta):
+Team Lead kaam shuru hone se pehle files divide kar de:
+- *"Member A tu staging script banayega"*
+- *"Member B tu cleaning SQL likhega"*
+- *"Member C tu tests likhega"*
+
+Jab har banda apni alag file par kaam karega, to **zindagi mein kabhi koi clash ya masla nahi aayega!**
