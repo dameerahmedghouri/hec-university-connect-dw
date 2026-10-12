@@ -15,29 +15,29 @@ This document defines the operational standards, Git branching hierarchy, PR rev
 
 ---
 
-## 2. Git Branching Hierarchy & Workflow
+## 2. Simplified Git Branching & Workflow
+
+To keep things smooth and avoid unnecessary complexity, har team ki sirf **ek main team branch** hogi. Individual student branches ka jhanjhat khatam:
 
 ```text
-       [ student branches ] (e.g. t01-ali-clean, t04-sara-model)
-               │  (PR reviewed by Team Lead)
+       [ Team Members ] (All members work together on their team branch)
+               │
                ▼
-       [ team branches ]    (team-01, team-02 ... team-10)
-               │  (PR reviewed strictly by Core Team QA)
+       [ team-XX Branch ] (e.g. team-01, team-02 ... team-10)
+               │  (PR reviewed by Core Team)
                ▼
-         [ main ]           (PROTECTED — Production Data Warehouse)
+         [ main ]         (Central Data Warehouse)
 ```
 
-### Branch Rules:
-1. **`main` (Protected)**:
-   - Direct pushes and force pushes are strictly **BLOCKED**.
-   - Only receives code through approved Pull Requests from official `team-XX` branches.
-   - Only Core Team administrators have merge authority on `main`.
-2. **`team-01` through `team-10` (10 long-lived branches)**:
-   - Each team owns exactly one long-lived branch (`team-01`, `team-02`, etc.).
-   - Maintained by the respective Team Lead.
-3. **Student Branches (Short-lived)**:
-   - Named pattern: `t<team_no>-<name>-<task>` (e.g., `t01-ali-clean`, `t05-bilal-exams`).
-   - Created from `team-XX`, merged into `team-XX` via Team Lead review, then deleted.
+### Simple Rules:
+1. **1 Branch Per Team (`team-01` se `team-10`)**:
+   - Har team ke tamam members mil kar apni team ki branch (`team-XX`) par kaam karenge.
+   - Team ke andar koun kya karega, yeh Team Lead aur members aapas mein manage karenge.
+2. **Strict Folder Rule**:
+   - Apni branch par kaam karte waqt team sirf apne folder `teams/team-XX/` ke andar hi files banayegi ya modify karegi.
+3. **Merge into `main`**:
+   - Jab team ka kaam complete ho jaye, Team Lead `team-XX` se `main` branch ke liye **Pull Request (PR)** open karega.
+   - Core Team check karegi ke changes sirf `teams/team-XX/` ke andar hain, koi fazol files nahi hain, aur PR ko `main` mein merge kar degi.
 
 ---
 
