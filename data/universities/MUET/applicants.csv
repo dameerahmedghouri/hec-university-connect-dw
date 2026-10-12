@@ -1,0 +1,526 @@
+applicant_id,name,gender,dob,home_city,home_province,home_area_type,program_code,entry_test_marks,admission_date
+APP-MUET-10000,saad abbasi,m,08/04/2004,isb,Islamabad Capital Territory,urban,BSME,91.5,2022-09-10
+APP-MUET-10001,JAVERIA CHAUDHRY,FEMALE,2006-01-04,Peshawar,Khyber Pakhtunkhwa,Urban,BBA,69.2,11-Oct-2024
+APP-MUET-10002,farhan AHMED,M,04-Sep-2004,Multan,Punjab,Rural,BSSE,85.8,20/09/2022
+APP-MUET-10003,AYESHA zaman,Female ,11/10/2005,lhr,Punjab,Rural,BSCS,55.0,2024-10-11
+APP-MUET-10004, Tariq Ansari ,Male ,2003-04-14,quetta,Balochistan,Rural,BSCE,82.0,05-Oct-2022
+APP-MUET-10005,Fahad Farooq,male,26-Jul-2003,Quetta,Balochistan,Urban,BBA,52.0,07/09/2023
+APP-MUET-10006,naveed qureshi,MALE,03/11/2005,Islamabad,Islamabad Capital Territory,Urban,BSCE,86.1,2024-10-06
+APP-MUET-10007,ADEEL RAZA,male,2006-04-16,Sukkur,Sindh,Urban,BSCE,60.6,02-Aug-2024
+APP-MUET-10008,asad ZAMAN,M,25-Feb-2002,fsd,Punjab,rural,BSME,58.3,01/10/2022
+APP-MUET-10009,SOBIA zaman,F,26/03/2002,hyderabad,Sindh,Urban,BSME,91.5,2022-08-15
+APP-MUET-10010, Zubair Bhatti ,M,2005-12-28,FSD,Punjab,Rural,BSSE,91.0,06-Sep-2024
+APP-MUET-10011,Rabia Jatoi,FEMALE,08-May-2003,fsd,Punjab,Urban,BBA,63.8,23/08/2023
+APP-MUET-10012,farah raza,FEMALE,14/07/2005,isb,Islamabad Capital Territory,Rural,BSEE,58.6,2023-08-03
+APP-MUET-10013,BILAL SHEIKH,M,2005-07-28,Hyderabad,Sindh,Urban,BSME,72.5,10-Sep-2024
+APP-MUET-10014,shahzaib MUGHAL,Male,24-Jul-2006,Multan,Punjab,Rural,BBA,68.7,22/10/2024
+APP-MUET-10015,ALI mirza,M,09/01/2004,Hyderabad,Sindh,Urban,BSSE,70.4,2023-09-06
+APP-MUET-10016, Javeria Baloch ,FEMALE,2004-09-02,quetta,Balochistan,rural,BBA,55.5,24-Aug-2023
+APP-MUET-10017,Ahmed Chandio,male,04-Nov-2004,lhr,Punjab,Urban,BSEE,58.6,16/08/2022
+APP-MUET-10018,farhan chandio,M,22/10/2003,Karachi ,Sindh,Urban,BSEE,56.6,2022-08-10
+APP-MUET-10019,ASAD RAZA,male,2003-02-26,ISB,Islamabad Capital Territory,Urban,BSCE,85.2,20-Oct-2023
+APP-MUET-10020,khadija BAIG,F,04-Aug-2003,FSD,Punjab,Urban,BSCS,52.5,27/09/2022
+APP-MUET-10021,NAVEED zaman,M,25/09/2005,Lahore,Punjab,Urban,BSME,93.5,2023-09-20
+APP-MUET-10022, Waleed Baloch ,MALE,2005-11-13,pindi,Punjab,Rural,BSCS,84.3,20-Oct-2023
+APP-MUET-10023,Zubair Tariq,m,18-May-2003,Peshawar,Khyber Pakhtunkhwa,Rural,BSEE,64.0,23/10/2022
+APP-MUET-10024,usman butt,M,16/12/2004,fsd,Punjab,urban,BSME,62.3,2024-09-21
+APP-MUET-10025,RABIA ABBASI,Female ,2002-06-14,Sukkur,Sindh,Urban,BSEE,67.9,17-Oct-2022
+APP-MUET-10026,sadia QURESHI,Female ,18-Dec-2005,Rawalpindi,Punjab,Urban,BBA,83.0,04/09/2024
+APP-MUET-10027,KIRAN mughal,f,10/03/2003,PINDI,Punjab,Urban,BSCE,60.3,2022-08-12
+APP-MUET-10028, Waleed Ahmed ,MALE,2006-01-19,PINDI,Punjab,Urban,BSSE,79.4,04-Sep-2024
+APP-MUET-10029,Adeel Tariq,Male ,21-Oct-2005,Faisalabad,Punjab,Urban,BBA,54.8,03/09/2023
+APP-MUET-10030,zunaira niazi,female,08/10/2003,ISB,Islamabad Capital Territory,Urban,BSCS,84.9,2022-10-20
+APP-MUET-10031,JUNAID MEMON,Male,2003-04-21,Sukkur,Sindh,Urban,BSME,54.6,04-Oct-2023
+APP-MUET-10032,omer BUTT,m,10-Aug-2005,karachi,Sindh,urban,BSSE,69.6,20/10/2023
+APP-MUET-10033,NIMRA zaman,f,14/04/2003,isb,Islamabad Capital Territory,Rural,BSCS,86.0,2022-10-22
+APP-MUET-10034, Sana Mirza ,F,2005-10-10,karachi,Sindh,Urban,BSEE,86.1,24-Oct-2024
+APP-MUET-10035,Tariq Zaman,MALE,24-Jul-2003,FSD,Punjab,Urban,BBA,70.8,02/10/2022
+APP-MUET-10036,zainab butt,female,16/03/2004,Hyderabad,Sindh,Urban,BSSE,63.6,2024-08-25
+APP-MUET-10037,WALEED TARIQ,Male,2004-11-04,fsd,Punjab,Urban,BSME,67.0,11-Sep-2024
+APP-MUET-10038,atif MEMON,male,28-Jul-2003,HYD,Sindh,Rural,BSME,65.5,04/09/2023
+APP-MUET-10039,NAVEED siddiqui,MALE,07/01/2004,peshawar,Khyber Pakhtunkhwa,Urban,BSEE,73.4,2022-09-25
+APP-MUET-10040, Nimra Qureshi ,female,2004-03-10,Karachi ,Sindh,urban,BSME,78.2,23-Aug-2024
+APP-MUET-10041,Usman Butt,MALE,23-Sep-2004,Karachi ,Sindh,Urban,BSME,58.6,10/10/2022
+APP-MUET-10042,imran butt,m,28/03/2004,lahore,Punjab,Rural,BSSE,91.6,2023-10-24
+APP-MUET-10043,SHOAIB BALOCH,Male,2003-11-16,hyd,Sindh,Rural,BBA,64.8,19-Oct-2023
+APP-MUET-10044,kamran BALOCH,Male,13-Oct-2003,PEW,Khyber Pakhtunkhwa,Rural,BSSE,89.4,08/10/2023
+APP-MUET-10045,KIRAN mughal,female,05/01/2003,PEW,Khyber Pakhtunkhwa,Urban,BSME,87.3,2023-08-16
+APP-MUET-10046, Mariam Alvi ,FEMALE,2005-02-16,MUX,Punjab,Urban,BSCS,58.2,05-Oct-2024
+APP-MUET-10047,Babar Ghouri,male,02-Sep-2005,PEW,Khyber Pakhtunkhwa,Rural,BBA,82.9,28/09/2023
+APP-MUET-10048,kinza mirza,Female,15/02/2003,KHI,Sindh,rural,BSEE,84.7,2022-10-28
+APP-MUET-10049,FATIMA AHMED,Female ,2005-07-19,PINDI,Punjab,Rural,BSCS,70.5,17-Aug-2024
+APP-MUET-10050,zainab FAROOQ,FEMALE,15-May-2003,ISB,Islamabad Capital Territory,Rural,BSSE,58.2,21/09/2022
+APP-MUET-10051,ZUNAIRA qureshi,Female ,14/11/2005,LHR,Punjab,Urban,BSCE,92.6,2024-10-10
+APP-MUET-10052, Tariq Sheikh ,m,2004-12-10,Karachi,Sindh,Urban,BSME,76.6,10-Oct-2023
+APP-MUET-10053,Fatima Niazi,FEMALE,20-Apr-2004,hyderabad,Sindh,Urban,BSCE,73.4,25/09/2024
+APP-MUET-10054,farhan baig,M,26/05/2002,khi,Sindh,Urban,BSCE,90.8,2022-10-02
+APP-MUET-10055,HUSSAIN RAZA,MALE,2003-09-17,quetta,Balochistan,Urban,BBA,57.7,12-Oct-2022
+APP-MUET-10056,bakhtawar BHATTI,Female ,28-Apr-2003,SKR,Sindh,urban,BBA,93.4,25/08/2022
+APP-MUET-10057,BABAR bhatti,Male ,22/06/2004,KHI,Sindh,Rural,BBA,63.4,2024-08-15
+APP-MUET-10058, Laiba Jatoi ,Female,2004-06-20,Karachi,Sindh,Urban,BBA,72.3,18-Oct-2024
+APP-MUET-10059,Bakhtawar Qureshi,f,04-Aug-2004,quetta,Balochistan,Urban,BBA,53.9,10/08/2024
+APP-MUET-10060,hussain abbasi,M,27/02/2003,quetta,Balochistan,Urban,BBA,83.2,2022-09-21
+APP-MUET-10061,WALEED AHMED,male,2004-11-12,Islamabad,Islamabad Capital Territory,Rural,BBA,92.9,04-Sep-2024
+APP-MUET-10062,laiba CHAUDHRY,FEMALE,02-Jan-2006,MUX,Punjab,Urban,BSCS,61.1,20/10/2024
+APP-MUET-10063,DANIAL raza,Male,28/05/2002,Islamabad,Islamabad Capital Territory,Urban,BSEE,85.3,2022-10-01
+APP-MUET-10064, Fahad Shah ,Male,2002-06-01,khi,Sindh,urban,BSCS,86.0,19-Aug-2022
+APP-MUET-10065,Kiran Siddiqui,female,15-Feb-2003,karachi,Sindh,Rural,BSCS,85.5,19/10/2023
+APP-MUET-10066,ahmed laghari,Male ,14/07/2002,Sukkur,Sindh,Rural,BSSE,93.5,2022-08-16
+APP-MUET-10067,JUNAID RAZA,MALE,2004-09-23,lahore,Punjab,Urban,BBA,63.8,19-Oct-2022
+APP-MUET-10068,salman QURESHI,Male,24-Sep-2003,Multan,Punjab,Urban,BSSE,82.2,21/10/2023
+APP-MUET-10069,SHAHZAIB siddiqui,MALE,09/11/2004,Quetta,Balochistan,Rural,BSME,56.1,2023-09-11
+APP-MUET-10070, Imran Raza ,m,2004-03-18,KHI,Sindh,Rural,BSCS,84.0,26-Sep-2022
+APP-MUET-10071,Adeel Baig,MALE,20-May-2006,Peshawar,Khyber Pakhtunkhwa,Urban,BSME,70.2,02/10/2024
+APP-MUET-10072,sidra sheikh,FEMALE,25/02/2005,Faisalabad,Punjab,urban,BSCE,56.7,2023-10-12
+APP-MUET-10073,KHADIJA ALVI,Female ,2004-03-09,Hyderabad,Sindh,Urban,BSSE,87.7,01-Sep-2024
+APP-MUET-10074,kamran KHAN,Male,17-Dec-2005,Quetta,Balochistan,Urban,BSEE,83.9,03/08/2023
+APP-MUET-10075,ADEEL tariq,male,25/03/2004,sukkur,Sindh,Urban,BBA,55.7,2023-08-05
+APP-MUET-10076, Waleed Qureshi ,MALE,2002-09-04,fsd,Punjab,Urban,BSME,69.8,25-Aug-2022
+APP-MUET-10077,Kinza Baig,FEMALE,07-Jan-2003,Sukkur,Sindh,Urban,BSME,69.0,02/10/2023
+APP-MUET-10078,farhan memon,Male,23/09/2003,hyd,Sindh,Rural,BSCS,70.5,2022-08-13
+APP-MUET-10079,KAMRAN RAZA,M,2005-06-19,HYD,Sindh,Rural,BSCE,71.8,28-Aug-2024
+APP-MUET-10080,shoaib MEMON,m,12-Dec-2006,Hyderabad,Sindh,rural,BSME,86.5,15/10/2024
+APP-MUET-10081,NOMAN siddiqui,Male,25/06/2003,KHI,Sindh,Rural,BSME,65.3,2023-09-08
+APP-MUET-10082, Hassan Ansari ,m,2002-03-08,Peshawar,Khyber Pakhtunkhwa,Rural,BSEE,93.2,27-Oct-2022
+APP-MUET-10083,Hira Farooq,female,25-Oct-2004,karachi,Sindh,Urban,BSCE,79.0,25/09/2022
+APP-MUET-10084,zubair alvi,m,19/05/2003,lahore,Punjab,Rural,BBA,72.2,2023-10-10
+APP-MUET-10085,TARIQ QURESHI,male,2004-02-20,hyderabad,Sindh,Rural,BSCS,64.3,28-Oct-2023
+APP-MUET-10086,amna RAJPUT,f,05-Sep-2004,multan,Punjab,Urban,BSCS,60.1,16/10/2024
+APP-MUET-10087,SHANZAY jatoi,female,15/08/2004,KHI,Sindh,Urban,BSCE,59.4,2023-08-23
+APP-MUET-10088, Haris Soomro ,MALE,2005-06-03,quetta,Balochistan,rural,BSME,77.7,21-Oct-2024
+APP-MUET-10089,Kashif Memon,Male ,21-May-2003,lahore,Punjab,Rural,BSCE,77.1,12/08/2022
+APP-MUET-10090,samreen zaman,Female ,27/12/2006,PEW,Khyber Pakhtunkhwa,Urban,BBA,66.1,2024-08-22
+APP-MUET-10091,USMAN GHOURI,M,2004-06-25,FSD,Punjab,Rural,BSME,67.6,07-Aug-2024
+APP-MUET-10092,sana MALIK,FEMALE,22-Jan-2004,Karachi,Sindh,Urban,BBA,75.2,17/10/2022
+APP-MUET-10093,LAIBA malik,F,08/12/2006,LHR,Punjab,Urban,BSEE,53.9,2024-09-22
+APP-MUET-10094, Kiran Panhwar ,F,2005-11-19,ISB,Islamabad Capital Territory,Rural,BSEE,85.7,12-Aug-2024
+APP-MUET-10095,Kashif Ansari,MALE,16-Nov-2003,LHR,Punjab,Urban,BSME,78.0,02/09/2023
+APP-MUET-10096,hassan memon,M,27/04/2006,pindi,Punjab,rural,BSEE,58.3,2024-09-03
+APP-MUET-10097,SHOAIB AHMED,m,2004-01-11,peshawar,Khyber Pakhtunkhwa,Urban,BSSE,94.8,08-Sep-2023
+APP-MUET-10098,zaid MALIK,m,20-Aug-2006,Faisalabad,Punjab,Urban,BBA,58.0,16/10/2024
+APP-MUET-10099,MAHNOOR jatoi,F,08/01/2004,Multan,Punjab,Urban,BSSE,64.4,2022-09-04
+APP-MUET-10100, Naveed Raza ,m,2006-05-14,Hyderabad,Sindh,Urban,BSME,76.7,05-Oct-2024
+APP-MUET-10101,Amna Siddiqui,female,26-Sep-2006,KHI,Sindh,Urban,BSCE,54.9,18/10/2024
+APP-MUET-10102,komal mughal,Female,12/02/2006,PEW,Khyber Pakhtunkhwa,Rural,BSCE,84.1,2024-09-26
+APP-MUET-10103,SAAD CHANDIO,Male ,2004-11-06,SKR,Sindh,Urban,BSCE,67.1,27-Sep-2024
+APP-MUET-10104,imran GHOURI,Male,02-Apr-2005,karachi,Sindh,urban,BSEE,92.6,10/08/2023
+APP-MUET-10105,NIMRA ansari,f,28/06/2003,Faisalabad,Punjab,Rural,BSSE,84.4,2022-08-10
+APP-MUET-10106, Mariam Panhwar ,Female ,2005-03-16,Quetta,Balochistan,Urban,BSME,90.5,11-Sep-2024
+APP-MUET-10107,Zunaira Ansari,f,11-May-2004,Multan,Punjab,Urban,BSCS,77.9,18/08/2023
+APP-MUET-10108,nimra memon,FEMALE,28/12/2003,Multan,Punjab,Urban,BSSE,71.1,2022-09-02
+APP-MUET-10109,WALEED GHOURI,male,2006-01-05,Quetta,Balochistan,Rural,BSCS,86.4,06-Oct-2024
+APP-MUET-10110,ahmed MALIK,M,22-Mar-2006,peshawar,Khyber Pakhtunkhwa,Rural,BSEE,92.8,20/08/2024
+APP-MUET-10111,MEHWISH raza,Female,24/01/2003,peshawar,Khyber Pakhtunkhwa,Rural,BSEE,79.9,2023-08-04
+APP-MUET-10112, Hassan Chaudhry ,m,2004-02-05,multan,Punjab,urban,BSCE,64.3,07-Sep-2023
+APP-MUET-10113,Sadia Qureshi,Female,10-May-2005,sukkur,Sindh,Urban,BSCE,82.5,18/10/2023
+APP-MUET-10114,fahad panhwar,MALE,01/08/2005,isb,Islamabad Capital Territory,Urban,BSSE,86.1,2024-08-26
+APP-MUET-10115,NAVEED PANHWAR,M,2004-08-17,KHI,Sindh,Urban,BSEE,69.1,24-Oct-2024
+APP-MUET-10116,hamza MALIK,male,21-Sep-2004,karachi,Sindh,Rural,BSCE,81.2,05/09/2023
+APP-MUET-10117,HUSSAIN siddiqui,MALE,08/12/2002,Karachi ,Sindh,Urban,BSCS,65.1,2022-08-11
+APP-MUET-10118, Usman Chaudhry ,Male,2006-09-21,pindi,Punjab,Urban,BSCE,65.0,03-Oct-2024
+APP-MUET-10119,Zaid Tariq,male,21-Jan-2004,SKR,Sindh,Urban,BSSE,87.5,03/08/2024
+APP-MUET-10120,shoaib farooq,Male ,26/04/2003,fsd,Punjab,urban,BSCS,64.5,2023-09-16
+APP-MUET-10121,ZAINAB ZAMAN,Female ,2005-03-11,multan,Punjab,Rural,BSEE,72.0,20-Sep-2023
+APP-MUET-10122,kamran ABBASI,Male,15-May-2005,FSD,Punjab,Urban,BBA,65.7,04/09/2023
+APP-MUET-10123,NIMRA bhatti,Female,11/12/2003,quetta,Balochistan,Urban,BSSE,90.8,2022-09-19
+APP-MUET-10124, Naveed Mughal ,m,2003-10-12,Hyderabad,Sindh,Urban,BSME,73.7,07-Aug-2022
+APP-MUET-10125,Samreen Dar,Female ,09-Mar-2002,Faisalabad,Punjab,Rural,BSCE,52.4,14/08/2022
+APP-MUET-10126,haris ahmed,male,25/08/2004,lhr,Punjab,Rural,BSCS,64.4,2023-09-17
+APP-MUET-10127,HASSAN MALIK,M,2005-10-17,peshawar,Khyber Pakhtunkhwa,Rural,BSME,92.4,07-Aug-2023
+APP-MUET-10128,ayesha MALIK,FEMALE,20-Jun-2004,Faisalabad,Punjab,urban,BBA,58.4,05/10/2024
+APP-MUET-10129,SAMREEN laghari,F,10/10/2003,SKR,Sindh,Urban,BSSE,73.9,2022-09-23
+APP-MUET-10130, Kinza Shah ,Female ,2003-08-09,Sukkur,Sindh,Urban,BSSE,81.6,20-Aug-2022
+APP-MUET-10131,Bilal Niazi,Male,04-Dec-2005,PEW,Khyber Pakhtunkhwa,Urban,BSEE,81.3,19/08/2024
+APP-MUET-10132,shoaib malik,m,24/12/2003,Islamabad,Islamabad Capital Territory,Rural,BSCE,85.3,2022-09-28
+APP-MUET-10133,MAHNOOR RAJPUT,female,2005-09-11,Faisalabad,Punjab,Urban,BSCE,65.5,15-Aug-2024
+APP-MUET-10134,farhan FAROOQ,Male,23-May-2004,ISB,Islamabad Capital Territory,Rural,BSEE,64.8,25/09/2023
+APP-MUET-10135,ZUBAIR mughal,MALE,27/07/2005,pindi,Punjab,Rural,BSSE,76.7,2024-10-13
+APP-MUET-10136, Nimra Bhatti ,female,2002-04-27,Peshawar,Khyber Pakhtunkhwa,rural,BSCS,63.0,07-Sep-2022
+APP-MUET-10137,Waleed Malik,m,08-Nov-2005,ISB,Islamabad Capital Territory,Urban,BSSE,80.8,08/10/2023
+APP-MUET-10138,imran shah,MALE,07/11/2002,hyd,Sindh,Urban,BSEE,69.5,2022-09-16
+APP-MUET-10139,AYESHA MIRZA,Female,2005-07-27,isb,Islamabad Capital Territory,Urban,BSCE,83.1,06-Aug-2023
+APP-MUET-10140,babar PANHWAR,M,10-Jun-2003,PINDI,Punjab,Urban,BSEE,64.8,04/10/2022
+APP-MUET-10141,ATIF dar,Male ,15/12/2006,MUX,Punjab,Rural,BSSE,86.8,2024-09-06
+APP-MUET-10142, Muhammad Laghari ,MALE,2004-07-17,lhr,Punjab,Urban,BBA,88.8,27-Sep-2023
+APP-MUET-10143,Saad Tariq,MALE,11-May-2004,sukkur,Sindh,Urban,BSME,63.2,15/08/2022
+APP-MUET-10144,muhammad chaudhry,male,22/07/2004,ISB,Islamabad Capital Territory,urban,BBA,57.1,2024-09-06
+APP-MUET-10145,HASSAN GHOURI,M,2005-10-12,isb,Islamabad Capital Territory,Urban,BBA,72.6,24-Sep-2024
+APP-MUET-10146,imran CHANDIO,Male ,17-Aug-2004,Islamabad,Islamabad Capital Territory,Urban,BSCE,84.5,17/08/2024
+APP-MUET-10147,AMNA shah,f,15/09/2005,FSD,Punjab,Urban,BSSE,75.1,2023-08-11
+APP-MUET-10148, Amna Mughal ,female,2006-10-02,multan,Punjab,Urban,BSSE,57.7,15-Sep-2024
+APP-MUET-10149,Tariq Laghari,Male ,12-Jul-2005,Rawalpindi,Punjab,Urban,BSME,61.4,02/08/2023
+APP-MUET-10150,bilal mirza,Male ,24/11/2004,HYD,Sindh,Rural,BSME,59.7,2022-08-25
+APP-MUET-10151,SHANZAY ABBASI,FEMALE,2004-11-28,PEW,Khyber Pakhtunkhwa,Urban,BSME,93.5,05-Oct-2023
+APP-MUET-10152,farah ABBASI,female,24-Nov-2002,isb,Islamabad Capital Territory,urban,BSEE,53.0,15/09/2022
+APP-MUET-10153,SHAHZAIB butt,Male ,02/02/2004,lahore,Punjab,Rural,BBA,92.3,2023-10-25
+APP-MUET-10154, Ali Butt ,Male ,2005-01-08,Karachi,Sindh,Urban,BSCS,71.2,23-Oct-2023
+APP-MUET-10155,Shahzaib Rajput,male,19-Jun-2004,khi,Sindh,Urban,BSCS,62.1,19/10/2022
+APP-MUET-10156,noman memon,Male ,06/12/2006,isb,Islamabad Capital Territory,Rural,BSCE,63.8,2024-10-19
+APP-MUET-10157,ATIF AHMED,Male,2005-05-13,PEW,Khyber Pakhtunkhwa,Urban,BSCE,81.9,05-Sep-2024
+APP-MUET-10158,shahzaib MEMON,M,05-Sep-2004,MUX,Punjab,Urban,BSEE,69.7,18/09/2024
+APP-MUET-10159,JAVERIA ghouri,Female ,13/05/2004,peshawar,Khyber Pakhtunkhwa,Urban,BSME,83.2,2022-08-02
+APP-MUET-10160, Hamza Sheikh ,Male,2004-01-07,Islamabad,Islamabad Capital Territory,rural,BSCE,89.4,10-Sep-2024
+APP-MUET-10161,Mehwish Mughal,Female ,18-Aug-2006,Islamabad,Islamabad Capital Territory,Rural,BSCE,75.7,13/09/2024
+APP-MUET-10162,aimen ansari,F,11/06/2004,Karachi,Sindh,Urban,BSME,84.8,2023-09-07
+APP-MUET-10163,SHAHZAIB LAGHARI,MALE,2004-03-07,Rawalpindi,Punjab,Urban,BSCS,76.9,10-Sep-2022
+APP-MUET-10164,bakhtawar BUTT,F,16-Dec-2003,SKR,Sindh,Rural,BSSE,87.3,21/10/2022
+APP-MUET-10165,KAMRAN tariq,m,27/01/2004,fsd,Punjab,Urban,BSCE,94.6,2022-08-17
+APP-MUET-10166, Fatima Siddiqui ,f,2006-08-12,isb,Islamabad Capital Territory,Urban,BSCE,58.5,17-Aug-2024
+APP-MUET-10167,Imran Baig,male,09-Dec-2005,hyd,Sindh,Urban,BSCS,69.7,17/08/2024
+APP-MUET-10168,bakhtawar zaman,FEMALE,17/10/2003,Lahore,Punjab,urban,BSME,74.5,2023-08-07
+APP-MUET-10169,LAIBA RAZA,f,2004-11-27,MUX,Punjab,Urban,BSME,94.6,10-Aug-2023
+APP-MUET-10170,ahmed RAZA,M,03-Mar-2005,PEW,Khyber Pakhtunkhwa,Urban,BSME,54.4,23/08/2024
+APP-MUET-10171,ADEEL niazi,m,09/08/2005,HYD,Sindh,Urban,BSSE,90.8,2023-10-19
+APP-MUET-10172, Waleed Dar ,Male ,2002-03-25,HYD,Sindh,Urban,BSSE,65.5,19-Aug-2022
+APP-MUET-10173,Tariq Tariq,m,24-Dec-2003,PEW,Khyber Pakhtunkhwa,Urban,BSEE,66.3,05/10/2023
+APP-MUET-10174,kamran ahmed,MALE,25/07/2006,isb,Islamabad Capital Territory,Urban,BSME,78.0,2024-10-20
+APP-MUET-10175,JUNAID MUGHAL,male,2004-02-25,PEW,Khyber Pakhtunkhwa,Rural,BBA,81.2,13-Oct-2022
+APP-MUET-10176,hamza RAZA,m,12-Jun-2004,PEW,Khyber Pakhtunkhwa,urban,BSEE,79.3,13/10/2023
+APP-MUET-10177,NIMRA qureshi,F,17/09/2003,Karachi,Sindh,Urban,BBA,60.1,2022-09-18
+APP-MUET-10178, Aimen Rajput ,female,2004-02-24,sukkur,Sindh,Rural,BSSE,64.5,25-Sep-2022
+APP-MUET-10179,Omer Baig,MALE,14-Mar-2003,khi,Sindh,Rural,BSEE,63.5,03/08/2022
+APP-MUET-10180,zunaira raza,Female,04/08/2004,ISB,Islamabad Capital Territory,Urban,BBA,73.3,2023-10-07
+APP-MUET-10181,LAIBA BALOCH,FEMALE,2003-03-10,SKR,Sindh,Rural,BSME,70.5,20-Oct-2023
+APP-MUET-10182,asad MUGHAL,Male,26-Oct-2005,Quetta,Balochistan,Rural,BSEE,83.6,16/10/2024
+APP-MUET-10183,BAKHTAWAR panhwar,female,25/11/2004,Karachi ,Sindh,Urban,BBA,77.5,2023-10-06
+APP-MUET-10184, Naveed Bhatti ,Male ,2002-08-05,multan,Punjab,rural,BSEE,81.8,22-Sep-2022
+APP-MUET-10185,Kinza Malik,female,18-Jul-2003,PEW,Khyber Pakhtunkhwa,Urban,BSME,94.6,19/09/2023
+APP-MUET-10186,ahmed panhwar,male,21/03/2005,KHI,Sindh,Urban,BSCE,62.7,2024-10-12
+APP-MUET-10187,BABAR BHATTI,male,2003-09-18,Karachi,Sindh,Urban,BSME,63.1,24-Oct-2022
+APP-MUET-10188,junaid SOOMRO,m,14-May-2005,FSD,Punjab,Urban,BSME,94.9,04/09/2024
+APP-MUET-10189,ZAID soomro,Male ,24/08/2003,MUX,Punjab,Urban,BBA,72.8,2022-09-04
+APP-MUET-10190, Nimra Ahmed ,Female,2003-04-17,Hyderabad,Sindh,Rural,BSCS,56.7,24-Aug-2023
+APP-MUET-10191,Farah Siddiqui,Female ,01-Jul-2005,Quetta,Balochistan,Urban,BSEE,60.0,14/10/2024
+APP-MUET-10192,junaid niazi,m,19/02/2005,hyd,Sindh,urban,BSME,60.8,2024-10-26
+APP-MUET-10193,JAVERIA SHEIKH,female,2005-10-13,Rawalpindi,Punjab,Urban,BSCS,73.0,11-Oct-2024
+APP-MUET-10194,kamran SOOMRO,Male,22-Feb-2004,Lahore,Punjab,Urban,BSSE,86.4,19/10/2023
+APP-MUET-10195,NIMRA shah,Female,14/07/2005,lahore,Punjab,Urban,BBA,70.0,2023-08-19
+APP-MUET-10196, Fahad Rajput ,MALE,2005-01-28,PINDI,Punjab,Urban,BSME,65.5,20-Sep-2023
+APP-MUET-10197,Asad Jatoi,M,27-Dec-2003,FSD,Punjab,Urban,BSSE,69.6,14/09/2022
+APP-MUET-10198,amna khan,Female ,19/08/2005,HYD,Sindh,Rural,BBA,75.1,2023-08-25
+APP-MUET-10199,HASSAN NIAZI,M,2005-09-07,peshawar,Khyber Pakhtunkhwa,Urban,BBA,84.5,15-Oct-2023
+APP-MUET-10200,noman MEMON,Male,25-Feb-2004,Rawalpindi,Punjab,rural,BSME,87.1,28/09/2022
+APP-MUET-10201,KAMRAN alvi,m,26/04/2002,Multan,Punjab,Urban,BSSE,58.0,2022-08-27
+APP-MUET-10202, Iqra Farooq ,f,2004-09-22,sukkur,Sindh,Urban,BSEE,64.4,28-Sep-2024
+APP-MUET-10203,Shoaib Mirza,Male,27-Jun-2004,khi,Sindh,Urban,BBA,57.7,23/08/2022
+APP-MUET-10204,sana niazi,FEMALE,24/09/2004,quetta,Balochistan,Rural,BBA,55.2,2024-08-13
+APP-MUET-10205,HARIS QURESHI,MALE,2005-11-23,hyd,Sindh,Urban,BBA,83.4,21-Sep-2024
+APP-MUET-10206,babar SHEIKH,male,05-Oct-2003,fsd,Punjab,Rural,BSEE,87.6,18/09/2022
+APP-MUET-10207,BILAL ahmed,M,01/08/2005,MUX,Punjab,Urban,BSCE,92.0,2023-08-15
+APP-MUET-10208, Hussain Dar ,Male ,2002-06-22,LHR,Punjab,rural,BBA,80.1,03-Sep-2022
+APP-MUET-10209,Sumaira Memon,f,16-Apr-2002,isb,Islamabad Capital Territory,Rural,BSCE,55.9,01/08/2022
+APP-MUET-10210,junaid khan,M,08/02/2004,SKR,Sindh,Urban,BSCE,70.2,2022-08-16
+APP-MUET-10211,SAAD SHAH,m,2003-11-05,Sukkur,Sindh,Urban,BBA,85.3,21-Aug-2022
+APP-MUET-10212,omer QURESHI,Male,15-Nov-2005,Islamabad,Islamabad Capital Territory,Urban,BSCE,58.5,20/09/2024
+APP-MUET-10213,HUSSAIN chandio,m,21/05/2004,PEW,Khyber Pakhtunkhwa,Rural,BSSE,65.5,2022-08-08
+APP-MUET-10214, Salman Chandio ,Male ,2002-07-10,Sukkur,Sindh,Urban,BSCS,78.1,24-Aug-2022
+APP-MUET-10215,Noman Mughal,Male,11-Jun-2003,ISB,Islamabad Capital Territory,Rural,BSCS,77.5,01/10/2022
+APP-MUET-10216,shoaib soomro,Male,09/01/2003,Lahore,Punjab,rural,BSCE,55.1,2023-10-03
+APP-MUET-10217,BABAR ANSARI,male,2003-09-18,FSD,Punjab,Rural,BSCE,82.2,21-Aug-2022
+APP-MUET-10218,nimra RAZA,Female ,22-Nov-2002,lahore,Punjab,Urban,BSEE,68.8,25/10/2022
+APP-MUET-10219,KHADIJA laghari,Female ,10/01/2004,ISB,Islamabad Capital Territory,Urban,BSCS,57.0,2022-10-20
+APP-MUET-10220, Fahad Shah ,Male ,2006-09-26,khi,Sindh,Urban,BSCE,59.0,17-Sep-2024
+APP-MUET-10221,Sana Laghari,Female ,09-Feb-2004,Karachi ,Sindh,Urban,BSCE,86.7,17/09/2023
+APP-MUET-10222,atif qureshi,m,25/05/2004,hyderabad,Sindh,Rural,BBA,76.4,2024-09-06
+APP-MUET-10223,HASSAN BUTT,M,2004-08-12,hyd,Sindh,Urban,BSSE,89.1,02-Aug-2024
+APP-MUET-10224,sobia ALVI,f,27-May-2004,quetta,Balochistan,urban,BSSE,62.7,11/10/2022
+APP-MUET-10225,SIDRA baig,FEMALE,25/05/2006,isb,Islamabad Capital Territory,Urban,BSEE,93.0,2024-08-15
+APP-MUET-10226, Anum Khan ,female,2004-08-12,PINDI,Punjab,Urban,BSEE,65.1,08-Oct-2023
+APP-MUET-10227,Asad Laghari,Male ,27-Nov-2003,lahore,Punjab,Urban,BSEE,53.0,12/10/2023
+APP-MUET-10228,muhammad chandio,Male,02/08/2002,Sukkur,Sindh,Urban,BSME,74.8,2022-08-14
+APP-MUET-10229,AYESHA MIRZA,female,2006-10-04,quetta,Balochistan,Urban,BSSE,71.7,03-Oct-2024
+APP-MUET-10230,babar RAZA,MALE,28-May-2002,hyderabad,Sindh,Rural,BSSE,93.5,10/08/2022
+APP-MUET-10231,ZUBAIR baloch,Male,04/03/2004,isb,Islamabad Capital Territory,Urban,BBA,57.9,2023-10-04
+APP-MUET-10232, Shoaib Shah ,Male ,2003-03-26,Islamabad,Islamabad Capital Territory,rural,BBA,71.9,03-Aug-2023
+APP-MUET-10233,Ahmed Sheikh,MALE,22-Jan-2004,KHI,Sindh,Urban,BSEE,93.6,17/09/2023
+APP-MUET-10234,fahad khan,Male,02/01/2004,ISB,Islamabad Capital Territory,Urban,BSME,56.4,2023-08-04
+APP-MUET-10235,LAIBA SOOMRO,Female ,2002-02-07,KHI,Sindh,Urban,BSCE,63.1,01-Aug-2022
+APP-MUET-10236,usman DAR,M,13-Dec-2004,HYD,Sindh,Rural,BSCS,59.2,14/10/2023
+APP-MUET-10237,KHADIJA tariq,female,20/10/2003,Lahore,Punjab,Rural,BSEE,71.2,2022-08-02
+APP-MUET-10238, Atif Siddiqui ,male,2002-11-26,hyderabad,Sindh,Urban,BSME,68.5,07-Sep-2022
+APP-MUET-10239,Ali Abbasi,MALE,13-Jun-2002,Faisalabad,Punjab,Urban,BBA,72.8,17/10/2022
+APP-MUET-10240,samreen butt,Female,04/03/2004,hyderabad,Sindh,rural,BBA,67.4,2022-10-08
+APP-MUET-10241,FARAH JATOI,Female,2004-03-06,isb,Islamabad Capital Territory,Urban,BSCS,94.3,12-Sep-2024
+APP-MUET-10242,kiran ZAMAN,Female,19-Mar-2005,Hyderabad,Sindh,Urban,BSSE,67.1,19/10/2024
+APP-MUET-10243,FAHAD mughal,male,11/01/2005,hyderabad,Sindh,Urban,BSCS,61.4,2023-10-16
+APP-MUET-10244, Adeel Zaman ,male,2004-02-28,hyderabad,Sindh,Urban,BBA,77.2,25-Aug-2022
+APP-MUET-10245,Haris Zaman,Male ,26-Jul-2003,Karachi,Sindh,Rural,BSME,65.9,24/08/2023
+APP-MUET-10246,fahad zaman,Male ,24/05/2003,Peshawar,Khyber Pakhtunkhwa,Urban,BSCE,77.3,2023-08-13
+APP-MUET-10247,KIRAN KHAN,Female ,2003-10-08,Quetta,Balochistan,Urban,BSSE,59.8,26-Sep-2023
+APP-MUET-10248,bushra MALIK,Female ,27-Feb-2005,karachi,Sindh,urban,BSCE,94.2,21/08/2024
+APP-MUET-10249,ADEEL qureshi,m,24/02/2006,Islamabad,Islamabad Capital Territory,Urban,BBA,54.9,2024-09-26
+APP-MUET-10250, Kiran Siddiqui ,female,2004-08-26,fsd,Punjab,Rural,BSME,75.5,27-Aug-2022
+APP-MUET-10251,Shahzaib Tariq,M,06-Jun-2005,HYD,Sindh,Rural,BSCS,65.7,03/08/2024
+APP-MUET-10252,usman baloch,Male,14/10/2002,Faisalabad,Punjab,Urban,BSSE,70.5,2022-10-06
+APP-MUET-10253,MAHNOOR SHEIKH,female,2003-07-19,Rawalpindi,Punjab,Urban,BSCE,64.8,02-Aug-2022
+APP-MUET-10254,aimen KHAN,Female,07-Jan-2004,PINDI,Punjab,Urban,BSCS,77.8,04/08/2023
+APP-MUET-10255,ZAINAB mughal,F,18/11/2006,Quetta,Balochistan,Rural,BBA,90.5,2024-09-03
+APP-MUET-10256, Laiba Soomro ,f,2004-05-19,HYD,Sindh,rural,BSME,72.0,27-Aug-2022
+APP-MUET-10257,Saad Raza,male,14-Sep-2002,quetta,Balochistan,Urban,BBA,75.8,27/09/2022
+APP-MUET-10258,imran niazi,male,19/09/2006,Sukkur,Sindh,Urban,BSME,90.8,2024-10-02
+APP-MUET-10259,ZAID SHAH,M,2005-02-22,LHR,Punjab,Urban,BSEE,60.3,14-Aug-2024
+APP-MUET-10260,zaid JATOI,MALE,18-Jul-2002,sukkur,Sindh,Urban,BBA,54.9,18/09/2022
+APP-MUET-10261,MUHAMMAD panhwar,m,25/10/2003,quetta,Balochistan,Urban,BSSE,58.4,2023-10-19
+APP-MUET-10262, Saad Panhwar ,m,2003-10-16,Peshawar,Khyber Pakhtunkhwa,Rural,BSSE,68.5,19-Sep-2022
+APP-MUET-10263,Sana Farooq,Female ,02-Apr-2002,Quetta,Balochistan,Urban,BSCE,90.3,23/09/2022
+APP-MUET-10264,haris khan,Male,28/02/2004,Sukkur,Sindh,rural,BBA,73.1,2023-10-22
+APP-MUET-10265,KIRAN QURESHI,F,2003-07-24,quetta,Balochistan,Urban,BBA,55.8,07-Sep-2022
+APP-MUET-10266,bilal ANSARI,Male,06-Jan-2006,Sukkur,Sindh,Urban,BSCS,69.3,19/10/2024
+APP-MUET-10267,NOMAN ahmed,m,21/07/2003,peshawar,Khyber Pakhtunkhwa,Urban,BSCS,63.8,2022-09-17
+APP-MUET-10268, Aimen Mughal ,Female ,2004-05-24,Lahore,Punjab,Rural,BSME,75.7,06-Sep-2024
+APP-MUET-10269,Laiba Ahmed,female,14-Nov-2004,Islamabad,Islamabad Capital Territory,Urban,BSSE,61.7,09/08/2022
+APP-MUET-10270,muhammad mughal,Male ,23/05/2004,Lahore,Punjab,Urban,BSCE,52.4,2022-09-20
+APP-MUET-10271,SHANZAY ABBASI,female,2005-10-13,Rawalpindi,Punjab,Urban,BSME,65.0,27-Oct-2024
+APP-MUET-10272,kinza BHATTI,FEMALE,21-May-2003,PINDI,Punjab,rural,BSSE,56.6,11/08/2022
+APP-MUET-10273,SADIA bhatti,Female ,13/10/2003,lhr,Punjab,Urban,BBA,84.9,2023-08-26
+APP-MUET-10274, Ali Ghouri ,Male,2004-12-19,Rawalpindi,Punjab,Rural,BBA,68.7,19-Aug-2023
+APP-MUET-10275,Shahzaib Baig,Male,18-Nov-2003,Faisalabad,Punjab,Urban,BSCE,73.8,27/08/2023
+APP-MUET-10276,sana laghari,FEMALE,24/04/2004,Lahore,Punjab,Urban,BSCE,80.1,2023-08-12
+APP-MUET-10277,ADEEL SOOMRO,male,2004-11-19,PINDI,Punjab,Rural,BSSE,57.1,28-Aug-2023
+APP-MUET-10278,shanzay SHEIKH,F,11-Apr-2004,PEW,Khyber Pakhtunkhwa,Urban,BSCS,69.8,05/08/2024
+APP-MUET-10279,NAVEED malik,m,02/11/2005,Lahore,Punjab,Urban,BSCE,66.3,2024-08-11
+APP-MUET-10280, Mehwish Chandio ,Female ,2005-10-14,LHR,Punjab,rural,BSSE,84.8,05-Aug-2023
+APP-MUET-10281,Imran Abbasi,m,07-Sep-2005,lhr,Punjab,Urban,BSCS,92.9,25/09/2023
+APP-MUET-10282,kiran butt,f,06/05/2006,Peshawar,Khyber Pakhtunkhwa,Rural,BSCE,56.4,2024-10-19
+APP-MUET-10283,NIMRA QURESHI,Female,2002-06-25,SKR,Sindh,Rural,BSSE,94.8,16-Sep-2022
+APP-MUET-10284,babar KHAN,Male ,12-Feb-2004,khi,Sindh,Urban,BSEE,52.9,06/10/2022
+APP-MUET-10285,KASHIF dar,Male ,02/01/2004,hyderabad,Sindh,Urban,BBA,80.5,2024-10-27
+APP-MUET-10286, Kashif Shah ,M,2002-01-10,Faisalabad,Punjab,Urban,BBA,60.8,21-Oct-2022
+APP-MUET-10287,Sidra Chaudhry,FEMALE,04-Oct-2004,khi,Sindh,Rural,BSSE,90.6,24/10/2024
+APP-MUET-10288,atif sheikh,male,02/03/2002,Rawalpindi,Punjab,urban,BSEE,67.4,2022-09-10
+APP-MUET-10289,IMRAN BALOCH,m,2005-08-05,hyd,Sindh,Urban,BSCS,91.0,22-Oct-2023
+APP-MUET-10290,kiran SHAH,f,28-Mar-2005,isb,Islamabad Capital Territory,Rural,BSCE,63.4,04/08/2024
+APP-MUET-10291,KINZA baloch,Female ,22/03/2004,Karachi ,Sindh,Urban,BSCE,84.6,2023-08-01
+APP-MUET-10292, Shanzay Qureshi ,FEMALE,2002-07-15,KHI,Sindh,Rural,BBA,66.7,13-Aug-2022
+APP-MUET-10293,Imran Panhwar,M,04-Mar-2004,LHR,Punjab,Urban,BSCE,81.9,28/08/2023
+APP-MUET-10294,junaid tariq,m,16/08/2004,Peshawar,Khyber Pakhtunkhwa,Urban,BSME,89.1,2024-10-05
+APP-MUET-10295,HAMZA CHAUDHRY,Male,2003-12-19,hyd,Sindh,Urban,BBA,81.2,19-Oct-2023
+APP-MUET-10296,saad SIDDIQUI,male,27-Mar-2004,ISB,Islamabad Capital Territory,rural,BSCE,80.5,13/10/2024
+APP-MUET-10297,SUMAIRA mirza,FEMALE,11/04/2006,Faisalabad,Punjab,Rural,BSSE,59.1,2024-09-11
+APP-MUET-10298, Kashif Abbasi ,MALE,2004-08-15,MUX,Punjab,Rural,BSCS,76.6,28-Aug-2022
+APP-MUET-10299,Ali Shah,Male ,20-Oct-2003,HYD,Sindh,Urban,BSME,52.0,26/08/2022
+APP-MUET-10300,danial ghouri,male,11/08/2003,SKR,Sindh,Rural,BSME,54.3,2023-08-28
+APP-MUET-10301,HARIS ZAMAN,MALE,2005-11-26,Karachi,Sindh,Urban,BSCS,52.1,27-Sep-2024
+APP-MUET-10302,saad AHMED,Male,07-Oct-2006,khi,Sindh,Urban,BSME,83.0,09/08/2024
+APP-MUET-10303,BABAR sheikh,m,19/11/2003,SKR,Sindh,Urban,BSEE,69.8,2022-10-27
+APP-MUET-10304, Hussain Bhatti ,male,2004-03-23,hyderabad,Sindh,urban,BSCS,88.1,17-Sep-2023
+APP-MUET-10305,Hussain Shah,M,09-Apr-2003,sukkur,Sindh,Urban,BSCE,70.0,23/10/2022
+APP-MUET-10306,junaid panhwar,MALE,18/12/2005,quetta,Balochistan,Urban,BSEE,90.1,2023-10-10
+APP-MUET-10307,DANIAL SHEIKH,male,2006-11-06,PINDI,Punjab,Urban,BSSE,91.6,23-Aug-2024
+APP-MUET-10308,zubair ZAMAN,male,24-Nov-2006,Faisalabad,Punjab,Urban,BBA,92.5,14/10/2024
+APP-MUET-10309,ARSALAN panhwar,Male,09/04/2005,Karachi,Sindh,Urban,BSSE,58.2,2023-10-02
+APP-MUET-10310, Zaid Jatoi ,male,2005-08-04,PINDI,Punjab,Urban,BSCE,75.3,27-Sep-2023
+APP-MUET-10311,Shahzaib Laghari,m,22-Dec-2004,PEW,Khyber Pakhtunkhwa,Urban,BSSE,85.7,10/10/2024
+APP-MUET-10312,sobia panhwar,Female,27/08/2003,hyderabad,Sindh,urban,BBA,62.8,2023-10-28
+APP-MUET-10313,HARIS CHANDIO,Male,2004-02-06,lhr,Punjab,Urban,BSSE,64.6,22-Aug-2024
+APP-MUET-10314,kashif AHMED,Male ,15-Jun-2005,Rawalpindi,Punjab,Urban,BBA,77.1,01/09/2024
+APP-MUET-10315,NADIA baloch,female,11/12/2002,Sukkur,Sindh,Rural,BSCS,76.6,2022-09-03
+APP-MUET-10316, Hamza Panhwar ,MALE,2002-04-22,quetta,Balochistan,Urban,BSEE,69.3,08-Sep-2022
+APP-MUET-10317,Mahnoor Bhatti,FEMALE,22-Feb-2003,Faisalabad,Punjab,Urban,BSSE,84.3,01/10/2023
+APP-MUET-10318,sumaira farooq,Female ,18/05/2003,HYD,Sindh,Urban,BSEE,68.4,2023-08-13
+APP-MUET-10319,SIDRA JATOI,f,2004-06-17,FSD,Punjab,Rural,BSSE,53.9,07-Oct-2023
+APP-MUET-10320,sobia CHANDIO,Female ,28-Apr-2002,hyd,Sindh,urban,BSSE,61.1,25/10/2022
+APP-MUET-10321,DANIAL rajput,M,01/03/2003,Multan,Punjab,Urban,BSCE,92.4,2023-10-22
+APP-MUET-10322, Zainab Raza ,F,2006-07-13,Rawalpindi,Punjab,Urban,BSEE,76.7,09-Aug-2024
+APP-MUET-10323,Zubair Khan,m,19-Dec-2005,Karachi ,Sindh,Urban,BSCE,79.6,03/10/2024
+APP-MUET-10324,kamran mirza,M,13/08/2004,PINDI,Punjab,Urban,BSCS,78.1,2024-09-25
+APP-MUET-10325,HIRA RAJPUT,Female ,2006-11-26,Quetta,Balochistan,Urban,BSEE,93.3,10-Aug-2024
+APP-MUET-10326,sobia KHAN,f,18-Sep-2004,lahore,Punjab,Urban,BSSE,52.2,13/10/2024
+APP-MUET-10327,KIRAN dar,female,08/03/2003,Islamabad,Islamabad Capital Territory,Rural,BBA,88.6,2023-08-06
+APP-MUET-10328, Hira Baig ,Female,2003-05-04,MUX,Punjab,urban,BSCS,55.1,03-Oct-2023
+APP-MUET-10329,Adeel Soomro,MALE,15-Aug-2006,ISB,Islamabad Capital Territory,Urban,BSCE,78.6,11/08/2024
+APP-MUET-10330,zaid niazi,Male ,23/04/2004,sukkur,Sindh,Rural,BBA,52.2,2024-08-26
+APP-MUET-10331,HARIS MALIK,Male,2004-09-04,SKR,Sindh,Rural,BSCE,71.2,16-Sep-2024
+APP-MUET-10332,waleed ALVI,male,01-Feb-2006,lhr,Punjab,Rural,BSSE,90.1,24/08/2024
+APP-MUET-10333,AMNA niazi,Female,25/11/2005,Islamabad,Islamabad Capital Territory,Urban,BSSE,63.2,2024-10-16
+APP-MUET-10334, Shanzay Chandio ,f,2003-06-17,PINDI,Punjab,Urban,BSCE,73.5,13-Aug-2023
+APP-MUET-10335,Sobia Panhwar,Female,22-Oct-2004,LHR,Punjab,Urban,BSCE,71.2,19/08/2024
+APP-MUET-10336,kamran ahmed,MALE,17/04/2006,isb,Islamabad Capital Territory,urban,BSME,67.9,2024-08-22
+APP-MUET-10337,NAVEED DAR,Male ,2005-05-27,sukkur,Sindh,Urban,BSCS,93.6,27-Oct-2023
+APP-MUET-10338,fahad ABBASI,Male,13-May-2003,peshawar,Khyber Pakhtunkhwa,Urban,BSME,90.6,17/08/2023
+APP-MUET-10339,KAMRAN mughal,MALE,21/09/2005,hyd,Sindh,Urban,BSSE,70.9,2024-08-03
+APP-MUET-10340, Hira Soomro ,Female ,2002-02-16,Karachi ,Sindh,Urban,BSCE,69.8,24-Sep-2022
+APP-MUET-10341,Omer Ghouri,m,17-Nov-2004,ISB,Islamabad Capital Territory,Urban,BSCS,76.7,05/08/2023
+APP-MUET-10342,hira chaudhry,FEMALE,27/11/2006,Quetta,Balochistan,Urban,BSSE,79.4,2024-10-24
+APP-MUET-10343,SAMREEN MUGHAL,Female ,2003-03-20,isb,Islamabad Capital Territory,Rural,BSEE,58.1,27-Oct-2022
+APP-MUET-10344,kiran BAIG,female,17-Apr-2005,karachi,Sindh,urban,BSME,68.6,01/08/2024
+APP-MUET-10345,ZAID farooq,M,03/02/2006,Faisalabad,Punjab,Urban,BSEE,53.7,2024-10-17
+APP-MUET-10346, Samreen Rajput ,Female,2006-09-14,Multan,Punjab,Urban,BSCE,67.9,23-Aug-2024
+APP-MUET-10347,Kashif Soomro,male,10-Feb-2003,Karachi,Sindh,Rural,BSCE,62.9,28/08/2023
+APP-MUET-10348,asad khan,Male ,07/11/2004,hyd,Sindh,Urban,BSCE,57.1,2024-08-13
+APP-MUET-10349,SAAD MALIK,Male ,2004-10-09,Rawalpindi,Punjab,Rural,BSCE,75.1,12-Oct-2023
+APP-MUET-10350,shoaib RAJPUT,Male ,12-Oct-2003,Lahore,Punjab,Rural,BSME,75.9,10/09/2023
+APP-MUET-10351,HASSAN laghari,Male ,20/09/2005,LHR,Punjab,Urban,BSME,73.9,2023-09-26
+APP-MUET-10352, Omer Abbasi ,Male,2004-02-09,KHI,Sindh,urban,BSCS,91.8,03-Sep-2024
+APP-MUET-10353,Ayesha Laghari,f,15-Aug-2004,PINDI,Punjab,Urban,BSME,54.5,21/08/2023
+APP-MUET-10354,salman sheikh,Male,12/01/2004,FSD,Punjab,Urban,BSSE,62.0,2022-08-22
+APP-MUET-10355,HIRA RAZA,Female ,2005-01-24,Peshawar,Khyber Pakhtunkhwa,Urban,BSME,69.4,17-Aug-2024
+APP-MUET-10356,salman LAGHARI,male,13-Aug-2002,Peshawar,Khyber Pakhtunkhwa,Rural,BSSE,63.9,07/10/2022
+APP-MUET-10357,KHADIJA ansari,female,09/09/2004,karachi,Sindh,Urban,BSSE,66.6,2022-08-26
+APP-MUET-10358, Anum Bhatti ,f,2005-08-19,Faisalabad,Punjab,Urban,BSSE,66.6,22-Sep-2024
+APP-MUET-10359,Zainab Abbasi,FEMALE,23-Jan-2003,isb,Islamabad Capital Territory,Rural,BSEE,93.1,18/10/2023
+APP-MUET-10360,laiba baig,Female,09/10/2002,karachi,Sindh,urban,BBA,72.5,2022-09-07
+APP-MUET-10361,ASAD MUGHAL,Male,2004-04-27,ISB,Islamabad Capital Territory,Urban,BSEE,89.5,08-Aug-2024
+APP-MUET-10362,mehwish SHAH,female,12-Aug-2006,fsd,Punjab,Urban,BSCS,84.9,02/10/2024
+APP-MUET-10363,WALEED mughal,M,26/09/2005,pindi,Punjab,Rural,BSSE,84.3,2023-08-02
+APP-MUET-10364, Ahmed Ansari ,m,2004-12-01,Lahore,Punjab,Rural,BSME,82.0,11-Sep-2023
+APP-MUET-10365,Amna Shah,FEMALE,11-Oct-2005,Rawalpindi,Punjab,Urban,BBA,63.3,16/09/2024
+APP-MUET-10366,danial siddiqui,Male,22/10/2002,peshawar,Khyber Pakhtunkhwa,Rural,BBA,71.4,2022-10-05
+APP-MUET-10367,NOMAN RAJPUT,M,2003-01-06,lhr,Punjab,Urban,BSME,93.2,16-Aug-2022
+APP-MUET-10368,shanzay ALVI,Female ,04-Jul-2003,sukkur,Sindh,rural,BSSE,62.8,02/10/2023
+APP-MUET-10369,BAKHTAWAR chaudhry,FEMALE,18/09/2003,Karachi,Sindh,Rural,BSCE,66.4,2022-09-12
+APP-MUET-10370, Mariam Soomro ,FEMALE,2003-05-12,lhr,Punjab,Urban,BSSE,79.9,06-Oct-2023
+APP-MUET-10371,Junaid Dar,Male ,14-Jun-2006,PINDI,Punjab,Rural,BSME,93.1,21/08/2024
+APP-MUET-10372,hamza raza,M,21/10/2006,isb,Islamabad Capital Territory,Rural,BBA,80.1,2024-10-09
+APP-MUET-10373,HARIS LAGHARI,Male ,2003-12-08,multan,Punjab,Rural,BSSE,59.9,05-Aug-2023
+APP-MUET-10374,usman SHEIKH,M,01-Jan-2005,Karachi,Sindh,Urban,BSME,92.3,18/09/2023
+APP-MUET-10375,USMAN shah,Male ,08/04/2005,lahore,Punjab,Urban,BSSE,92.1,2024-09-10
+APP-MUET-10376, Hussain Malik ,male,2003-08-15,Hyderabad,Sindh,urban,BSEE,67.3,28-Sep-2023
+APP-MUET-10377,Hussain Bhatti,male,14-Oct-2003,Lahore,Punjab,Urban,BSSE,71.6,21/10/2023
+APP-MUET-10378,tariq mirza,m,10/03/2005,isb,Islamabad Capital Territory,Urban,BSME,65.2,2024-09-09
+APP-MUET-10379,HUSSAIN SOOMRO,M,2003-01-25,hyd,Sindh,Urban,BSME,92.7,10-Sep-2022
+APP-MUET-10380,muhammad RAJPUT,M,21-Dec-2004,quetta,Balochistan,Urban,BSEE,69.0,23/08/2023
+APP-MUET-10381,ZAINAB siddiqui,f,28/04/2003,pindi,Punjab,Rural,BSEE,83.9,2023-09-14
+APP-MUET-10382, Mariam Ghouri ,f,2003-01-05,multan,Punjab,Rural,BSSE,78.8,11-Aug-2022
+APP-MUET-10383,Mariam Memon,FEMALE,07-Aug-2005,multan,Punjab,Urban,BSEE,62.0,01/08/2024
+APP-MUET-10384,zunaira mughal,F,25/05/2004,HYD,Sindh,rural,BSME,88.3,2023-08-02
+APP-MUET-10385,FAHAD SHEIKH,Male ,2003-08-08,hyd,Sindh,Urban,BSME,82.7,25-Sep-2022
+APP-MUET-10386,kiran CHANDIO,Female ,21-Mar-2004,Islamabad,Islamabad Capital Territory,Rural,BSSE,81.3,11/09/2022
+APP-MUET-10387,HASSAN chaudhry,Male ,08/02/2003,Sukkur,Sindh,Urban,BSCE,90.2,2022-10-07
+APP-MUET-10388, Hira Panhwar ,Female ,2004-12-16,Karachi ,Sindh,Rural,BSSE,62.5,19-Aug-2023
+APP-MUET-10389,Mehwish Raza,Female ,12-Jan-2006,fsd,Punjab,Urban,BSEE,78.6,02/10/2024
+APP-MUET-10390,saad malik,Male,24/08/2003,sukkur,Sindh,Urban,BSEE,79.7,2022-09-26
+APP-MUET-10391,KAMRAN LAGHARI,Male,2004-12-16,HYD,Sindh,Rural,BBA,70.8,18-Sep-2022
+APP-MUET-10392,aimen BALOCH,FEMALE,15-Mar-2004,pindi,Punjab,urban,BSME,75.8,17/08/2024
+APP-MUET-10393,NAVEED khan,male,25/06/2003,PEW,Khyber Pakhtunkhwa,Urban,BSSE,90.0,2023-10-28
+APP-MUET-10394, Zainab Baig ,FEMALE,2002-10-10,lhr,Punjab,Urban,BSME,73.4,05-Oct-2022
+APP-MUET-10395,Hassan Shah,m,07-Jan-2003,karachi,Sindh,Urban,BSCE,92.3,28/08/2023
+APP-MUET-10396,ayesha niazi,female,08/06/2003,fsd,Punjab,Urban,BSME,82.2,2023-09-02
+APP-MUET-10397,NADIA MIRZA,F,2006-09-24,fsd,Punjab,Urban,BSCE,86.4,12-Aug-2024
+APP-MUET-10398,bilal JATOI,m,04-Sep-2003,HYD,Sindh,Urban,BBA,87.9,07/08/2023
+APP-MUET-10399,LAIBA sheikh,Female ,14/09/2006,ISB,Islamabad Capital Territory,Urban,BSSE,92.7,2024-10-24
+APP-MUET-20000,sumaira NIAZI,f,22/12/2004,Multan,Punjab,Urban,BSEE,38.7,15/10/2023
+APP-MUET-20001,JUNAID mirza,M,2004-06-28,peshawar,Khyber Pakhtunkhwa,Rural,BSCE,33.1,2023-09-18
+APP-MUET-20002, Farah Mirza ,f,15-Aug-2005,Quetta,Balochistan,Urban,BBA,39.9,12-Sep-2024
+APP-MUET-20003,Tariq Khan,male,01/06/2004,pindi,Punjab,Urban,BSCS,25.9,07/08/2023
+APP-MUET-20004,aimen dar,f,2005-05-26,Sukkur,Sindh,Rural,BSSE,47.9,2024-08-08
+APP-MUET-20005,IMRAN TARIQ,male,27-Oct-2004,Karachi,Sindh,Rural,BSCS,43.3,23-Oct-2023
+APP-MUET-20006,ayesha MIRZA,Female,14/07/2004,Karachi ,Sindh,Urban,BSCE,44.4,27/09/2023
+APP-MUET-20007,AYESHA baloch,Female,2005-06-17,isb,Islamabad Capital Territory,Urban,BSCE,43.3,2024-10-05
+APP-MUET-20008, Usman Butt ,MALE,05-Jul-2004,khi,Sindh,Urban,BSME,39.3,26-Sep-2023
+APP-MUET-20009,Laiba Ansari,F,16/03/2004,lhr,Punjab,Rural,BSCE,39.3,05/10/2023
+APP-MUET-20010,iqra chandio,Female ,2004-10-03,Karachi ,Sindh,Rural,BSME,34.1,2023-09-22
+APP-MUET-20011,SUMAIRA KHAN,female,27-Oct-2004,multan,Punjab,Urban,BSME,26.1,12-Aug-2023
+APP-MUET-20012,zaid CHANDIO,male,02/12/2005,ISB,Islamabad Capital Territory,Urban,BBA,25.3,04/08/2024
+APP-MUET-20013,BUSHRA khan,female,2004-09-07,Islamabad,Islamabad Capital Territory,Rural,BSSE,37.1,2023-08-24
+APP-MUET-20014, Ali Abbasi ,m,09-Jan-2005,LHR,Punjab,Rural,BSEE,44.7,17-Oct-2024
+APP-MUET-20015,Sumaira Bhatti,f,09/11/2003,peshawar,Khyber Pakhtunkhwa,Urban,BBA,46.7,13/08/2022
+APP-MUET-20016,laiba ansari,Female,2005-08-28,KHI,Sindh,Urban,BSSE,49.2,2024-08-11
+APP-MUET-20017,NADIA ANSARI,f,24-Jul-2004,LHR,Punjab,Rural,BSCE,33.8,16-Sep-2023
+APP-MUET-20018,sidra CHAUDHRY,female,27/07/2003,Hyderabad,Sindh,Rural,BSEE,28.8,09/10/2022
+APP-MUET-20019,LAIBA ansari,F,2005-11-22,isb,Islamabad Capital Territory,Urban,BSSE,28.8,2024-10-28
+APP-MUET-20020, Hussain Sheikh ,Male,22-Sep-2005,lhr,Punjab,Rural,BSCE,42.6,19-Aug-2024
+APP-MUET-20021,Zaid Ghouri,Male,18/02/2005,Karachi ,Sindh,Rural,BSEE,43.2,11/08/2024
+APP-MUET-20022,tariq qureshi,m,2005-05-05,lhr,Punjab,Urban,BSEE,25.7,2024-10-24
+APP-MUET-20023,SHAHZAIB FAROOQ,Male ,12-Jan-2003,KHI,Sindh,Rural,BSEE,37.6,22-Aug-2022
+APP-MUET-20024,haris TARIQ,Male,06/03/2004,lhr,Punjab,Urban,BSME,44.1,16/09/2023
+APP-MUET-20025,SHAHZAIB laghari,M,2005-04-03,Lahore,Punjab,Rural,BSCE,33.1,2024-08-25
+APP-MUET-20026, Ahmed Farooq ,male,13-Jun-2005,HYD,Sindh,Urban,BSME,36.4,24-Sep-2024
+APP-MUET-20027,Babar Laghari,Male,25/09/2003,hyderabad,Sindh,Rural,BSME,35.0,13/10/2022
+APP-MUET-20028,arsalan memon,Male ,2005-09-05,MUX,Punjab,Rural,BSCS,43.1,2024-08-23
+APP-MUET-20029,HUSSAIN ABBASI,male,06-Jan-2004,MUX,Punjab,Urban,BSME,27.3,15-Sep-2023
+APP-MUET-20030,hassan RAZA,male,12/11/2003,KHI,Sindh,Rural,BSCE,44.8,15/10/2022
+APP-MUET-20031,LAIBA ahmed,Female,2003-11-28,lahore,Punjab,Urban,BSEE,44.2,2022-09-19
+APP-MUET-20032, Kiran Chandio ,Female,04-Mar-2004,khi,Sindh,Urban,BSSE,44.1,21-Sep-2023
+APP-MUET-20033,Atif Rajput,M,07/04/2003,Faisalabad,Punjab,Rural,BSME,27.0,16/10/2022
+APP-MUET-20034,farah chaudhry,Female,2005-04-02,Lahore,Punjab,Urban,BSCE,33.7,2024-10-18
+APP-MUET-20035,TARIQ BALOCH,Male ,06-Jul-2003,LHR,Punjab,Rural,BSSE,41.5,04-Aug-2022
+APP-MUET-20036,haris MIRZA,M,11/05/2003,peshawar,Khyber Pakhtunkhwa,Urban,BSME,46.1,25/08/2022
+APP-MUET-20037,HASSAN zaman,Male ,2004-07-17,Islamabad,Islamabad Capital Territory,Urban,BSSE,26.5,2023-09-17
+APP-MUET-20038, Salman Siddiqui ,Male,19-Sep-2005,Peshawar,Khyber Pakhtunkhwa,Rural,BSSE,43.2,09-Sep-2024
+APP-MUET-20039,Shahzaib Zaman,Male ,01/02/2004,MUX,Punjab,Urban,BSCE,46.2,01/08/2023
+APP-MUET-20040,adeel soomro,Male ,2005-01-21,lhr,Punjab,Rural,BBA,44.8,2024-10-07
+APP-MUET-20041,ZUBAIR CHANDIO,Male ,11-Jun-2003,Quetta,Balochistan,Urban,BSEE,29.9,22-Aug-2022
+APP-MUET-20042,ahmed GHOURI,M,15/11/2003,SKR,Sindh,Rural,BSCE,26.4,05/09/2022
+APP-MUET-20043,ZUBAIR rajput,MALE,2005-10-22,SKR,Sindh,Urban,BSEE,32.0,2024-08-07
+APP-MUET-20044, Omer Niazi ,Male ,04-Oct-2005,Sukkur,Sindh,Rural,BSCE,25.8,06-Sep-2024
+APP-MUET-20045,Noman Soomro,m,10/09/2004,Lahore,Punjab,Rural,BSCS,44.4,07/09/2023
+APP-MUET-20046,imran dar,MALE,2005-06-16,Sukkur,Sindh,Urban,BSCS,45.6,2024-08-07
+APP-MUET-20047,AYESHA QURESHI,FEMALE,04-Sep-2004,hyd,Sindh,Urban,BSCE,46.2,28-Oct-2023
+APP-MUET-20048,ahmed SHAH,Male ,01/05/2005,Sukkur,Sindh,Urban,BBA,30.0,24/10/2024
+APP-MUET-20049,JUNAID baig,m,2003-03-09,Karachi ,Sindh,Urban,BSEE,38.6,2022-09-05
+APP-MUET-20050, Sobia Zaman ,female,03-Mar-2004,Sukkur,Sindh,Rural,BSSE,36.1,08-Oct-2023
+APP-MUET-20051,Bilal Shah,Male ,13/07/2004,Lahore,Punjab,Rural,BSSE,33.9,03/08/2023
+APP-MUET-20052,usman mirza,m,2004-02-27,MUX,Punjab,Rural,BBA,42.1,2023-10-05
+APP-MUET-20053,SHAHZAIB MALIK,MALE,06-Jul-2005,SKR,Sindh,Rural,BSME,25.8,12-Sep-2024
+APP-MUET-20054,anum ALVI,female,20/06/2003,khi,Sindh,Urban,BSME,45.4,25/09/2022
+APP-MUET-20055,HAMZA panhwar,Male,2004-07-19,quetta,Balochistan,Urban,BSSE,29.0,2023-10-15
+APP-MUET-20056, Mahnoor Jatoi ,female,19-Jul-2005,SKR,Sindh,Urban,BSEE,41.6,14-Oct-2024
+APP-MUET-20057,Samreen Qureshi,F,06/08/2004,Sukkur,Sindh,Urban,BSSE,27.7,04/10/2023
+APP-MUET-20058,sumaira baig,Female,2003-03-19,hyd,Sindh,Urban,BSME,38.3,2022-08-07
+APP-MUET-20059,KINZA DAR,Female ,10-Nov-2004,Multan,Punjab,Rural,BSCS,39.6,19-Sep-2023
+APP-MUET-20060,hussain ALVI,Male ,02/09/2004,hyd,Sindh,Rural,BSCS,46.5,12/08/2023
+APP-MUET-20061,BABAR ghouri,male,2004-07-13,Multan,Punjab,Urban,BSCE,29.3,2023-10-13
+APP-MUET-20062, Haris Jatoi ,m,05-Nov-2004,khi,Sindh,Urban,BSCE,25.4,10-Aug-2023
+APP-MUET-20063,Hussain Raza,Male ,28/07/2003,MUX,Punjab,Rural,BSSE,29.5,26/10/2022
+APP-MUET-20064,junaid abbasi,male,2004-07-20,hyd,Sindh,Rural,BSCE,30.9,2023-08-06
+APP-MUET-20065,HARIS AHMED,male,12-Dec-2003,Karachi ,Sindh,Rural,BSCE,27.0,16-Oct-2022
+APP-MUET-20066,usman ANSARI,Male ,21/08/2005,karachi,Sindh,Rural,BSSE,26.3,08/08/2024
+APP-MUET-20067,IMRAN niazi,MALE,2005-06-26,PINDI,Punjab,Urban,BSCS,42.4,2024-09-14
+APP-MUET-20068, Farhan Ahmed ,Male ,19-Mar-2005,hyderabad,Sindh,Rural,BSCE,40.6,19-Sep-2024
+APP-MUET-20069,Sidra Raza,FEMALE,09/10/2004,pindi,Punjab,Urban,BSCE,27.8,05/09/2023
+APP-MUET-20070,haris panhwar,Male,2003-12-08,fsd,Punjab,Urban,BBA,49.6,2022-09-26
+APP-MUET-20071,SHOAIB CHANDIO,Male,24-Aug-2004,LHR,Punjab,Rural,BSCS,41.1,22-Aug-2023
+APP-MUET-20072,laiba MUGHAL,Female ,08/09/2004,PEW,Khyber Pakhtunkhwa,Rural,BSME,31.6,24/09/2023
+APP-MUET-20073,NADIA panhwar,f,2004-06-17,HYD,Sindh,Rural,BSME,40.3,2023-09-22
+APP-MUET-20074, Iqra Panhwar ,Female ,13-Oct-2003,MUX,Punjab,Urban,BSCE,41.8,21-Sep-2022
+APP-MUET-20075,Fahad Baloch,m,27/01/2005,karachi,Sindh,Rural,BSCS,38.1,22/08/2024
+APP-MUET-20076,kiran memon,f,2004-01-20,KHI,Sindh,Urban,BSSE,41.0,2023-08-02
+APP-MUET-20077,SAMREEN MALIK,f,19-Nov-2004,Lahore,Punjab,Urban,BBA,32.4,25-Oct-2023
+APP-MUET-20078,waleed CHANDIO,m,09/06/2004,LHR,Punjab,Rural,BSCS,34.6,22/10/2023
+APP-MUET-20079,BAKHTAWAR chaudhry,Female,2003-08-07,Quetta,Balochistan,Rural,BSCS,28.6,2022-09-03
+APP-MUET-20080, Saad Mirza ,m,02-Feb-2004,karachi,Sindh,Rural,BSME,25.5,09-Oct-2023
+APP-MUET-20081,Muhammad Mirza,M,05/05/2003,SKR,Sindh,Urban,BSSE,42.7,13/10/2022
+APP-MUET-20082,hamza rajput,m,2003-12-27,Faisalabad,Punjab,Rural,BBA,42.0,2022-08-13
+APP-MUET-20083,USMAN SOOMRO,Male ,25-Aug-2005,PINDI,Punjab,Urban,BSEE,38.9,03-Sep-2024
+APP-MUET-20084,laiba DAR,Female ,16/06/2003,KHI,Sindh,Rural,BSCE,29.7,23/10/2022
+APP-MUET-20085,AMNA butt,F,2004-09-21,Sukkur,Sindh,Rural,BSCS,25.9,2023-09-03
+APP-MUET-20086, Ahmed Abbasi ,Male ,22-Nov-2003,MUX,Punjab,Urban,BSCE,39.5,26-Aug-2022
+APP-MUET-20087,Atif Ghouri,m,08/01/2003,khi,Sindh,Urban,BSCE,26.2,20/09/2022
+APP-MUET-20088,omer jatoi,male,2005-02-04,fsd,Punjab,Urban,BSCS,45.1,2024-08-27
+APP-MUET-20089,BABAR BALOCH,Male,05-Sep-2003,sukkur,Sindh,Urban,BSSE,29.3,19-Oct-2022
+APP-MUET-20090,mehwish SIDDIQUI,Female,06/09/2003,multan,Punjab,Urban,BSEE,27.5,12/10/2022
+APP-MUET-20091,ALI dar,Male ,2004-01-06,KHI,Sindh,Rural,BSME,42.3,2023-08-01
+APP-MUET-20092, Sumaira Chaudhry ,female,06-Apr-2005,HYD,Sindh,Urban,BSCE,37.5,14-Sep-2024
+APP-MUET-20093,Fatima Rajput,female,04/09/2003,peshawar,Khyber Pakhtunkhwa,Urban,BSME,44.3,04/08/2022
+APP-MUET-20094,mahnoor shah,Female,2003-08-16,Lahore,Punjab,Urban,BSCS,41.1,2022-10-28
+APP-MUET-20095,ADEEL FAROOQ,Male,02-Dec-2004,Lahore,Punjab,Urban,BSME,37.9,04-Aug-2023
+APP-MUET-20096,zubair SIDDIQUI,MALE,08/06/2003,Karachi ,Sindh,Urban,BSCS,30.9,22/10/2022
+APP-MUET-20097,RABIA raza,Female,2004-01-14,lahore,Punjab,Rural,BSEE,34.7,2023-10-16
+APP-MUET-20098, Kamran Chaudhry ,MALE,23-Jan-2003,hyderabad,Sindh,Urban,BSCS,46.3,05-Sep-2022
+APP-MUET-20099,Javeria Butt,female,20/11/2004,LHR,Punjab,Urban,BSCS,35.3,06/10/2023
+APP-MUET-20100,danial niazi,Male ,2004-01-24,Multan,Punjab,Urban,BSEE,33.2,2023-09-09
+APP-MUET-20101,ZAID MIRZA,Male ,02-Jan-2005,Faisalabad,Punjab,Urban,BSME,38.3,14-Aug-2024
+APP-MUET-20102,noman RAZA,Male,14/12/2005,Islamabad,Islamabad Capital Territory,Rural,BBA,31.0,23/08/2024
+APP-MUET-20103,TARIQ tariq,M,2005-10-24,Hyderabad,Sindh,Rural,BSEE,46.9,2024-09-28
+APP-MUET-20104, Haris Ghouri ,M,28-Jan-2004,karachi,Sindh,Rural,BSSE,25.8,21-Oct-2023
+APP-MUET-20105,Danial Panhwar,male,24/06/2005,hyderabad,Sindh,Rural,BSCS,27.8,20/08/2024
+APP-MUET-20106,haris soomro,Male,2003-12-03,Islamabad,Islamabad Capital Territory,Rural,BSEE,38.5,2022-10-18
+APP-MUET-20107,DANIAL CHANDIO,Male ,09-Jun-2005,FSD,Punjab,Rural,BBA,26.4,11-Aug-2024
+APP-MUET-20108,hassan MUGHAL,male,10/09/2005,multan,Punjab,Rural,BSCE,48.6,22/10/2024
+APP-MUET-20109,NAVEED raza,Male,2003-05-03,Karachi,Sindh,Rural,BSCS,42.4,2022-09-06
+APP-MUET-20110, Ali Memon ,M,16-Mar-2004,Peshawar,Khyber Pakhtunkhwa,Rural,BSCE,41.1,18-Oct-2023
+APP-MUET-20111,Komal Panhwar,Female ,14/06/2003,SKR,Sindh,Rural,BSME,39.8,21/10/2022
+APP-MUET-20112,hussain dar,MALE,2004-05-08,Faisalabad,Punjab,Rural,BSCS,28.7,2023-08-26
+APP-MUET-20113,OMER ZAMAN,Male,27-Mar-2005,lahore,Punjab,Urban,BSCS,26.0,06-Sep-2024
+APP-MUET-20114,haris TARIQ,MALE,22/01/2003,sukkur,Sindh,Urban,BBA,36.2,23/10/2022
+APP-MUET-20115,FATIMA abbasi,Female ,2004-06-05,hyd,Sindh,Rural,BSCE,42.6,2023-08-15
+APP-MUET-20116, Zaid Panhwar ,Male ,23-Jun-2005,Karachi ,Sindh,Rural,BSCS,28.5,15-Oct-2024
+APP-MUET-20117,Laiba Farooq,female,11/02/2003,hyderabad,Sindh,Urban,BSSE,38.2,12/09/2022
+APP-MUET-20118,farah alvi,Female,2004-02-17,Quetta,Balochistan,Rural,BBA,40.1,2023-10-22
+APP-MUET-20119,HARIS ABBASI,MALE,12-Jul-2003,PEW,Khyber Pakhtunkhwa,Urban,BBA,33.6,28-Oct-2022
+APP-MUET-10000,saad abbasi,m,08/04/2004,isb,Islamabad Capital Territory,urban,BSME,91.5,2022-09-10
+APP-MUET-10001,JAVERIA CHAUDHRY,FEMALE,2006-01-04,Peshawar,Khyber Pakhtunkhwa,Urban,BBA,69.2,11-Oct-2024
+APP-MUET-10002,farhan AHMED,M,04-Sep-2004,Multan,Punjab,Rural,BSSE,85.8,20/09/2022
+APP-MUET-10003,AYESHA zaman,Female ,11/10/2005,lhr,Punjab,Rural,BSCS,55.0,2024-10-11
+APP-MUET-10004, Tariq Ansari ,Male ,2003-04-14,quetta,Balochistan,Rural,BSCE,82.0,05-Oct-2022

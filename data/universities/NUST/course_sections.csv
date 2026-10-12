@@ -1,0 +1,45 @@
+section_id,course_code,course_name,program_code,credit_hours,course_type,semester_level,faculty_id,semester
+SEC-NUST-0001,CS-301,Database Systems,BSCS,3,Core,5,NUST-F-0093,Fall2024
+SEC-NUST-0002,CS-302,Operating Systems,BSCS,3,Core,5,NUST-F-0115,Fall2024
+SEC-NUST-0003,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,NUST-F-0114,Fall2024
+SEC-NUST-0004,EE-102,Circuit Analysis,BSEE,3,Core,2,NUST-F-0118,Fall2024
+SEC-NUST-0005,EE-205,Signals and Systems,BSEE,4,Core,4,NUST-F-0101,Fall2024
+SEC-NUST-0006,MGT-201,Principles of Management,BBA,3,Core,1,NUST-F-0100,Fall2024
+SEC-NUST-0007,MGT-305,Financial Accounting,BBA,3,Core,3,NUST-F-0105,fall2024
+SEC-NUST-0008,SE-204,Software Engineering Concepts,BSSE,3,Core,3,NUST-F-0097,Fall2024
+SEC-NUST-0009,SE-310,Software Architecture,BSSE,3,Core,6,NUST-F-0107,Fall2024
+SEC-NUST-0010,ME-111,Engineering Mechanics,BSME,3,Core,1,NUST-F-0116,Fall2024
+SEC-NUST-0011,CE-101,Surveying & Geomatics,BSCE,3,Core,2,NUST-F-0111,Fall2024
+SEC-NUST-0012,CS-301,Database Systems,BSCS,3,Core,5,NUST-F-0112,Spring2025
+SEC-NUST-0013,CS-302,Operating Systems,BSCS,3,Core,5,NUST-F-0095,Spring2025
+SEC-NUST-0014,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,NUST-F-0099,spring2025
+SEC-NUST-0015,EE-102,Circuit Analysis,BSEE,3,Core,2,NUST-F-0115,Spring2025
+SEC-NUST-0016,EE-205,Signals and Systems,BSEE,4,Core,4,NUST-F-0119,Spring2025
+SEC-NUST-0017,MGT-201,Principles of Management,BBA,3,Core,1,NUST-F-0108,Spring2025
+SEC-NUST-0018,MGT-305,Financial Accounting,BBA,3,Core,3,NUST-F-0099,Spring2025
+SEC-NUST-0019,SE-204,Software Engineering Concepts,BSSE,3,Core,3,NUST-F-0097,Spring2025
+SEC-NUST-0020,SE-310,Software Architecture,BSSE,3,Core,6,NUST-F-0102,Spring2025
+SEC-NUST-0021,ME-111,Engineering Mechanics,BSME,3,Core,1,NUST-F-0107,spring2025
+SEC-NUST-0022,CE-101,Surveying & Geomatics,BSCE,3,Core,2,NUST-F-0112,Spring2025
+SEC-NUST-0023,CS-301,Database Systems,BSCS,3,Core,5,NUST-F-0092,Fall2025
+SEC-NUST-0024,CS-302,Operating Systems,BSCS,3,Core,5,NUST-F-0106,Fall2025
+SEC-NUST-0025,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,NUST-F-0095,Fall2025
+SEC-NUST-0026,EE-102,Circuit Analysis,BSEE,3,Core,2,NUST-F-0098,Fall2025
+SEC-NUST-0027,EE-205,Signals and Systems,BSEE,4,Core,4,NUST-F-0115,Fall2025
+SEC-NUST-0028,MGT-201,Principles of Management,BBA,3,Core,1,NUST-F-0115,fall2025
+SEC-NUST-0029,MGT-305,Financial Accounting,BBA,3,Core,3,NUST-F-0115,Fall2025
+SEC-NUST-0030,SE-204,Software Engineering Concepts,BSSE,3,Core,3,NUST-F-0093,Fall2025
+SEC-NUST-0031,SE-310,Software Architecture,BSSE,3,Core,6,NUST-F-0111,Fall2025
+SEC-NUST-0032,ME-111,Engineering Mechanics,BSME,3,Core,1,NUST-F-0106,Fall2025
+SEC-NUST-0033,CE-101,Surveying & Geomatics,BSCE,3,Core,2,NUST-F-0102,Fall2025
+SEC-NUST-0034,CS-301,Database Systems,BSCS,3,Core,5,NUST-F-0091,Spring2026
+SEC-NUST-0035,CS-302,Operating Systems,BSCS,3,Core,5,NUST-F-0099,spring2026
+SEC-NUST-0036,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,NUST-F-0120,Spring2026
+SEC-NUST-0037,EE-102,Circuit Analysis,BSEE,3,Core,2,NUST-F-0092,Spring2026
+SEC-NUST-0038,EE-205,Signals and Systems,BSEE,4,Core,4,NUST-F-0116,Spring2026
+SEC-NUST-0039,MGT-201,Principles of Management,BBA,3,Core,1,NUST-F-0112,Spring2026
+SEC-NUST-0040,MGT-305,Financial Accounting,BBA,3,Core,3,NUST-F-0094,Spring2026
+SEC-NUST-0041,SE-204,Software Engineering Concepts,BSSE,3,Core,3,NUST-F-0118,Spring2026
+SEC-NUST-0042,SE-310,Software Architecture,BSSE,3,Core,6,NUST-F-0112,spring2026
+SEC-NUST-0043,ME-111,Engineering Mechanics,BSME,3,Core,1,NUST-F-0118,Spring2026
+SEC-NUST-0044,CE-101,Surveying & Geomatics,BSCE,3,Core,2,NUST-F-0111,Spring2026

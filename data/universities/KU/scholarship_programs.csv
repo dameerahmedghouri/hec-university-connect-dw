@@ -1,0 +1,9 @@
+scholarship_id,scholarship_name,scholarship_type,funder,max_amount_pkr
+SC01,HEC Need Based Scholarship,Need-based,HEC,100000
+SC02,Ehsaas Undergraduate Scholarship,Need-based,HEC,80000
+SC03,Merit Excellence Scholarship,Merit,University,50000
+SC04,PEEF Special Quota Scholarship,Need-based,Government,75000
+SC05,Sindh Endowment Fund (SEF),Need-based,Government,90000
+SC06,National ICT R&D Scholarship,Merit,Private donor,120000
+SC07,University Alumni Financial Aid,Need-based,Private donor,60000
+SC08,Sports Talent Award,Sports,University,40000

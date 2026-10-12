@@ -1,0 +1,45 @@
+section_id,course_code,course_name,program_code,credit_hours,course_type,semester_level,faculty_id,semester
+SEC-KU-0001,CS-301,Database Systems,BSCS,3,Core,5,KU-F-0042,Fall2024
+SEC-KU-0002,CS-302,Operating Systems,BSCS,3,Core,5,KU-F-0037,Fall2024
+SEC-KU-0003,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,KU-F-0059,Fall2024
+SEC-KU-0004,EE-102,Circuit Analysis,BSEE,3,Core,2,KU-F-0033,Fall2024
+SEC-KU-0005,EE-205,Signals and Systems,BSEE,4,Core,4,KU-F-0052,Fall2024
+SEC-KU-0006,MGT-201,Principles of Management,BBA,3,Core,1,KU-F-0033,Fall2024
+SEC-KU-0007,MGT-305,Financial Accounting,BBA,3,Core,3,KU-F-0031,fall2024
+SEC-KU-0008,SE-204,Software Engineering Concepts,BSSE,3,Core,3,KU-F-0059,Fall2024
+SEC-KU-0009,SE-310,Software Architecture,BSSE,3,Core,6,KU-F-0034,Fall2024
+SEC-KU-0010,ME-111,Engineering Mechanics,BSME,3,Core,1,KU-F-0054,Fall2024
+SEC-KU-0011,CE-101,Surveying & Geomatics,BSCE,3,Core,2,KU-F-0041,Fall2024
+SEC-KU-0012,CS-301,Database Systems,BSCS,3,Core,5,KU-F-0047,Spring2025
+SEC-KU-0013,CS-302,Operating Systems,BSCS,3,Core,5,KU-F-0040,Spring2025
+SEC-KU-0014,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,KU-F-0042,spring2025
+SEC-KU-0015,EE-102,Circuit Analysis,BSEE,3,Core,2,KU-F-0043,Spring2025
+SEC-KU-0016,EE-205,Signals and Systems,BSEE,4,Core,4,KU-F-0045,Spring2025
+SEC-KU-0017,MGT-201,Principles of Management,BBA,3,Core,1,KU-F-0057,Spring2025
+SEC-KU-0018,MGT-305,Financial Accounting,BBA,3,Core,3,KU-F-0038,Spring2025
+SEC-KU-0019,SE-204,Software Engineering Concepts,BSSE,3,Core,3,KU-F-0059,Spring2025
+SEC-KU-0020,SE-310,Software Architecture,BSSE,3,Core,6,KU-F-0033,Spring2025
+SEC-KU-0021,ME-111,Engineering Mechanics,BSME,3,Core,1,KU-F-0057,spring2025
+SEC-KU-0022,CE-101,Surveying & Geomatics,BSCE,3,Core,2,KU-F-0038,Spring2025
+SEC-KU-0023,CS-301,Database Systems,BSCS,3,Core,5,KU-F-0046,Fall2025
+SEC-KU-0024,CS-302,Operating Systems,BSCS,3,Core,5,KU-F-0032,Fall2025
+SEC-KU-0025,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,KU-F-0053,Fall2025
+SEC-KU-0026,EE-102,Circuit Analysis,BSEE,3,Core,2,KU-F-0032,Fall2025
+SEC-KU-0027,EE-205,Signals and Systems,BSEE,4,Core,4,KU-F-0054,Fall2025
+SEC-KU-0028,MGT-201,Principles of Management,BBA,3,Core,1,KU-F-0053,fall2025
+SEC-KU-0029,MGT-305,Financial Accounting,BBA,3,Core,3,KU-F-0053,Fall2025
+SEC-KU-0030,SE-204,Software Engineering Concepts,BSSE,3,Core,3,KU-F-0033,Fall2025
+SEC-KU-0031,SE-310,Software Architecture,BSSE,3,Core,6,KU-F-0052,Fall2025
+SEC-KU-0032,ME-111,Engineering Mechanics,BSME,3,Core,1,KU-F-0053,Fall2025
+SEC-KU-0033,CE-101,Surveying & Geomatics,BSCE,3,Core,2,KU-F-0045,Fall2025
+SEC-KU-0034,CS-301,Database Systems,BSCS,3,Core,5,KU-F-0039,Spring2026
+SEC-KU-0035,CS-302,Operating Systems,BSCS,3,Core,5,KU-F-0049,spring2026
+SEC-KU-0036,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,KU-F-0037,Spring2026
+SEC-KU-0037,EE-102,Circuit Analysis,BSEE,3,Core,2,KU-F-0033,Spring2026
+SEC-KU-0038,EE-205,Signals and Systems,BSEE,4,Core,4,KU-F-0059,Spring2026
+SEC-KU-0039,MGT-201,Principles of Management,BBA,3,Core,1,KU-F-0045,Spring2026
+SEC-KU-0040,MGT-305,Financial Accounting,BBA,3,Core,3,KU-F-0042,Spring2026
+SEC-KU-0041,SE-204,Software Engineering Concepts,BSSE,3,Core,3,KU-F-0044,Spring2026
+SEC-KU-0042,SE-310,Software Architecture,BSSE,3,Core,6,KU-F-0031,spring2026
+SEC-KU-0043,ME-111,Engineering Mechanics,BSME,3,Core,1,KU-F-0056,Spring2026
+SEC-KU-0044,CE-101,Surveying & Geomatics,BSCE,3,Core,2,KU-F-0046,Spring2026

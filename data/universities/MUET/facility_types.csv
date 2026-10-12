@@ -1,0 +1,9 @@
+facility_type_id,facility_type_name,facility_group,unit_name
+FT01,Computer lab,Lab,lab
+FT02,Physics & Hardware lab,Lab,lab
+FT03,Central Library,Library,seat
+FT04,Student Hostel,Hostel,room
+FT05,Transport Bus Fleet,Transport,bus
+FT06,Sports Complex & Gym,Sports,court
+FT07,Auditorium & Seminar Hall,Other,seat
+FT08,Campus Medical Center,Other,bed

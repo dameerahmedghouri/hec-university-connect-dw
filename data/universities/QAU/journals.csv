@@ -1,0 +1,11 @@
+journal_id,journal_name,publisher,country,quartile
+J001,IEEE Transactions on Software Engineering,IEEE,USA,Q1
+J002,ACM Computing Surveys,ACM,USA,Q1
+J003,IEEE Access,IEEE,USA,Q2
+J004,Nature Communications,Nature Publishing Group,UK,Q1
+J005,Computers & Electrical Engineering,Elsevier,Netherlands,Q2
+J006,Journal of Big Data,Springer,Germany,Q2
+J007,Renewable Energy,Elsevier,UK,Q1
+J008,Expert Systems with Applications,Elsevier,Netherlands,Q1
+J009,Pakistan Journal of Information Technology,HEC Press,Pakistan,Q4
+J010,Sindh University Research Journal,University Press,Pakistan,Q3

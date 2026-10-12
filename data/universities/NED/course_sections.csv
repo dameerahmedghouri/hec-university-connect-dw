@@ -1,0 +1,45 @@
+section_id,course_code,course_name,program_code,credit_hours,course_type,semester_level,faculty_id,semester
+SEC-NED-0001,CS-301,Database Systems,BSCS,3,Core,5,NED-F-0136,Fall2024
+SEC-NED-0002,CS-302,Operating Systems,BSCS,3,Core,5,NED-F-0143,Fall2024
+SEC-NED-0003,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,NED-F-0134,Fall2024
+SEC-NED-0004,EE-102,Circuit Analysis,BSEE,3,Core,2,NED-F-0133,Fall2024
+SEC-NED-0005,EE-205,Signals and Systems,BSEE,4,Core,4,NED-F-0148,Fall2024
+SEC-NED-0006,MGT-201,Principles of Management,BBA,3,Core,1,NED-F-0143,Fall2024
+SEC-NED-0007,MGT-305,Financial Accounting,BBA,3,Core,3,NED-F-0127,fall2024
+SEC-NED-0008,SE-204,Software Engineering Concepts,BSSE,3,Core,3,NED-F-0122,Fall2024
+SEC-NED-0009,SE-310,Software Architecture,BSSE,3,Core,6,NED-F-0129,Fall2024
+SEC-NED-0010,ME-111,Engineering Mechanics,BSME,3,Core,1,NED-F-0131,Fall2024
+SEC-NED-0011,CE-101,Surveying & Geomatics,BSCE,3,Core,2,NED-F-0129,Fall2024
+SEC-NED-0012,CS-301,Database Systems,BSCS,3,Core,5,NED-F-0143,Spring2025
+SEC-NED-0013,CS-302,Operating Systems,BSCS,3,Core,5,NED-F-0134,Spring2025
+SEC-NED-0014,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,NED-F-0124,spring2025
+SEC-NED-0015,EE-102,Circuit Analysis,BSEE,3,Core,2,NED-F-0132,Spring2025
+SEC-NED-0016,EE-205,Signals and Systems,BSEE,4,Core,4,NED-F-0147,Spring2025
+SEC-NED-0017,MGT-201,Principles of Management,BBA,3,Core,1,NED-F-0147,Spring2025
+SEC-NED-0018,MGT-305,Financial Accounting,BBA,3,Core,3,NED-F-0141,Spring2025
+SEC-NED-0019,SE-204,Software Engineering Concepts,BSSE,3,Core,3,NED-F-0142,Spring2025
+SEC-NED-0020,SE-310,Software Architecture,BSSE,3,Core,6,NED-F-0150,Spring2025
+SEC-NED-0021,ME-111,Engineering Mechanics,BSME,3,Core,1,NED-F-0132,spring2025
+SEC-NED-0022,CE-101,Surveying & Geomatics,BSCE,3,Core,2,NED-F-0121,Spring2025
+SEC-NED-0023,CS-301,Database Systems,BSCS,3,Core,5,NED-F-0144,Fall2025
+SEC-NED-0024,CS-302,Operating Systems,BSCS,3,Core,5,NED-F-0148,Fall2025
+SEC-NED-0025,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,NED-F-0133,Fall2025
+SEC-NED-0026,EE-102,Circuit Analysis,BSEE,3,Core,2,NED-F-0147,Fall2025
+SEC-NED-0027,EE-205,Signals and Systems,BSEE,4,Core,4,NED-F-0136,Fall2025
+SEC-NED-0028,MGT-201,Principles of Management,BBA,3,Core,1,NED-F-0139,fall2025
+SEC-NED-0029,MGT-305,Financial Accounting,BBA,3,Core,3,NED-F-0140,Fall2025
+SEC-NED-0030,SE-204,Software Engineering Concepts,BSSE,3,Core,3,NED-F-0145,Fall2025
+SEC-NED-0031,SE-310,Software Architecture,BSSE,3,Core,6,NED-F-0141,Fall2025
+SEC-NED-0032,ME-111,Engineering Mechanics,BSME,3,Core,1,NED-F-0121,Fall2025
+SEC-NED-0033,CE-101,Surveying & Geomatics,BSCE,3,Core,2,NED-F-0122,Fall2025
+SEC-NED-0034,CS-301,Database Systems,BSCS,3,Core,5,NED-F-0134,Spring2026
+SEC-NED-0035,CS-302,Operating Systems,BSCS,3,Core,5,NED-F-0144,spring2026
+SEC-NED-0036,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,NED-F-0136,Spring2026
+SEC-NED-0037,EE-102,Circuit Analysis,BSEE,3,Core,2,NED-F-0128,Spring2026
+SEC-NED-0038,EE-205,Signals and Systems,BSEE,4,Core,4,NED-F-0126,Spring2026
+SEC-NED-0039,MGT-201,Principles of Management,BBA,3,Core,1,NED-F-0124,Spring2026
+SEC-NED-0040,MGT-305,Financial Accounting,BBA,3,Core,3,NED-F-0139,Spring2026
+SEC-NED-0041,SE-204,Software Engineering Concepts,BSSE,3,Core,3,NED-F-0147,Spring2026
+SEC-NED-0042,SE-310,Software Architecture,BSSE,3,Core,6,NED-F-0125,spring2026
+SEC-NED-0043,ME-111,Engineering Mechanics,BSME,3,Core,1,NED-F-0142,Spring2026
+SEC-NED-0044,CE-101,Surveying & Geomatics,BSCE,3,Core,2,NED-F-0133,Spring2026

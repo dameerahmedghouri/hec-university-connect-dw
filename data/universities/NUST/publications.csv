@@ -1,0 +1,161 @@
+paper_id,journal_id,publication_date,paper_title,citations,impact_factor,author_count
+PP-NUST-0001,J003,11/05/2021,Advancements in Machine Learning System 1,114 citations,,3
+PP-NUST-0002,J005,2022-12-24,Advancements in Machine Learning System 2,117,2.16,3
+PP-NUST-0003,J008,12-Jul-2021,Advancements in Machine Learning System 3,44,3.84,1
+PP-NUST-0004,J009,08/11/2022,Advancements in Machine Learning System 4,33,5.19,3
+PP-NUST-0005,J008,2024-02-02,Advancements in Machine Learning System 5,38,2.53,1
+PP-NUST-0006,J004,22-Mar-2023,Advancements in Machine Learning System 6,31,3.21,3
+PP-NUST-0007,J004,04/06/2024,Advancements in Machine Learning System 7,140,4.97,3
+PP-NUST-0008,J003,2022-01-16,Advancements in Machine Learning System 8,33,1.49,1
+PP-NUST-0009,J002,04-Aug-2021,Advancements in Machine Learning System 9,131,7.54,3
+PP-NUST-0010,J010,03/04/2024,Advancements in Machine Learning System 10,141,7.81,3
+PP-NUST-0011,J003,2021-05-06,Advancements in Machine Learning System 11,121,8.72,3
+PP-NUST-0012,J004,21-Dec-2022,Advancements in Machine Learning System 12,112,3.31,3
+PP-NUST-0013,J002,24/11/2024,Advancements in Machine Learning System 13,98 citations,6.86,3
+PP-NUST-0014,J003,2023-04-23,Advancements in Machine Learning System 14,40,5.63,3
+PP-NUST-0015,J001,12-Apr-2024,Advancements in Machine Learning System 15,14,9.62,2
+PP-NUST-0016,J005,20/08/2023,Advancements in Machine Learning System 16,73,5.99,3
+PP-NUST-0017,J003,2023-01-11,Advancements in Machine Learning System 17,43,6.89,3
+PP-NUST-0018,J003,11-Jun-2023,Advancements in Machine Learning System 18,63,3.77,3
+PP-NUST-0019,J003,25/01/2023,Advancements in Machine Learning System 19,107,8.75,3
+PP-NUST-0020,J003,2024-08-18,Advancements in Machine Learning System 20,53,7.05,3
+PP-NUST-0021,J003,23-Feb-2024,Advancements in Machine Learning System 21,82,,2
+PP-NUST-0022,J003,01/11/2022,Advancements in Machine Learning System 22,24,4.82,2
+PP-NUST-0023,J001,2022-07-11,Advancements in Machine Learning System 23,26,4.83,3
+PP-NUST-0024,J004,10-May-2021,Advancements in Machine Learning System 24,144,7.65,2
+PP-NUST-0025,J002,07/02/2024,Advancements in Machine Learning System 25,130 citations,2.61,2
+PP-NUST-0026,J008,2021-12-17,Advancements in Machine Learning System 26,114,9.38,1
+PP-NUST-0027,J001,14-Oct-2022,Advancements in Machine Learning System 27,128,2.32,2
+PP-NUST-0028,J009,21/08/2024,Advancements in Machine Learning System 28,39,7.56,3
+PP-NUST-0029,J008,2021-10-15,Advancements in Machine Learning System 29,71,8.09,2
+PP-NUST-0030,J001,19-Jan-2021,Advancements in Machine Learning System 30,100,5.22,1
+PP-NUST-0031,J010,06/05/2021,Advancements in Machine Learning System 31,137,4.8,1
+PP-NUST-0032,J005,2022-11-25,Advancements in Machine Learning System 32,56,5.72,1
+PP-NUST-0033,J007,05-Aug-2023,Advancements in Machine Learning System 33,87,1.54,1
+PP-NUST-0034,J003,07/03/2024,Advancements in Machine Learning System 34,0,5.76,2
+PP-NUST-0035,J002,2021-09-01,Advancements in Machine Learning System 35,136,8.08,2
+PP-NUST-0036,J003,20-Dec-2023,Advancements in Machine Learning System 36,53,7.37,2
+PP-NUST-0037,J005,13/11/2023,Advancements in Machine Learning System 37,77 citations,4.63,3
+PP-NUST-0038,J006,2024-01-01,Advancements in Machine Learning System 38,2,4.36,3
+PP-NUST-0039,J001,16-Aug-2023,Advancements in Machine Learning System 39,41,5.6,2
+PP-NUST-0040,J008,14/12/2022,Advancements in Machine Learning System 40,113,6.02,3
+PP-NUST-0041,J005,2021-07-01,Advancements in Machine Learning System 41,78,,1
+PP-NUST-0042,J005,08-Jan-2021,Advancements in Machine Learning System 42,84,7.52,3
+PP-NUST-0043,J002,01/06/2023,Advancements in Machine Learning System 43,48,6.72,3
+PP-NUST-0044,J005,2021-09-24,Advancements in Machine Learning System 44,53,6.21,2
+PP-NUST-0045,J001,04-Mar-2021,Advancements in Machine Learning System 45,70,5.17,1
+PP-NUST-0046,J006,20/12/2021,Advancements in Machine Learning System 46,84,3.18,2
+PP-NUST-0047,J007,2024-02-28,Advancements in Machine Learning System 47,97,8.93,1
+PP-NUST-0048,J009,13-Apr-2021,Advancements in Machine Learning System 48,132,6.75,1
+PP-NUST-0049,J006,07/04/2023,Advancements in Machine Learning System 49,119 citations,4.51,3
+PP-NUST-0050,J010,2021-07-20,Advancements in Machine Learning System 50,86,1.32,1
+PP-NUST-0051,J010,22-Jan-2022,Advancements in Machine Learning System 51,52,2.54,1
+PP-NUST-0052,J004,09/10/2023,Advancements in Machine Learning System 52,37,6.2,2
+PP-NUST-0053,J010,2023-01-12,Advancements in Machine Learning System 53,121,3.77,3
+PP-NUST-0054,J007,07-Apr-2024,Advancements in Machine Learning System 54,58,3.0,2
+PP-NUST-0055,J009,17/04/2021,Advancements in Machine Learning System 55,147,7.46,2
+PP-NUST-0056,J009,2023-10-08,Advancements in Machine Learning System 56,3,9.23,3
+PP-NUST-0057,J003,13-Dec-2023,Advancements in Machine Learning System 57,15,9.3,1
+PP-NUST-0058,J005,16/09/2023,Advancements in Machine Learning System 58,57,3.37,2
+PP-NUST-0059,J005,2024-07-23,Advancements in Machine Learning System 59,18,9.73,3
+PP-NUST-0060,J002,10-Sep-2024,Advancements in Machine Learning System 60,6,6.8,3
+PP-NUST-0061,J003,19/09/2022,Advancements in Machine Learning System 61,81 citations,,1
+PP-NUST-0062,J005,2021-01-09,Advancements in Machine Learning System 62,1,7.07,3
+PP-NUST-0063,J003,04-Mar-2021,Advancements in Machine Learning System 63,0,4.78,2
+PP-NUST-0064,J008,05/10/2024,Advancements in Machine Learning System 64,111,5.46,3
+PP-NUST-0065,J004,2024-04-18,Advancements in Machine Learning System 65,109,2.4,2
+PP-NUST-0066,J010,23-Nov-2021,Advancements in Machine Learning System 66,145,4.27,3
+PP-NUST-0067,J009,28/05/2022,Advancements in Machine Learning System 67,119,4.69,2
+PP-NUST-0068,J008,2024-09-03,Advancements in Machine Learning System 68,23,2.26,2
+PP-NUST-0069,J004,28-Dec-2022,Advancements in Machine Learning System 69,46,4.17,3
+PP-NUST-0070,J006,12/04/2021,Advancements in Machine Learning System 70,40,6.11,1
+PP-NUST-0071,J009,2024-04-11,Advancements in Machine Learning System 71,45,1.48,3
+PP-NUST-0072,J008,04-Sep-2023,Advancements in Machine Learning System 72,101,5.79,2
+PP-NUST-0073,J009,28/08/2023,Advancements in Machine Learning System 73,98 citations,4.52,3
+PP-NUST-0074,J010,2021-12-16,Advancements in Machine Learning System 74,144,2.55,2
+PP-NUST-0075,J007,15-Dec-2022,Advancements in Machine Learning System 75,74,3.92,2
+PP-NUST-0076,J003,27/11/2024,Advancements in Machine Learning System 76,31,6.18,2
+PP-NUST-0077,J003,2024-08-16,Advancements in Machine Learning System 77,91,8.24,2
+PP-NUST-0078,J007,03-Jun-2023,Advancements in Machine Learning System 78,120,7.08,2
+PP-NUST-0079,J004,02/07/2023,Advancements in Machine Learning System 79,6,2.87,1
+PP-NUST-0080,J010,2024-03-28,Advancements in Machine Learning System 80,149,1.47,3
+PP-NUST-0081,J009,26-Dec-2024,Advancements in Machine Learning System 81,105,,2
+PP-NUST-0082,J004,12/02/2022,Advancements in Machine Learning System 82,87,8.35,3
+PP-NUST-0083,J009,2022-09-21,Advancements in Machine Learning System 83,67,7.47,3
+PP-NUST-0084,J006,09-Jun-2022,Advancements in Machine Learning System 84,5,3.54,1
+PP-NUST-0085,J007,04/03/2024,Advancements in Machine Learning System 85,97 citations,4.52,1
+PP-NUST-0086,J002,2021-05-26,Advancements in Machine Learning System 86,24,2.39,2
+PP-NUST-0087,J005,13-Jun-2022,Advancements in Machine Learning System 87,123,9.14,2
+PP-NUST-0088,J010,21/05/2023,Advancements in Machine Learning System 88,115,2.77,2
+PP-NUST-0089,J001,2022-11-26,Advancements in Machine Learning System 89,29,8.81,2
+PP-NUST-0090,J004,19-Jan-2022,Advancements in Machine Learning System 90,84,5.08,3
+PP-NUST-0091,J001,20/07/2021,Advancements in Machine Learning System 91,100,5.4,1
+PP-NUST-0092,J004,2024-05-25,Advancements in Machine Learning System 92,17,6.77,2
+PP-NUST-0093,J003,23-Feb-2023,Advancements in Machine Learning System 93,98,9.22,1
+PP-NUST-0094,J002,05/07/2024,Advancements in Machine Learning System 94,118,3.61,2
+PP-NUST-0095,J009,2022-12-04,Advancements in Machine Learning System 95,78,8.02,2
+PP-NUST-0096,J001,03-Oct-2022,Advancements in Machine Learning System 96,4,8.28,1
+PP-NUST-0097,J002,13/10/2021,Advancements in Machine Learning System 97,120 citations,5.76,2
+PP-NUST-0098,J009,2022-10-25,Advancements in Machine Learning System 98,22,7.95,1
+PP-NUST-0099,J007,04-Jun-2022,Advancements in Machine Learning System 99,110,5.72,1
+PP-NUST-0100,J001,25/07/2023,Advancements in Machine Learning System 100,73,4.41,2
+PP-NUST-0101,J009,2021-03-22,Advancements in Machine Learning System 101,35,,2
+PP-NUST-0102,J002,22-May-2023,Advancements in Machine Learning System 102,120,9.15,1
+PP-NUST-0103,J010,12/12/2023,Advancements in Machine Learning System 103,38,6.1,2
+PP-NUST-0104,J008,2021-04-10,Advancements in Machine Learning System 104,22,5.45,3
+PP-NUST-0105,J003,28-Nov-2023,Advancements in Machine Learning System 105,59,1.92,1
+PP-NUST-0106,J009,08/03/2021,Advancements in Machine Learning System 106,70,2.92,3
+PP-NUST-0107,J004,2023-12-27,Advancements in Machine Learning System 107,8,5.86,1
+PP-NUST-0108,J003,12-Mar-2024,Advancements in Machine Learning System 108,17,6.93,3
+PP-NUST-0109,J001,19/02/2021,Advancements in Machine Learning System 109,23 citations,7.69,1
+PP-NUST-0110,J003,2024-01-06,Advancements in Machine Learning System 110,24,8.41,1
+PP-NUST-0111,J009,01-Jan-2023,Advancements in Machine Learning System 111,19,1.6,3
+PP-NUST-0112,J009,19/10/2022,Advancements in Machine Learning System 112,95,8.16,3
+PP-NUST-0113,J001,2022-09-28,Advancements in Machine Learning System 113,46,5.17,3
+PP-NUST-0114,J005,02-Jul-2022,Advancements in Machine Learning System 114,127,5.38,2
+PP-NUST-0115,J009,16/09/2023,Advancements in Machine Learning System 115,38,5.62,1
+PP-NUST-0116,J006,2022-09-11,Advancements in Machine Learning System 116,141,9.25,1
+PP-NUST-0117,J010,06-Sep-2021,Advancements in Machine Learning System 117,30,5.61,3
+PP-NUST-0118,J003,13/04/2024,Advancements in Machine Learning System 118,42,2.0,1
+PP-NUST-0119,J003,2022-12-21,Advancements in Machine Learning System 119,73,7.84,2
+PP-NUST-0120,J002,08-Jul-2024,Advancements in Machine Learning System 120,150,2.75,3
+PP-NUST-0121,J009,06/04/2022,Advancements in Machine Learning System 121,0 citations,,1
+PP-NUST-0122,J005,2022-07-22,Advancements in Machine Learning System 122,48,5.76,2
+PP-NUST-0123,J004,03-Oct-2021,Advancements in Machine Learning System 123,16,5.18,2
+PP-NUST-0124,J006,15/07/2023,Advancements in Machine Learning System 124,87,8.27,3
+PP-NUST-0125,J003,2023-05-17,Advancements in Machine Learning System 125,97,3.83,2
+PP-NUST-0126,J010,01-Feb-2023,Advancements in Machine Learning System 126,36,6.69,2
+PP-NUST-0127,J010,01/09/2022,Advancements in Machine Learning System 127,120,6.27,2
+PP-NUST-0128,J001,2022-02-11,Advancements in Machine Learning System 128,6,6.34,1
+PP-NUST-0129,J009,03-Jan-2021,Advancements in Machine Learning System 129,45,4.88,3
+PP-NUST-0130,J010,20/08/2022,Advancements in Machine Learning System 130,113,4.93,3
+PP-NUST-0131,J002,2022-02-24,Advancements in Machine Learning System 131,29,3.62,1
+PP-NUST-0132,J007,18-May-2024,Advancements in Machine Learning System 132,118,5.67,2
+PP-NUST-0133,J010,26/04/2023,Advancements in Machine Learning System 133,44 citations,8.48,1
+PP-NUST-0134,J002,2021-03-24,Advancements in Machine Learning System 134,37,6.49,3
+PP-NUST-0135,J010,21-Aug-2023,Advancements in Machine Learning System 135,52,2.78,3
+PP-NUST-0136,J007,03/09/2022,Advancements in Machine Learning System 136,8,7.31,2
+PP-NUST-0137,J008,2023-05-23,Advancements in Machine Learning System 137,100,4.94,3
+PP-NUST-0138,J008,24-Jun-2021,Advancements in Machine Learning System 138,139,3.65,3
+PP-NUST-0139,J010,09/07/2024,Advancements in Machine Learning System 139,20,3.41,2
+PP-NUST-0140,J006,2024-04-20,Advancements in Machine Learning System 140,41,5.55,2
+PP-NUST-0141,J005,05-Feb-2022,Advancements in Machine Learning System 141,125,,1
+PP-NUST-0142,J009,17/09/2024,Advancements in Machine Learning System 142,103,6.92,3
+PP-NUST-0143,J007,2023-09-14,Advancements in Machine Learning System 143,38,9.62,2
+PP-NUST-0144,J010,18-Sep-2021,Advancements in Machine Learning System 144,117,7.99,2
+PP-NUST-0145,J007,13/05/2024,Advancements in Machine Learning System 145,60 citations,6.25,1
+PP-NUST-0146,J006,2021-12-04,Advancements in Machine Learning System 146,102,4.51,2
+PP-NUST-0147,J004,23-Apr-2023,Advancements in Machine Learning System 147,33,1.22,3
+PP-NUST-0148,J009,25/10/2023,Advancements in Machine Learning System 148,135,2.51,3
+PP-NUST-0149,J002,2021-05-18,Advancements in Machine Learning System 149,13,8.58,1
+PP-NUST-0150,J007,10-Jun-2023,Advancements in Machine Learning System 150,48,4.57,2
+PP-NUST-0151,J007,28/11/2021,Advancements in Machine Learning System 151,68,2.53,2
+PP-NUST-0152,J008,2021-01-23,Advancements in Machine Learning System 152,27,3.25,1
+PP-NUST-0153,J005,08-Apr-2022,Advancements in Machine Learning System 153,137,1.49,2
+PP-NUST-0154,J004,25/08/2024,Advancements in Machine Learning System 154,67,6.6,2
+PP-NUST-0155,J007,2023-01-18,Advancements in Machine Learning System 155,83,9.34,3
+PP-NUST-0156,J009,07-May-2024,Advancements in Machine Learning System 156,131,8.48,2
+PP-NUST-0157,J008,14/08/2024,Advancements in Machine Learning System 157,13 citations,2.99,2
+PP-NUST-0158,J005,2021-12-13,Advancements in Machine Learning System 158,109,8.2,2
+PP-NUST-0159,J007,27-Sep-2022,Advancements in Machine Learning System 159,104,8.76,2
+PP-NUST-0160,J009,15/10/2023,Advancements in Machine Learning System 160,107,1.61,1

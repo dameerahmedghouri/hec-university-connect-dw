@@ -1,0 +1,7 @@
+fee_type_id,fee_type_name,fee_category,is_refundable_flag
+F01,Tuition fee,Tuition,0
+F02,Examination fee,Exam,0
+F03,Library security fee,Library,1
+F04,Hostel accommodation fee,Hostel,0
+F05,Transport bus charges,Other,0
+F06,Laboratory development fee,Tuition,0

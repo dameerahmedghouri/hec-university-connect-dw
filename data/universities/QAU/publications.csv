@@ -1,0 +1,161 @@
+paper_id,journal_id,publication_date,paper_title,citations,impact_factor,author_count
+PP-QAU-0001,J001,11/06/2021,Advancements in Machine Learning System 1,6 citations,,3
+PP-QAU-0002,J002,2024-12-22,Advancements in Machine Learning System 2,94,7.74,3
+PP-QAU-0003,J003,07-Feb-2024,Advancements in Machine Learning System 3,42,2.48,2
+PP-QAU-0004,J003,18/11/2021,Advancements in Machine Learning System 4,20,4.47,1
+PP-QAU-0005,J004,2021-01-06,Advancements in Machine Learning System 5,116,1.8,1
+PP-QAU-0006,J007,11-Dec-2022,Advancements in Machine Learning System 6,62,5.83,2
+PP-QAU-0007,J007,24/03/2023,Advancements in Machine Learning System 7,14,3.38,1
+PP-QAU-0008,J003,2024-09-01,Advancements in Machine Learning System 8,57,3.33,1
+PP-QAU-0009,J008,20-Dec-2024,Advancements in Machine Learning System 9,90,1.58,3
+PP-QAU-0010,J004,19/12/2022,Advancements in Machine Learning System 10,95,2.1,3
+PP-QAU-0011,J001,2021-05-28,Advancements in Machine Learning System 11,52,1.86,1
+PP-QAU-0012,J003,17-Sep-2022,Advancements in Machine Learning System 12,28,6.38,1
+PP-QAU-0013,J007,05/12/2023,Advancements in Machine Learning System 13,89 citations,5.7,2
+PP-QAU-0014,J005,2024-04-20,Advancements in Machine Learning System 14,130,7.3,2
+PP-QAU-0015,J002,11-Jul-2023,Advancements in Machine Learning System 15,31,1.74,1
+PP-QAU-0016,J002,08/12/2021,Advancements in Machine Learning System 16,80,4.9,3
+PP-QAU-0017,J006,2022-05-01,Advancements in Machine Learning System 17,147,8.89,3
+PP-QAU-0018,J006,28-Aug-2022,Advancements in Machine Learning System 18,81,4.68,1
+PP-QAU-0019,J002,27/10/2022,Advancements in Machine Learning System 19,117,9.03,3
+PP-QAU-0020,J008,2022-08-15,Advancements in Machine Learning System 20,3,9.25,1
+PP-QAU-0021,J003,05-Jul-2023,Advancements in Machine Learning System 21,67,,3
+PP-QAU-0022,J009,20/10/2021,Advancements in Machine Learning System 22,51,4.26,2
+PP-QAU-0023,J006,2024-11-08,Advancements in Machine Learning System 23,125,8.15,1
+PP-QAU-0024,J003,06-Feb-2023,Advancements in Machine Learning System 24,49,5.77,1
+PP-QAU-0025,J010,26/03/2024,Advancements in Machine Learning System 25,108 citations,7.45,3
+PP-QAU-0026,J004,2023-08-15,Advancements in Machine Learning System 26,114,3.22,3
+PP-QAU-0027,J005,12-Nov-2022,Advancements in Machine Learning System 27,38,5.83,2
+PP-QAU-0028,J001,15/05/2024,Advancements in Machine Learning System 28,86,9.17,1
+PP-QAU-0029,J006,2024-04-18,Advancements in Machine Learning System 29,33,3.68,2
+PP-QAU-0030,J004,06-Jun-2024,Advancements in Machine Learning System 30,129,6.33,3
+PP-QAU-0031,J006,12/01/2023,Advancements in Machine Learning System 31,149,2.59,1
+PP-QAU-0032,J004,2022-08-02,Advancements in Machine Learning System 32,99,6.77,2
+PP-QAU-0033,J002,05-May-2021,Advancements in Machine Learning System 33,143,7.99,2
+PP-QAU-0034,J010,23/04/2024,Advancements in Machine Learning System 34,38,8.0,3
+PP-QAU-0035,J009,2022-04-01,Advancements in Machine Learning System 35,137,5.78,1
+PP-QAU-0036,J004,20-Jun-2023,Advancements in Machine Learning System 36,141,6.0,1
+PP-QAU-0037,J003,06/10/2021,Advancements in Machine Learning System 37,59 citations,7.51,2
+PP-QAU-0038,J007,2024-01-10,Advancements in Machine Learning System 38,94,5.96,2
+PP-QAU-0039,J003,24-Dec-2023,Advancements in Machine Learning System 39,57,4.34,3
+PP-QAU-0040,J005,04/12/2024,Advancements in Machine Learning System 40,95,7.15,2
+PP-QAU-0041,J010,2024-01-21,Advancements in Machine Learning System 41,90,,2
+PP-QAU-0042,J004,08-Jun-2023,Advancements in Machine Learning System 42,9,3.77,2
+PP-QAU-0043,J004,14/07/2023,Advancements in Machine Learning System 43,94,8.22,1
+PP-QAU-0044,J003,2023-07-06,Advancements in Machine Learning System 44,101,7.96,3
+PP-QAU-0045,J007,26-Nov-2022,Advancements in Machine Learning System 45,84,4.58,1
+PP-QAU-0046,J002,11/09/2021,Advancements in Machine Learning System 46,113,8.23,3
+PP-QAU-0047,J001,2023-06-19,Advancements in Machine Learning System 47,128,7.55,3
+PP-QAU-0048,J010,15-Feb-2024,Advancements in Machine Learning System 48,105,3.68,2
+PP-QAU-0049,J010,14/08/2021,Advancements in Machine Learning System 49,82 citations,6.02,2
+PP-QAU-0050,J005,2024-08-26,Advancements in Machine Learning System 50,68,6.08,3
+PP-QAU-0051,J009,13-Jan-2023,Advancements in Machine Learning System 51,118,6.96,1
+PP-QAU-0052,J005,27/05/2024,Advancements in Machine Learning System 52,149,9.21,2
+PP-QAU-0053,J010,2022-05-18,Advancements in Machine Learning System 53,88,6.32,3
+PP-QAU-0054,J002,03-Jul-2021,Advancements in Machine Learning System 54,88,6.89,2
+PP-QAU-0055,J007,22/02/2024,Advancements in Machine Learning System 55,44,5.94,3
+PP-QAU-0056,J002,2021-11-15,Advancements in Machine Learning System 56,146,1.83,3
+PP-QAU-0057,J003,16-Feb-2023,Advancements in Machine Learning System 57,144,3.63,3
+PP-QAU-0058,J003,13/07/2023,Advancements in Machine Learning System 58,42,6.44,1
+PP-QAU-0059,J004,2021-12-12,Advancements in Machine Learning System 59,56,8.98,2
+PP-QAU-0060,J004,01-Aug-2022,Advancements in Machine Learning System 60,128,5.42,1
+PP-QAU-0061,J005,05/07/2024,Advancements in Machine Learning System 61,42 citations,,1
+PP-QAU-0062,J009,2024-02-11,Advancements in Machine Learning System 62,132,9.37,3
+PP-QAU-0063,J008,07-Apr-2021,Advancements in Machine Learning System 63,51,6.31,2
+PP-QAU-0064,J008,28/03/2023,Advancements in Machine Learning System 64,55,8.47,2
+PP-QAU-0065,J010,2024-06-19,Advancements in Machine Learning System 65,53,1.9,3
+PP-QAU-0066,J001,12-Aug-2024,Advancements in Machine Learning System 66,119,7.46,1
+PP-QAU-0067,J004,01/12/2024,Advancements in Machine Learning System 67,46,3.81,1
+PP-QAU-0068,J002,2024-11-02,Advancements in Machine Learning System 68,34,3.94,2
+PP-QAU-0069,J007,14-Jan-2023,Advancements in Machine Learning System 69,52,5.62,1
+PP-QAU-0070,J001,10/08/2023,Advancements in Machine Learning System 70,121,8.45,2
+PP-QAU-0071,J001,2022-02-02,Advancements in Machine Learning System 71,11,7.24,1
+PP-QAU-0072,J002,24-Aug-2022,Advancements in Machine Learning System 72,116,4.95,1
+PP-QAU-0073,J009,05/08/2024,Advancements in Machine Learning System 73,149 citations,9.61,3
+PP-QAU-0074,J004,2023-09-14,Advancements in Machine Learning System 74,87,4.3,3
+PP-QAU-0075,J003,22-Sep-2023,Advancements in Machine Learning System 75,83,7.36,1
+PP-QAU-0076,J006,12/04/2024,Advancements in Machine Learning System 76,57,8.19,3
+PP-QAU-0077,J008,2022-09-10,Advancements in Machine Learning System 77,18,1.86,3
+PP-QAU-0078,J005,09-Oct-2022,Advancements in Machine Learning System 78,96,7.8,1
+PP-QAU-0079,J002,28/02/2024,Advancements in Machine Learning System 79,59,6.08,3
+PP-QAU-0080,J001,2023-09-05,Advancements in Machine Learning System 80,89,6.17,3
+PP-QAU-0081,J009,05-Mar-2021,Advancements in Machine Learning System 81,133,,1
+PP-QAU-0082,J002,07/11/2022,Advancements in Machine Learning System 82,52,7.91,3
+PP-QAU-0083,J010,2023-07-27,Advancements in Machine Learning System 83,0,7.23,2
+PP-QAU-0084,J006,25-Sep-2021,Advancements in Machine Learning System 84,27,4.02,2
+PP-QAU-0085,J006,03/05/2021,Advancements in Machine Learning System 85,27 citations,6.52,2
+PP-QAU-0086,J009,2022-02-06,Advancements in Machine Learning System 86,101,6.37,1
+PP-QAU-0087,J004,18-Jul-2024,Advancements in Machine Learning System 87,123,6.97,3
+PP-QAU-0088,J002,14/09/2024,Advancements in Machine Learning System 88,139,1.69,3
+PP-QAU-0089,J003,2022-10-28,Advancements in Machine Learning System 89,14,7.43,2
+PP-QAU-0090,J004,03-May-2022,Advancements in Machine Learning System 90,41,6.69,2
+PP-QAU-0091,J005,27/07/2024,Advancements in Machine Learning System 91,36,4.92,1
+PP-QAU-0092,J005,2021-12-21,Advancements in Machine Learning System 92,127,8.33,1
+PP-QAU-0093,J009,07-Nov-2024,Advancements in Machine Learning System 93,117,1.78,2
+PP-QAU-0094,J005,12/04/2021,Advancements in Machine Learning System 94,39,5.05,1
+PP-QAU-0095,J008,2021-04-06,Advancements in Machine Learning System 95,72,1.26,3
+PP-QAU-0096,J002,17-Mar-2024,Advancements in Machine Learning System 96,61,3.56,2
+PP-QAU-0097,J009,28/01/2021,Advancements in Machine Learning System 97,37 citations,6.44,2
+PP-QAU-0098,J008,2022-07-01,Advancements in Machine Learning System 98,138,5.98,1
+PP-QAU-0099,J007,05-Aug-2021,Advancements in Machine Learning System 99,46,2.99,3
+PP-QAU-0100,J010,24/03/2023,Advancements in Machine Learning System 100,10,6.58,3
+PP-QAU-0101,J002,2021-11-25,Advancements in Machine Learning System 101,78,,3
+PP-QAU-0102,J001,26-Dec-2021,Advancements in Machine Learning System 102,140,5.06,1
+PP-QAU-0103,J010,21/03/2021,Advancements in Machine Learning System 103,107,7.49,2
+PP-QAU-0104,J009,2021-09-06,Advancements in Machine Learning System 104,134,7.17,1
+PP-QAU-0105,J002,07-Dec-2021,Advancements in Machine Learning System 105,25,6.13,3
+PP-QAU-0106,J002,08/11/2021,Advancements in Machine Learning System 106,82,9.71,2
+PP-QAU-0107,J004,2021-06-22,Advancements in Machine Learning System 107,127,5.04,2
+PP-QAU-0108,J001,20-Nov-2021,Advancements in Machine Learning System 108,46,5.94,2
+PP-QAU-0109,J010,04/04/2021,Advancements in Machine Learning System 109,10 citations,3.09,1
+PP-QAU-0110,J004,2021-11-20,Advancements in Machine Learning System 110,139,3.64,1
+PP-QAU-0111,J007,24-Jan-2022,Advancements in Machine Learning System 111,62,4.65,2
+PP-QAU-0112,J009,19/07/2023,Advancements in Machine Learning System 112,49,3.56,1
+PP-QAU-0113,J009,2023-09-14,Advancements in Machine Learning System 113,27,7.18,3
+PP-QAU-0114,J002,07-Oct-2022,Advancements in Machine Learning System 114,20,6.19,3
+PP-QAU-0115,J004,11/04/2021,Advancements in Machine Learning System 115,145,8.91,3
+PP-QAU-0116,J002,2022-04-14,Advancements in Machine Learning System 116,24,8.15,2
+PP-QAU-0117,J004,15-Oct-2022,Advancements in Machine Learning System 117,148,9.77,1
+PP-QAU-0118,J006,26/02/2024,Advancements in Machine Learning System 118,86,4.8,3
+PP-QAU-0119,J002,2022-04-10,Advancements in Machine Learning System 119,19,4.05,2
+PP-QAU-0120,J001,22-May-2021,Advancements in Machine Learning System 120,68,2.26,2
+PP-QAU-0121,J010,27/01/2022,Advancements in Machine Learning System 121,115 citations,,2
+PP-QAU-0122,J003,2022-03-04,Advancements in Machine Learning System 122,42,4.98,3
+PP-QAU-0123,J010,27-May-2022,Advancements in Machine Learning System 123,75,5.55,3
+PP-QAU-0124,J008,15/03/2022,Advancements in Machine Learning System 124,121,6.74,3
+PP-QAU-0125,J006,2021-01-22,Advancements in Machine Learning System 125,82,2.92,2
+PP-QAU-0126,J002,24-Jan-2022,Advancements in Machine Learning System 126,142,2.09,2
+PP-QAU-0127,J003,17/12/2021,Advancements in Machine Learning System 127,1,6.53,2
+PP-QAU-0128,J008,2021-07-15,Advancements in Machine Learning System 128,39,7.25,2
+PP-QAU-0129,J004,19-Jan-2024,Advancements in Machine Learning System 129,81,6.64,3
+PP-QAU-0130,J003,13/01/2022,Advancements in Machine Learning System 130,120,6.36,2
+PP-QAU-0131,J004,2021-07-16,Advancements in Machine Learning System 131,19,6.69,3
+PP-QAU-0132,J005,04-Jul-2024,Advancements in Machine Learning System 132,59,3.28,3
+PP-QAU-0133,J003,22/12/2021,Advancements in Machine Learning System 133,132 citations,2.89,2
+PP-QAU-0134,J010,2023-03-13,Advancements in Machine Learning System 134,71,6.48,3
+PP-QAU-0135,J006,24-Jun-2023,Advancements in Machine Learning System 135,46,7.24,1
+PP-QAU-0136,J002,13/02/2024,Advancements in Machine Learning System 136,99,7.73,3
+PP-QAU-0137,J004,2023-02-16,Advancements in Machine Learning System 137,68,3.94,1
+PP-QAU-0138,J009,03-Sep-2023,Advancements in Machine Learning System 138,60,2.46,3
+PP-QAU-0139,J004,10/05/2022,Advancements in Machine Learning System 139,31,4.82,1
+PP-QAU-0140,J009,2022-07-12,Advancements in Machine Learning System 140,73,8.75,2
+PP-QAU-0141,J008,22-Feb-2024,Advancements in Machine Learning System 141,51,,1
+PP-QAU-0142,J004,08/04/2021,Advancements in Machine Learning System 142,28,1.2,1
+PP-QAU-0143,J004,2022-07-03,Advancements in Machine Learning System 143,150,1.87,1
+PP-QAU-0144,J005,14-Feb-2022,Advancements in Machine Learning System 144,29,7.38,1
+PP-QAU-0145,J010,12/03/2022,Advancements in Machine Learning System 145,82 citations,1.66,1
+PP-QAU-0146,J006,2022-09-15,Advancements in Machine Learning System 146,124,9.51,3
+PP-QAU-0147,J006,16-Jan-2022,Advancements in Machine Learning System 147,119,7.06,3
+PP-QAU-0148,J004,24/07/2022,Advancements in Machine Learning System 148,137,3.54,1
+PP-QAU-0149,J005,2021-07-26,Advancements in Machine Learning System 149,11,3.51,2
+PP-QAU-0150,J004,14-Apr-2022,Advancements in Machine Learning System 150,120,1.37,1
+PP-QAU-0151,J002,04/06/2021,Advancements in Machine Learning System 151,94,2.0,1
+PP-QAU-0152,J010,2021-08-23,Advancements in Machine Learning System 152,37,5.76,1
+PP-QAU-0153,J006,13-May-2021,Advancements in Machine Learning System 153,145,8.46,3
+PP-QAU-0154,J006,24/04/2022,Advancements in Machine Learning System 154,100,8.93,1
+PP-QAU-0155,J002,2024-03-11,Advancements in Machine Learning System 155,51,2.95,2
+PP-QAU-0156,J010,23-Mar-2021,Advancements in Machine Learning System 156,35,8.06,1
+PP-QAU-0157,J004,09/09/2023,Advancements in Machine Learning System 157,111 citations,1.36,2
+PP-QAU-0158,J004,2021-01-18,Advancements in Machine Learning System 158,99,9.75,3
+PP-QAU-0159,J010,20-Aug-2022,Advancements in Machine Learning System 159,36,3.47,3
+PP-QAU-0160,J009,12/09/2021,Advancements in Machine Learning System 160,99,8.31,3

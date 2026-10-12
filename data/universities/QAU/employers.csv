@@ -1,0 +1,12 @@
+employer_id,employer_name,industry,city,employer_size
+E000,Not Employed,None,None,None
+E001,Systems Limited,IT,Lahore,Large
+E002,Afiniti,IT,Islamabad,Large
+E003,10Pearls,IT,Karachi,Medium
+E004,NetSol Technologies,IT,Lahore,Large
+E005,Habib Bank Limited,Banking,Karachi,Large
+E006,Jazz Telecom,Telecommunications,Islamabad,Large
+E007,Engro Corporation,Manufacturing,Karachi,Large
+E008,Arbisoft,IT,Lahore,Medium
+E009,National Bank of Pakistan,Banking,Karachi,Large
+E010,Dawlance Private Limited,Manufacturing,Karachi,Large

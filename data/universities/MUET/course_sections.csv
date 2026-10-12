@@ -1,0 +1,45 @@
+section_id,course_code,course_name,program_code,credit_hours,course_type,semester_level,faculty_id,semester
+SEC-MUET-0001,CS-301,Database Systems,BSCS,3,Core,5,MUET-F-0006,Fall2024
+SEC-MUET-0002,CS-302,Operating Systems,BSCS,3,Core,5,MUET-F-0025,Fall2024
+SEC-MUET-0003,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,MUET-F-0004,Fall2024
+SEC-MUET-0004,EE-102,Circuit Analysis,BSEE,3,Core,2,MUET-F-0020,Fall2024
+SEC-MUET-0005,EE-205,Signals and Systems,BSEE,4,Core,4,MUET-F-0025,Fall2024
+SEC-MUET-0006,MGT-201,Principles of Management,BBA,3,Core,1,MUET-F-0006,Fall2024
+SEC-MUET-0007,MGT-305,Financial Accounting,BBA,3,Core,3,MUET-F-0018,fall2024
+SEC-MUET-0008,SE-204,Software Engineering Concepts,BSSE,3,Core,3,MUET-F-0011,Fall2024
+SEC-MUET-0009,SE-310,Software Architecture,BSSE,3,Core,6,MUET-F-0028,Fall2024
+SEC-MUET-0010,ME-111,Engineering Mechanics,BSME,3,Core,1,MUET-F-0011,Fall2024
+SEC-MUET-0011,CE-101,Surveying & Geomatics,BSCE,3,Core,2,MUET-F-0027,Fall2024
+SEC-MUET-0012,CS-301,Database Systems,BSCS,3,Core,5,MUET-F-0028,Spring2025
+SEC-MUET-0013,CS-302,Operating Systems,BSCS,3,Core,5,MUET-F-0022,Spring2025
+SEC-MUET-0014,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,MUET-F-0026,spring2025
+SEC-MUET-0015,EE-102,Circuit Analysis,BSEE,3,Core,2,MUET-F-0010,Spring2025
+SEC-MUET-0016,EE-205,Signals and Systems,BSEE,4,Core,4,MUET-F-0009,Spring2025
+SEC-MUET-0017,MGT-201,Principles of Management,BBA,3,Core,1,MUET-F-0022,Spring2025
+SEC-MUET-0018,MGT-305,Financial Accounting,BBA,3,Core,3,MUET-F-0023,Spring2025
+SEC-MUET-0019,SE-204,Software Engineering Concepts,BSSE,3,Core,3,MUET-F-0023,Spring2025
+SEC-MUET-0020,SE-310,Software Architecture,BSSE,3,Core,6,MUET-F-0012,Spring2025
+SEC-MUET-0021,ME-111,Engineering Mechanics,BSME,3,Core,1,MUET-F-0004,spring2025
+SEC-MUET-0022,CE-101,Surveying & Geomatics,BSCE,3,Core,2,MUET-F-0018,Spring2025
+SEC-MUET-0023,CS-301,Database Systems,BSCS,3,Core,5,MUET-F-0019,Fall2025
+SEC-MUET-0024,CS-302,Operating Systems,BSCS,3,Core,5,MUET-F-0012,Fall2025
+SEC-MUET-0025,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,MUET-F-0027,Fall2025
+SEC-MUET-0026,EE-102,Circuit Analysis,BSEE,3,Core,2,MUET-F-0005,Fall2025
+SEC-MUET-0027,EE-205,Signals and Systems,BSEE,4,Core,4,MUET-F-0001,Fall2025
+SEC-MUET-0028,MGT-201,Principles of Management,BBA,3,Core,1,MUET-F-0005,fall2025
+SEC-MUET-0029,MGT-305,Financial Accounting,BBA,3,Core,3,MUET-F-0017,Fall2025
+SEC-MUET-0030,SE-204,Software Engineering Concepts,BSSE,3,Core,3,MUET-F-0010,Fall2025
+SEC-MUET-0031,SE-310,Software Architecture,BSSE,3,Core,6,MUET-F-0012,Fall2025
+SEC-MUET-0032,ME-111,Engineering Mechanics,BSME,3,Core,1,MUET-F-0025,Fall2025
+SEC-MUET-0033,CE-101,Surveying & Geomatics,BSCE,3,Core,2,MUET-F-0016,Fall2025
+SEC-MUET-0034,CS-301,Database Systems,BSCS,3,Core,5,MUET-F-0014,Spring2026
+SEC-MUET-0035,CS-302,Operating Systems,BSCS,3,Core,5,MUET-F-0011,spring2026
+SEC-MUET-0036,CS-201,Data Structures & Algorithms,BSCS,4,Core,3,MUET-F-0030,Spring2026
+SEC-MUET-0037,EE-102,Circuit Analysis,BSEE,3,Core,2,MUET-F-0030,Spring2026
+SEC-MUET-0038,EE-205,Signals and Systems,BSEE,4,Core,4,MUET-F-0006,Spring2026
+SEC-MUET-0039,MGT-201,Principles of Management,BBA,3,Core,1,MUET-F-0004,Spring2026
+SEC-MUET-0040,MGT-305,Financial Accounting,BBA,3,Core,3,MUET-F-0007,Spring2026
+SEC-MUET-0041,SE-204,Software Engineering Concepts,BSSE,3,Core,3,MUET-F-0005,Spring2026
+SEC-MUET-0042,SE-310,Software Architecture,BSSE,3,Core,6,MUET-F-0017,spring2026
+SEC-MUET-0043,ME-111,Engineering Mechanics,BSME,3,Core,1,MUET-F-0008,Spring2026
+SEC-MUET-0044,CE-101,Surveying & Geomatics,BSCE,3,Core,2,MUET-F-0027,Spring2026

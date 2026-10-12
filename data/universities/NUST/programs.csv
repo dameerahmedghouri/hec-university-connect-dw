@@ -1,0 +1,10 @@
+program_code,program_name,department,school_name,degree_level,duration_years,total_credit_hours
+BSCS,BS Computer Science,Computer Science,School of Computing,BS,4,130
+BSEE,BS Electrical Engineering,Electrical Engineering,School of Engineering,BS,4,136
+BBA,Bachelor of Business Administration,Management Sciences,School of Business,BS,4,132
+BSME,BS Mechanical Engineering,Mechanical Engineering,School of Engineering,BS,4,136
+BSSE,BS Software Engineering,Software Engineering,School of Computing,BS,4,130
+BSCE,BS Civil Engineering,Civil Engineering,School of Engineering,BS,4,136 hrs
+MSCS,MS Computer Science,Computer Science,School of Computing,MS,2,30
+MBA,Master of Business Administration,Management Sciences,School of Business,MS,2,36
+BS-CS,B.S. Computer Science,Computer Science,Computing,BS,4,130

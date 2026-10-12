@@ -1,0 +1,526 @@
+applicant_id,name,gender,dob,home_city,home_province,home_area_type,program_code,entry_test_marks,admission_date
+APP-KU-10000,iqra baig,female,28/10/2003,KHI,Sindh,urban,BSEE,57.9,2023-10-08
+APP-KU-10001,OMER SHAH,Male ,2005-03-22,Hyderabad,Sindh,Urban,BSSE,82.0,07-Aug-2024
+APP-KU-10002,iqra BHATTI,Female ,27-Jun-2002,Peshawar,Khyber Pakhtunkhwa,Rural,BBA,91.7,03/09/2022
+APP-KU-10003,SOBIA qureshi,Female,27/10/2003,PEW,Khyber Pakhtunkhwa,Rural,BSCE,64.8,2023-09-18
+APP-KU-10004, Mariam Abbasi ,F,2004-11-15,Sukkur,Sindh,Rural,BSCE,80.1,26-Sep-2024
+APP-KU-10005,Arsalan Abbasi,Male ,22-Sep-2004,Faisalabad,Punjab,Rural,BBA,76.2,01/08/2023
+APP-KU-10006,hussain niazi,male,19/05/2004,SKR,Sindh,Rural,BBA,55.0,2023-09-02
+APP-KU-10007,HUSSAIN NIAZI,m,2004-03-06,fsd,Punjab,Urban,BSSE,67.5,09-Oct-2024
+APP-KU-10008,sadia RAJPUT,Female ,08-Nov-2004,HYD,Sindh,rural,BSCE,59.3,15/10/2023
+APP-KU-10009,WALEED ahmed,Male,02/10/2006,Faisalabad,Punjab,Urban,BSME,69.8,2024-09-07
+APP-KU-10010, Usman Chaudhry ,m,2004-04-08,lhr,Punjab,Urban,BSCS,81.9,27-Oct-2022
+APP-KU-10011,Mariam Panhwar,F,17-Jun-2002,Hyderabad,Sindh,Rural,BBA,62.8,11/10/2022
+APP-KU-10012,sadia memon,FEMALE,15/10/2004,Quetta,Balochistan,Urban,BSEE,55.2,2023-08-14
+APP-KU-10013,DANIAL BALOCH,MALE,2005-04-11,lhr,Punjab,Urban,BSME,71.6,22-Aug-2023
+APP-KU-10014,arsalan DAR,M,18-Dec-2005,Islamabad,Islamabad Capital Territory,Urban,BSCE,86.6,23/09/2023
+APP-KU-10015,ANUM ghouri,Female ,20/10/2004,sukkur,Sindh,Urban,BSEE,90.9,2024-10-04
+APP-KU-10016, Arsalan Malik ,Male ,2005-04-13,Sukkur,Sindh,urban,BSME,70.1,19-Aug-2024
+APP-KU-10017,Khadija Ansari,female,27-Dec-2005,fsd,Punjab,Urban,BSCS,60.2,19/09/2024
+APP-KU-10018,shanzay khan,Female ,11/10/2004,fsd,Punjab,Urban,BSCE,84.6,2022-10-26
+APP-KU-10019,HUSSAIN JATOI,m,2006-06-21,MUX,Punjab,Urban,BSEE,91.3,25-Aug-2024
+APP-KU-10020,iqra DAR,Female,23-Jul-2005,PEW,Khyber Pakhtunkhwa,Urban,BSCE,65.1,09/10/2024
+APP-KU-10021,LAIBA baloch,female,02/06/2003,Islamabad,Islamabad Capital Territory,Urban,BSME,62.1,2022-08-22
+APP-KU-10022, Kiran Malik ,Female ,2003-04-02,sukkur,Sindh,Urban,BSEE,75.2,01-Sep-2022
+APP-KU-10023,Sobia Alvi,female,10-Mar-2003,PINDI,Punjab,Urban,BSSE,63.8,02/08/2023
+APP-KU-10024,sobia soomro,Female,24/04/2005,pindi,Punjab,rural,BSME,84.7,2023-10-20
+APP-KU-10025,NAVEED KHAN,m,2004-01-20,pindi,Punjab,Urban,BBA,91.9,03-Aug-2022
+APP-KU-10026,fahad BUTT,M,08-Nov-2003,ISB,Islamabad Capital Territory,Urban,BBA,89.4,21/09/2023
+APP-KU-10027,IQRA qureshi,female,10/06/2004,multan,Punjab,Urban,BSCS,67.3,2023-08-11
+APP-KU-10028, Sobia Shah ,female,2004-10-07,quetta,Balochistan,Rural,BSME,66.6,08-Oct-2022
+APP-KU-10029,Waleed Tariq,Male,09-Apr-2005,hyderabad,Sindh,Urban,BSCE,66.9,04/10/2024
+APP-KU-10030,ayesha siddiqui,Female ,07/04/2006,SKR,Sindh,Urban,BSME,90.3,2024-09-16
+APP-KU-10031,SANA FAROOQ,female,2004-08-12,isb,Islamabad Capital Territory,Rural,BSCS,81.6,05-Aug-2024
+APP-KU-10032,haris BALOCH,Male,22-Jul-2003,KHI,Sindh,rural,BSCE,59.8,03/10/2022
+APP-KU-10033,NADIA zaman,F,07/05/2003,sukkur,Sindh,Urban,BSCE,54.0,2022-10-09
+APP-KU-10034, Babar Chaudhry ,Male,2004-02-09,Islamabad,Islamabad Capital Territory,Urban,BBA,85.5,19-Sep-2023
+APP-KU-10035,Muhammad Ghouri,M,06-Jun-2004,lahore,Punjab,Urban,BSME,69.1,08/10/2022
+APP-KU-10036,sumaira ansari,FEMALE,18/04/2005,sukkur,Sindh,Urban,BSSE,56.6,2024-10-07
+APP-KU-10037,AYESHA NIAZI,F,2004-12-28,Multan,Punjab,Urban,BSCS,93.9,17-Sep-2022
+APP-KU-10038,junaid DAR,MALE,22-Sep-2005,Quetta,Balochistan,Rural,BBA,69.8,06/09/2024
+APP-KU-10039,NOMAN memon,Male ,26/11/2004,Islamabad,Islamabad Capital Territory,Urban,BSME,82.6,2023-09-12
+APP-KU-10040, Salman Bhatti ,M,2005-08-11,PINDI,Punjab,urban,BBA,83.6,04-Sep-2023
+APP-KU-10041,Mehwish Raza,FEMALE,13-Nov-2002,Karachi,Sindh,Urban,BBA,94.7,19/09/2022
+APP-KU-10042,haris mirza,Male,23/04/2004,sukkur,Sindh,Rural,BSME,53.8,2024-10-25
+APP-KU-10043,ZAID TARIQ,Male,2003-10-06,pindi,Punjab,Urban,BSME,79.4,01-Aug-2023
+APP-KU-10044,kiran CHAUDHRY,Female,21-Aug-2003,Faisalabad,Punjab,Urban,BBA,67.8,07/10/2022
+APP-KU-10045,SHOAIB ahmed,M,28/10/2003,PINDI,Punjab,Urban,BSCS,65.2,2022-08-06
+APP-KU-10046, Shahzaib Panhwar ,Male ,2003-04-12,Lahore,Punjab,Urban,BSEE,58.1,20-Aug-2022
+APP-KU-10047,Kinza Sheikh,FEMALE,22-Nov-2002,LHR,Punjab,Urban,BSEE,67.9,23/08/2022
+APP-KU-10048,sana rajput,female,07/06/2005,MUX,Punjab,rural,BSCS,79.8,2024-10-26
+APP-KU-10049,NAVEED RAJPUT,male,2004-01-15,PINDI,Punjab,Rural,BSCE,71.7,01-Oct-2022
+APP-KU-10050,laiba SIDDIQUI,female,22-Jan-2003,Sukkur,Sindh,Urban,BSME,61.5,27/10/2022
+APP-KU-10051,SIDRA siddiqui,Female ,11/03/2004,Peshawar,Khyber Pakhtunkhwa,Urban,BSEE,74.8,2024-09-19
+APP-KU-10052, Bushra Panhwar ,F,2005-03-11,PEW,Khyber Pakhtunkhwa,Urban,BSME,88.6,26-Aug-2023
+APP-KU-10053,Atif Butt,Male ,02-Aug-2004,quetta,Balochistan,Urban,BBA,82.9,06/10/2024
+APP-KU-10054,hira sheikh,f,04/07/2004,ISB,Islamabad Capital Territory,Rural,BSCE,62.8,2024-09-14
+APP-KU-10055,SOBIA MEMON,Female,2003-09-13,PEW,Khyber Pakhtunkhwa,Urban,BSCE,54.1,28-Sep-2023
+APP-KU-10056,kashif CHANDIO,Male,01-May-2004,Faisalabad,Punjab,urban,BSCE,63.7,20/09/2024
+APP-KU-10057,HARIS raza,male,02/05/2004,sukkur,Sindh,Rural,BSME,55.7,2024-10-10
+APP-KU-10058, Sumaira Butt ,F,2006-04-09,ISB,Islamabad Capital Territory,Urban,BSSE,57.2,24-Oct-2024
+APP-KU-10059,Hussain Ghouri,Male ,03-Jan-2005,fsd,Punjab,Urban,BSME,62.7,18/10/2023
+APP-KU-10060,zunaira khan,Female,21/01/2004,Islamabad,Islamabad Capital Territory,Urban,BSME,84.9,2022-08-01
+APP-KU-10061,HARIS MALIK,Male ,2004-11-07,lhr,Punjab,Urban,BSCS,87.5,25-Oct-2022
+APP-KU-10062,fatima NIAZI,F,20-Sep-2002,KHI,Sindh,Urban,BSEE,54.0,04/08/2022
+APP-KU-10063,BAKHTAWAR shah,F,25/11/2005,Peshawar,Khyber Pakhtunkhwa,Urban,BSSE,90.6,2023-08-04
+APP-KU-10064, Babar Dar ,Male ,2003-10-21,hyd,Sindh,urban,BSCE,52.2,21-Aug-2023
+APP-KU-10065,Kashif Alvi,male,26-Apr-2003,Lahore,Punjab,Rural,BSEE,65.3,09/08/2022
+APP-KU-10066,nadia raza,Female ,02/11/2004,fsd,Punjab,Rural,BBA,78.6,2023-08-15
+APP-KU-10067,MUHAMMAD MALIK,Male ,2005-04-22,Lahore,Punjab,Urban,BSEE,62.9,20-Aug-2024
+APP-KU-10068,asad MEMON,m,22-Nov-2004,Karachi ,Sindh,Urban,BSCE,60.8,13/08/2024
+APP-KU-10069,SAMREEN alvi,FEMALE,24/11/2002,Lahore,Punjab,Rural,BSEE,55.3,2022-08-05
+APP-KU-10070, Kashif Tariq ,MALE,2003-08-19,HYD,Sindh,Urban,BSEE,61.5,14-Aug-2022
+APP-KU-10071,Sidra Bhatti,F,13-Feb-2004,LHR,Punjab,Rural,BSEE,81.2,24/08/2024
+APP-KU-10072,zunaira siddiqui,FEMALE,04/06/2005,quetta,Balochistan,urban,BSCE,93.0,2024-08-06
+APP-KU-10073,FARHAN CHANDIO,MALE,2004-10-19,multan,Punjab,Urban,BSME,52.7,02-Aug-2022
+APP-KU-10074,adeel SHEIKH,MALE,17-Oct-2002,PINDI,Punjab,Urban,BSCS,67.5,03/08/2022
+APP-KU-10075,JAVERIA khan,F,10/09/2003,sukkur,Sindh,Urban,BBA,63.2,2022-09-06
+APP-KU-10076, Shahzaib Panhwar ,Male ,2004-01-18,Rawalpindi,Punjab,Rural,BSSE,78.2,24-Aug-2023
+APP-KU-10077,Fatima Ghouri,FEMALE,11-Apr-2005,pindi,Punjab,Urban,BSME,87.7,17/09/2024
+APP-KU-10078,usman mughal,male,05/12/2006,LHR,Punjab,Rural,BSME,77.6,2024-09-08
+APP-KU-10079,HASSAN ALVI,Male,2002-03-03,ISB,Islamabad Capital Territory,Urban,BSSE,67.5,25-Aug-2022
+APP-KU-10080,shanzay SHEIKH,f,10-Mar-2004,Hyderabad,Sindh,urban,BSSE,77.7,01/09/2023
+APP-KU-10081,ZAINAB baig,F,22/01/2004,pindi,Punjab,Rural,BSCE,55.3,2023-08-15
+APP-KU-10082, Junaid Niazi ,m,2004-05-27,Quetta,Balochistan,Urban,BSSE,80.3,26-Aug-2023
+APP-KU-10083,Ali Memon,m,02-Oct-2003,KHI,Sindh,Urban,BBA,94.3,04/10/2023
+APP-KU-10084,waleed jatoi,male,03/07/2003,quetta,Balochistan,Rural,BSCE,81.9,2022-09-15
+APP-KU-10085,AMNA ABBASI,FEMALE,2003-07-10,Karachi,Sindh,Rural,BSCS,76.4,15-Aug-2023
+APP-KU-10086,imran ALVI,Male,12-Dec-2003,khi,Sindh,Urban,BSCS,60.8,09/08/2022
+APP-KU-10087,OMER qureshi,Male ,12/10/2004,khi,Sindh,Rural,BSCE,60.2,2023-08-02
+APP-KU-10088, Fahad Rajput ,male,2005-08-06,Faisalabad,Punjab,urban,BSSE,82.5,06-Sep-2024
+APP-KU-10089,Asad Sheikh,MALE,23-Mar-2004,SKR,Sindh,Urban,BSCE,90.3,01/10/2024
+APP-KU-10090,noman niazi,male,10/07/2002,Multan,Punjab,Urban,BSME,78.1,2022-10-10
+APP-KU-10091,KINZA QURESHI,Female,2005-03-23,isb,Islamabad Capital Territory,Rural,BSSE,84.6,12-Oct-2023
+APP-KU-10092,kiran RAJPUT,Female,11-Apr-2005,MUX,Punjab,Rural,BSCE,85.9,16/08/2024
+APP-KU-10093,MUHAMMAD bhatti,m,09/04/2003,LHR,Punjab,Urban,BSCE,56.5,2022-09-07
+APP-KU-10094, Shanzay Malik ,F,2004-03-28,Quetta,Balochistan,Urban,BBA,63.0,11-Oct-2022
+APP-KU-10095,Shoaib Tariq,Male ,26-Jun-2004,peshawar,Khyber Pakhtunkhwa,Rural,BSEE,64.2,12/09/2022
+APP-KU-10096,tariq sheikh,MALE,09/10/2003,lahore,Punjab,urban,BBA,56.5,2022-09-09
+APP-KU-10097,SUMAIRA MEMON,f,2006-04-17,Sukkur,Sindh,Urban,BSCS,78.9,13-Sep-2024
+APP-KU-10098,samreen SHAH,Female,10-Jul-2005,pindi,Punjab,Rural,BSME,78.2,22/09/2023
+APP-KU-10099,JUNAID tariq,MALE,16/09/2005,Islamabad,Islamabad Capital Territory,Rural,BSME,80.0,2024-10-20
+APP-KU-10100, Hassan Soomro ,male,2006-11-03,hyderabad,Sindh,Rural,BSCS,86.8,12-Sep-2024
+APP-KU-10101,Imran Dar,Male ,11-May-2002,ISB,Islamabad Capital Territory,Urban,BSEE,93.2,06/10/2022
+APP-KU-10102,ali laghari,Male ,18/08/2002,khi,Sindh,Rural,BSCS,94.1,2022-08-24
+APP-KU-10103,KASHIF BHATTI,M,2006-05-21,Islamabad,Islamabad Capital Territory,Urban,BBA,94.5,03-Oct-2024
+APP-KU-10104,kashif SHAH,m,20-May-2002,PEW,Khyber Pakhtunkhwa,urban,BSCS,69.8,15/10/2022
+APP-KU-10105,HAMZA ansari,m,15/05/2003,HYD,Sindh,Rural,BSSE,52.4,2022-08-28
+APP-KU-10106, Saad Shah ,MALE,2005-01-01,hyd,Sindh,Urban,BBA,94.6,14-Aug-2023
+APP-KU-10107,Bushra Tariq,F,18-Jan-2002,quetta,Balochistan,Urban,BSSE,79.5,06/08/2022
+APP-KU-10108,sadia farooq,female,20/07/2002,lahore,Punjab,Rural,BBA,88.6,2022-10-13
+APP-KU-10109,JUNAID ANSARI,MALE,2005-05-05,HYD,Sindh,Urban,BSEE,54.9,09-Aug-2024
+APP-KU-10110,bushra BUTT,female,12-Dec-2004,ISB,Islamabad Capital Territory,Urban,BSEE,74.9,03/09/2023
+APP-KU-10111,SADIA mirza,F,25/04/2004,pindi,Punjab,Rural,BSCE,80.4,2023-10-14
+APP-KU-10112, Omer Niazi ,male,2006-10-21,SKR,Sindh,rural,BSCS,72.5,22-Sep-2024
+APP-KU-10113,Khadija Khan,female,22-Dec-2003,Karachi,Sindh,Urban,BBA,77.2,09/10/2022
+APP-KU-10114,mehwish chaudhry,Female,28/01/2004,hyderabad,Sindh,Urban,BSSE,93.8,2022-09-24
+APP-KU-10115,FARAH GHOURI,FEMALE,2005-04-12,PEW,Khyber Pakhtunkhwa,Rural,BSSE,52.6,14-Oct-2024
+APP-KU-10116,babar KHAN,Male,13-Mar-2005,KHI,Sindh,Urban,BBA,54.4,10/10/2024
+APP-KU-10117,NIMRA jatoi,female,12/05/2004,Karachi,Sindh,Urban,BBA,89.7,2024-08-28
+APP-KU-10118, Aimen Panhwar ,Female,2003-05-21,isb,Islamabad Capital Territory,Rural,BSCE,68.1,06-Sep-2023
+APP-KU-10119,Adeel Ahmed,MALE,16-Apr-2004,quetta,Balochistan,Urban,BSCE,85.3,15/09/2023
+APP-KU-10120,kamran laghari,MALE,18/12/2004,SKR,Sindh,urban,BSEE,59.3,2024-09-27
+APP-KU-10121,BILAL RAZA,male,2003-11-06,sukkur,Sindh,Urban,BSME,58.8,19-Sep-2023
+APP-KU-10122,arsalan BALOCH,Male,02-Oct-2005,Quetta,Balochistan,Rural,BSEE,81.2,19/10/2023
+APP-KU-10123,ADEEL chaudhry,m,23/10/2004,hyd,Sindh,Urban,BSME,63.3,2022-08-11
+APP-KU-10124, Khadija Niazi ,Female,2002-02-23,Faisalabad,Punjab,Rural,BBA,88.0,11-Oct-2022
+APP-KU-10125,Imran Abbasi,M,24-Mar-2004,SKR,Sindh,Urban,BSEE,64.2,10/08/2024
+APP-KU-10126,iqra ahmed,f,03/07/2004,lahore,Punjab,Urban,BBA,86.0,2024-08-09
+APP-KU-10127,ATIF SHEIKH,Male,2005-04-22,Lahore,Punjab,Urban,BSEE,90.8,27-Oct-2024
+APP-KU-10128,salman SHAH,Male ,07-Apr-2004,karachi,Sindh,rural,BSSE,86.6,02/09/2024
+APP-KU-10129,SIDRA jatoi,F,26/11/2005,PINDI,Punjab,Urban,BBA,80.0,2024-08-14
+APP-KU-10130, Ali Ghouri ,Male ,2002-12-06,KHI,Sindh,Urban,BSEE,91.2,02-Oct-2022
+APP-KU-10131,Rabia Mirza,F,11-Jul-2003,quetta,Balochistan,Rural,BSME,85.7,08/09/2022
+APP-KU-10132,aimen memon,Female ,11/10/2004,hyderabad,Sindh,Urban,BSSE,90.7,2023-10-04
+APP-KU-10133,MEHWISH LAGHARI,Female,2003-06-12,Karachi,Sindh,Urban,BSCS,68.4,19-Aug-2023
+APP-KU-10134,hussain SHEIKH,MALE,03-Dec-2002,lhr,Punjab,Urban,BSEE,55.5,22/09/2022
+APP-KU-10135,ADEEL laghari,M,01/07/2006,Hyderabad,Sindh,Urban,BSME,62.8,2024-09-05
+APP-KU-10136, Mariam Baloch ,FEMALE,2003-02-14,Sukkur,Sindh,rural,BSCS,73.8,06-Sep-2023
+APP-KU-10137,Farhan Baig,MALE,19-Jul-2006,MUX,Punjab,Urban,BSME,59.5,02/09/2024
+APP-KU-10138,kamran tariq,M,07/10/2003,LHR,Punjab,Urban,BSCS,86.3,2023-09-17
+APP-KU-10139,OMER SOOMRO,Male ,2003-11-27,Rawalpindi,Punjab,Urban,BSEE,76.1,19-Aug-2023
+APP-KU-10140,tariq JATOI,Male ,24-Feb-2004,KHI,Sindh,Rural,BBA,83.2,19/10/2024
+APP-KU-10141,ZUBAIR jatoi,male,27/04/2005,PINDI,Punjab,Rural,BSCE,62.8,2024-09-05
+APP-KU-10142, Zainab Bhatti ,female,2003-07-16,Sukkur,Sindh,Urban,BSEE,89.8,17-Oct-2022
+APP-KU-10143,Bushra Dar,f,25-Jun-2005,FSD,Punjab,Urban,BSCS,84.8,22/10/2023
+APP-KU-10144,tariq abbasi,Male,24/01/2003,isb,Islamabad Capital Territory,rural,BSCS,58.2,2022-10-11
+APP-KU-10145,BILAL PANHWAR,Male,2004-11-16,karachi,Sindh,Rural,BBA,90.7,27-Aug-2024
+APP-KU-10146,arsalan AHMED,male,16-Dec-2003,Karachi,Sindh,Rural,BSEE,61.5,01/09/2023
+APP-KU-10147,KINZA laghari,Female ,10/06/2006,pindi,Punjab,Rural,BSME,65.9,2024-08-16
+APP-KU-10148, Asad Alvi ,m,2004-06-22,Quetta,Balochistan,Rural,BSSE,90.7,03-Sep-2022
+APP-KU-10149,Babar Ansari,M,27-Jun-2003,Peshawar,Khyber Pakhtunkhwa,Rural,BSCS,72.1,11/10/2023
+APP-KU-10150,shoaib siddiqui,M,09/07/2004,Sukkur,Sindh,Urban,BSSE,62.3,2024-10-08
+APP-KU-10151,AMNA DAR,FEMALE,2005-04-19,Karachi ,Sindh,Urban,BBA,57.0,08-Aug-2024
+APP-KU-10152,fahad MALIK,Male,19-Feb-2004,karachi,Sindh,urban,BBA,68.0,13/10/2023
+APP-KU-10153,ARSALAN dar,MALE,18/08/2002,Sukkur,Sindh,Urban,BSME,84.7,2022-09-19
+APP-KU-10154, Shoaib Laghari ,Male ,2006-01-09,Multan,Punjab,Urban,BSCS,66.9,21-Sep-2024
+APP-KU-10155,Shanzay Jatoi,f,01-Apr-2004,Peshawar,Khyber Pakhtunkhwa,Urban,BSEE,55.4,05/09/2022
+APP-KU-10156,babar niazi,male,03/10/2002,Karachi ,Sindh,Rural,BSCS,60.8,2022-08-25
+APP-KU-10157,NOMAN QURESHI,M,2004-07-01,Hyderabad,Sindh,Urban,BSCE,80.7,26-Aug-2024
+APP-KU-10158,fatima SIDDIQUI,F,12-Aug-2004,quetta,Balochistan,Rural,BBA,79.6,16/09/2022
+APP-KU-10159,OMER chandio,Male,02/12/2004,Sukkur,Sindh,Urban,BSSE,86.4,2024-08-27
+APP-KU-10160, Mahnoor Khan ,Female,2006-12-13,Sukkur,Sindh,urban,BSEE,82.5,28-Sep-2024
+APP-KU-10161,Hussain Baig,Male,01-Mar-2004,SKR,Sindh,Rural,BSEE,57.0,23/10/2024
+APP-KU-10162,bakhtawar siddiqui,FEMALE,18/02/2004,SKR,Sindh,Urban,BSCE,94.4,2024-08-22
+APP-KU-10163,HAMZA ZAMAN,Male,2004-10-01,LHR,Punjab,Urban,BSCS,55.4,26-Sep-2022
+APP-KU-10164,laiba ABBASI,FEMALE,14-Mar-2006,Sukkur,Sindh,Rural,BSME,73.8,08/10/2024
+APP-KU-10165,ADEEL khan,m,09/10/2006,fsd,Punjab,Urban,BSEE,82.8,2024-10-22
+APP-KU-10166, Danial Soomro ,Male ,2002-12-09,lhr,Punjab,Urban,BSCE,56.6,05-Aug-2022
+APP-KU-10167,Sadia Qureshi,Female ,27-Jan-2003,quetta,Balochistan,Rural,BBA,56.2,11/10/2023
+APP-KU-10168,laiba ansari,Female,11/07/2003,hyderabad,Sindh,rural,BSSE,54.9,2022-10-28
+APP-KU-10169,SALMAN PANHWAR,male,2003-09-08,karachi,Sindh,Urban,BSSE,58.9,20-Oct-2023
+APP-KU-10170,muhammad MIRZA,male,09-Jul-2004,sukkur,Sindh,Urban,BSCS,77.2,16/09/2024
+APP-KU-10171,KIRAN raza,F,23/03/2003,multan,Punjab,Rural,BBA,66.9,2022-10-06
+APP-KU-10172, Zubair Baig ,Male ,2003-05-07,Hyderabad,Sindh,Urban,BSCE,65.1,19-Sep-2022
+APP-KU-10173,Zubair Qureshi,Male ,11-Jul-2005,Quetta,Balochistan,Urban,BSME,89.9,18/10/2024
+APP-KU-10174,kiran bhatti,female,15/12/2005,KHI,Sindh,Urban,BSCE,77.6,2023-10-13
+APP-KU-10175,MAHNOOR NIAZI,FEMALE,2002-10-25,peshawar,Khyber Pakhtunkhwa,Urban,BSCE,60.1,04-Aug-2022
+APP-KU-10176,anum KHAN,female,23-Jan-2003,Karachi,Sindh,urban,BSME,66.1,14/08/2022
+APP-KU-10177,JUNAID malik,male,18/04/2005,khi,Sindh,Urban,BSCE,90.8,2023-10-23
+APP-KU-10178, Omer Khan ,Male,2002-03-01,Multan,Punjab,Rural,BSSE,72.5,15-Aug-2022
+APP-KU-10179,Salman Chandio,male,04-Nov-2005,isb,Islamabad Capital Territory,Rural,BSSE,70.1,15/08/2024
+APP-KU-10180,kamran abbasi,M,16/07/2004,fsd,Punjab,Rural,BBA,89.1,2024-08-19
+APP-KU-10181,LAIBA JATOI,FEMALE,2003-10-24,ISB,Islamabad Capital Territory,Urban,BSEE,62.8,01-Oct-2022
+APP-KU-10182,atif LAGHARI,Male,02-Feb-2005,hyderabad,Sindh,Rural,BSCE,93.6,18/09/2023
+APP-KU-10183,MARIAM malik,Female ,02/09/2003,Multan,Punjab,Rural,BSEE,65.6,2023-09-25
+APP-KU-10184, Bilal Memon ,Male ,2004-08-25,PINDI,Punjab,rural,BSCS,87.8,26-Oct-2022
+APP-KU-10185,Zainab Mirza,F,13-May-2002,hyderabad,Sindh,Urban,BSCE,61.0,11/10/2022
+APP-KU-10186,nimra laghari,female,18/01/2005,ISB,Islamabad Capital Territory,Rural,BBA,76.6,2024-10-21
+APP-KU-10187,MARIAM NIAZI,FEMALE,2003-04-01,PEW,Khyber Pakhtunkhwa,Rural,BBA,74.5,04-Aug-2023
+APP-KU-10188,kinza RAJPUT,Female,02-Nov-2003,Lahore,Punjab,Rural,BBA,54.9,19/08/2023
+APP-KU-10189,MUHAMMAD niazi,Male ,20/10/2004,PINDI,Punjab,Urban,BSEE,59.8,2023-10-15
+APP-KU-10190, Kinza Butt ,Female ,2006-07-02,multan,Punjab,Urban,BSEE,94.5,28-Sep-2024
+APP-KU-10191,Zubair Dar,Male,18-Aug-2005,Sukkur,Sindh,Urban,BSEE,61.1,27/10/2023
+APP-KU-10192,salman baig,Male ,06/04/2004,lhr,Punjab,urban,BSCE,56.3,2024-08-14
+APP-KU-10193,JUNAID ZAMAN,MALE,2006-02-12,PEW,Khyber Pakhtunkhwa,Rural,BSEE,73.9,16-Aug-2024
+APP-KU-10194,javeria SHAH,F,15-Jun-2006,Karachi,Sindh,Urban,BSEE,72.2,02/09/2024
+APP-KU-10195,ATIF raza,M,11/08/2003,khi,Sindh,Urban,BSEE,61.8,2023-08-17
+APP-KU-10196, Sidra Farooq ,f,2005-09-16,hyd,Sindh,Urban,BSEE,52.6,16-Sep-2023
+APP-KU-10197,Omer Chaudhry,MALE,13-Apr-2004,Lahore,Punjab,Rural,BSME,66.7,03/09/2024
+APP-KU-10198,imran bhatti,Male,12/08/2005,peshawar,Khyber Pakhtunkhwa,Urban,BSCE,84.0,2024-09-08
+APP-KU-10199,TARIQ PANHWAR,m,2004-10-19,lahore,Punjab,Rural,BSCE,83.0,27-Oct-2023
+APP-KU-10200,sidra SOOMRO,FEMALE,18-Apr-2006,Karachi ,Sindh,rural,BSCS,70.6,26/08/2024
+APP-KU-10201,KHADIJA memon,female,01/09/2002,fsd,Punjab,Urban,BSME,67.8,2022-10-14
+APP-KU-10202, Kiran Sheikh ,female,2006-08-11,isb,Islamabad Capital Territory,Rural,BSSE,65.9,06-Aug-2024
+APP-KU-10203,Nadia Ghouri,Female,19-Sep-2004,Peshawar,Khyber Pakhtunkhwa,Rural,BSCE,81.6,25/08/2023
+APP-KU-10204,shanzay soomro,F,24/06/2004,sukkur,Sindh,Rural,BBA,66.6,2022-09-28
+APP-KU-10205,HUSSAIN ABBASI,Male,2006-12-28,hyd,Sindh,Urban,BSSE,86.6,22-Sep-2024
+APP-KU-10206,mariam BAIG,F,19-Jul-2003,PEW,Khyber Pakhtunkhwa,Urban,BSCE,92.0,21/10/2023
+APP-KU-10207,KHADIJA laghari,female,16/05/2006,Faisalabad,Punjab,Urban,BSEE,81.4,2024-09-21
+APP-KU-10208, Fahad Siddiqui ,m,2003-10-09,lhr,Punjab,urban,BSCS,78.3,24-Aug-2023
+APP-KU-10209,Shahzaib Malik,Male ,28-May-2004,hyd,Sindh,Rural,BSCE,67.0,19/10/2024
+APP-KU-10210,haris chaudhry,Male,17/09/2003,pindi,Punjab,Urban,BBA,75.2,2022-08-11
+APP-KU-10211,FATIMA AHMED,F,2004-03-14,Quetta,Balochistan,Urban,BBA,60.7,17-Aug-2022
+APP-KU-10212,nimra ALVI,f,15-Jun-2002,Sukkur,Sindh,Rural,BSCS,87.0,13/10/2022
+APP-KU-10213,ARSALAN ghouri,Male,14/09/2005,lhr,Punjab,Urban,BSCS,83.8,2023-09-02
+APP-KU-10214, Zubair Abbasi ,male,2005-09-27,Islamabad,Islamabad Capital Territory,Rural,BSCE,68.6,22-Oct-2024
+APP-KU-10215,Amna Tariq,F,13-May-2003,multan,Punjab,Urban,BSSE,77.7,21/10/2022
+APP-KU-10216,mahnoor raza,Female,16/02/2005,ISB,Islamabad Capital Territory,urban,BSEE,75.8,2024-09-02
+APP-KU-10217,SHANZAY MALIK,FEMALE,2004-01-17,ISB,Islamabad Capital Territory,Urban,BSCS,90.3,20-Sep-2024
+APP-KU-10218,usman GHOURI,Male,02-Nov-2006,ISB,Islamabad Capital Territory,Rural,BSME,80.0,28/08/2024
+APP-KU-10219,SOBIA zaman,FEMALE,17/03/2004,quetta,Balochistan,Urban,BSME,68.1,2022-08-25
+APP-KU-10220, Tariq Raza ,MALE,2004-03-19,SKR,Sindh,Rural,BSCS,91.3,05-Sep-2023
+APP-KU-10221,Saad Ghouri,m,24-Jul-2004,Sukkur,Sindh,Urban,BSSE,55.4,24/09/2022
+APP-KU-10222,bilal tariq,Male ,20/05/2005,PINDI,Punjab,Rural,BSCS,52.8,2024-08-15
+APP-KU-10223,BAKHTAWAR GHOURI,F,2003-07-21,PEW,Khyber Pakhtunkhwa,Urban,BSCS,63.9,14-Aug-2023
+APP-KU-10224,zubair MUGHAL,Male,05-May-2006,karachi,Sindh,rural,BSEE,54.4,22/08/2024
+APP-KU-10225,KAMRAN chaudhry,Male,15/11/2004,hyd,Sindh,Rural,BBA,86.4,2024-10-01
+APP-KU-10226, Ali Tariq ,M,2006-07-14,Hyderabad,Sindh,Rural,BSCE,92.0,27-Aug-2024
+APP-KU-10227,Javeria Butt,FEMALE,25-Oct-2004,lhr,Punjab,Urban,BSCE,84.9,15/09/2022
+APP-KU-10228,zunaira raza,Female,27/01/2005,LHR,Punjab,Rural,BSSE,84.6,2023-08-06
+APP-KU-10229,HAMZA SOOMRO,M,2004-03-04,hyderabad,Sindh,Urban,BSEE,89.0,12-Oct-2024
+APP-KU-10230,hassan JATOI,Male ,16-Jan-2005,Multan,Punjab,Urban,BSME,93.5,25/09/2023
+APP-KU-10231,HUSSAIN chaudhry,Male,25/12/2002,karachi,Sindh,Urban,BSSE,64.7,2022-08-08
+APP-KU-10232, Mehwish Tariq ,FEMALE,2004-09-10,Quetta,Balochistan,urban,BBA,93.8,08-Oct-2023
+APP-KU-10233,Shahzaib Mughal,Male ,27-Mar-2002,Peshawar,Khyber Pakhtunkhwa,Rural,BSME,77.6,09/10/2022
+APP-KU-10234,ali sheikh,Male,21/07/2006,quetta,Balochistan,Urban,BSCS,87.3,2024-09-18
+APP-KU-10235,AHMED ANSARI,m,2003-08-22,SKR,Sindh,Urban,BSCS,87.7,17-Oct-2022
+APP-KU-10236,zubair SHAH,MALE,16-Jan-2003,Islamabad,Islamabad Capital Territory,Rural,BSEE,59.3,20/08/2023
+APP-KU-10237,AMNA zaman,f,01/12/2005,Karachi,Sindh,Urban,BSSE,72.3,2023-09-09
+APP-KU-10238, Kamran Abbasi ,M,2002-06-22,FSD,Punjab,Urban,BSCE,91.4,13-Oct-2022
+APP-KU-10239,Waleed Farooq,MALE,02-Dec-2003,PEW,Khyber Pakhtunkhwa,Urban,BSME,57.8,13/09/2022
+APP-KU-10240,sana khan,FEMALE,05/11/2003,hyd,Sindh,urban,BSCS,74.2,2023-08-17
+APP-KU-10241,SALMAN KHAN,Male ,2003-10-25,ISB,Islamabad Capital Territory,Rural,BSEE,69.3,13-Aug-2022
+APP-KU-10242,junaid SOOMRO,Male ,22-Apr-2005,Multan,Punjab,Rural,BSCE,64.5,02/10/2023
+APP-KU-10243,BABAR mughal,MALE,08/02/2002,MUX,Punjab,Rural,BSCS,63.2,2022-10-18
+APP-KU-10244, Waleed Tariq ,male,2002-06-08,isb,Islamabad Capital Territory,Urban,BSSE,52.5,25-Oct-2022
+APP-KU-10245,Sadia Dar,FEMALE,08-Aug-2004,Peshawar,Khyber Pakhtunkhwa,Urban,BSCS,77.8,27/10/2023
+APP-KU-10246,usman raza,Male,16/12/2005,fsd,Punjab,Urban,BSSE,71.6,2024-09-09
+APP-KU-10247,JUNAID ALVI,male,2005-09-03,pindi,Punjab,Urban,BSCS,53.7,15-Sep-2024
+APP-KU-10248,zunaira ABBASI,Female,22-Jan-2004,Faisalabad,Punjab,rural,BSSE,78.2,25/08/2023
+APP-KU-10249,JAVERIA mughal,Female ,23/02/2006,Karachi,Sindh,Urban,BSME,89.2,2024-08-10
+APP-KU-10250, Zubair Siddiqui ,male,2003-02-22,pindi,Punjab,Urban,BSCE,72.4,06-Oct-2023
+APP-KU-10251,Naveed Baig,Male,06-Aug-2005,Multan,Punjab,Urban,BSCS,56.3,17/09/2024
+APP-KU-10252,mehwish raza,f,15/07/2005,Rawalpindi,Punjab,Urban,BSCS,66.3,2023-10-23
+APP-KU-10253,ZUNAIRA MUGHAL,F,2002-02-06,karachi,Sindh,Urban,BSEE,88.2,27-Oct-2022
+APP-KU-10254,haris MIRZA,male,21-Jan-2004,Rawalpindi,Punjab,Urban,BSEE,77.0,13/10/2024
+APP-KU-10255,SADIA soomro,FEMALE,26/12/2003,SKR,Sindh,Rural,BSSE,72.0,2023-08-02
+APP-KU-10256, Shoaib Sheikh ,m,2004-08-27,sukkur,Sindh,rural,BSSE,69.4,01-Sep-2022
+APP-KU-10257,Farhan Chaudhry,MALE,24-Dec-2003,Karachi,Sindh,Rural,BSCE,65.1,02/08/2023
+APP-KU-10258,haris siddiqui,male,15/01/2004,ISB,Islamabad Capital Territory,Urban,BSEE,83.2,2022-09-25
+APP-KU-10259,KHADIJA ANSARI,F,2003-05-05,Lahore,Punjab,Urban,BSEE,73.6,24-Sep-2023
+APP-KU-10260,farhan NIAZI,Male,23-Aug-2002,lahore,Punjab,Rural,BSME,86.3,20/10/2022
+APP-KU-10261,ZUBAIR chaudhry,Male,24/11/2004,peshawar,Khyber Pakhtunkhwa,Urban,BSCE,71.8,2023-10-23
+APP-KU-10262, Hamza Mirza ,male,2006-11-23,sukkur,Sindh,Urban,BSCE,84.0,12-Aug-2024
+APP-KU-10263,Atif Qureshi,Male,10-Aug-2004,sukkur,Sindh,Urban,BSSE,69.3,04/10/2022
+APP-KU-10264,ayesha bhatti,F,22/07/2006,PEW,Khyber Pakhtunkhwa,urban,BBA,64.6,2024-08-04
+APP-KU-10265,ZAID MUGHAL,m,2005-12-15,Karachi ,Sindh,Urban,BSME,76.8,24-Oct-2023
+APP-KU-10266,zubair KHAN,MALE,23-Jan-2004,Lahore,Punjab,Urban,BBA,58.8,20/10/2023
+APP-KU-10267,SAAD mughal,Male,02/08/2002,MUX,Punjab,Rural,BSME,92.1,2022-08-28
+APP-KU-10268, Rabia Bhatti ,Female,2006-05-16,isb,Islamabad Capital Territory,Urban,BSME,65.7,14-Sep-2024
+APP-KU-10269,Salman Abbasi,Male ,13-Jan-2004,LHR,Punjab,Urban,BSSE,81.3,20/09/2023
+APP-KU-10270,zunaira zaman,F,28/10/2003,Lahore,Punjab,Rural,BSCS,62.2,2022-08-23
+APP-KU-10271,SANA MALIK,FEMALE,2002-11-01,Multan,Punjab,Rural,BSCS,70.7,10-Sep-2022
+APP-KU-10272,fahad CHAUDHRY,Male,11-Apr-2004,Karachi ,Sindh,urban,BSCE,69.7,09/10/2022
+APP-KU-10273,SOBIA ansari,female,08/02/2004,karachi,Sindh,Rural,BSME,80.6,2024-09-18
+APP-KU-10274, Junaid Butt ,M,2004-11-18,isb,Islamabad Capital Territory,Rural,BSCS,86.7,25-Oct-2022
+APP-KU-10275,Bakhtawar Soomro,FEMALE,22-Jun-2005,Karachi ,Sindh,Rural,BSME,53.3,24/08/2023
+APP-KU-10276,sobia bhatti,f,10/05/2005,peshawar,Khyber Pakhtunkhwa,Urban,BSSE,69.1,2023-09-26
+APP-KU-10277,ADEEL MIRZA,Male,2002-07-20,Multan,Punjab,Urban,BSSE,92.1,18-Sep-2022
+APP-KU-10278,khadija KHAN,female,26-Aug-2005,Lahore,Punjab,Rural,BSME,66.9,03/09/2023
+APP-KU-10279,HARIS raza,Male,15/03/2003,Faisalabad,Punjab,Urban,BSEE,77.3,2023-08-03
+APP-KU-10280, Farhan Panhwar ,m,2004-12-06,Hyderabad,Sindh,urban,BSSE,78.8,14-Sep-2023
+APP-KU-10281,Shoaib Chandio,MALE,25-Jul-2004,pindi,Punjab,Urban,BSME,55.3,23/08/2022
+APP-KU-10282,sana malik,female,09/02/2002,multan,Punjab,Urban,BBA,81.1,2022-08-01
+APP-KU-10283,AMNA LAGHARI,F,2005-05-08,pindi,Punjab,Urban,BSCS,88.1,22-Oct-2024
+APP-KU-10284,hassan PANHWAR,m,24-Jan-2005,FSD,Punjab,Urban,BSME,84.4,08/10/2023
+APP-KU-10285,ZUBAIR ansari,MALE,04/09/2004,hyd,Sindh,Rural,BSSE,80.1,2024-10-02
+APP-KU-10286, Nimra Zaman ,F,2004-01-11,HYD,Sindh,Urban,BBA,83.9,24-Oct-2022
+APP-KU-10287,Sobia Ghouri,f,03-Apr-2004,Multan,Punjab,Urban,BSCE,53.6,04/08/2024
+APP-KU-10288,tariq siddiqui,MALE,25/07/2005,karachi,Sindh,urban,BSEE,90.9,2023-09-27
+APP-KU-10289,ZAID ZAMAN,M,2002-03-02,Peshawar,Khyber Pakhtunkhwa,Urban,BSCE,89.1,25-Sep-2022
+APP-KU-10290,farhan NIAZI,m,05-Oct-2003,sukkur,Sindh,Urban,BSCE,88.4,01/09/2023
+APP-KU-10291,KIRAN jatoi,f,28/12/2003,Multan,Punjab,Rural,BSCE,93.7,2022-09-16
+APP-KU-10292, Bushra Alvi ,f,2003-06-28,Karachi,Sindh,Urban,BSCE,64.3,20-Oct-2023
+APP-KU-10293,Sidra Niazi,Female,13-Sep-2003,PINDI,Punjab,Urban,BSME,69.1,02/09/2023
+APP-KU-10294,zubair sheikh,M,16/09/2006,isb,Islamabad Capital Territory,Urban,BSEE,94.8,2024-09-24
+APP-KU-10295,HIRA SIDDIQUI,Female ,2005-02-17,peshawar,Khyber Pakhtunkhwa,Rural,BSEE,62.8,13-Oct-2023
+APP-KU-10296,asad NIAZI,Male,27-May-2004,HYD,Sindh,urban,BBA,67.9,27/10/2022
+APP-KU-10297,KAMRAN niazi,male,13/06/2004,Karachi ,Sindh,Urban,BSSE,52.7,2024-10-13
+APP-KU-10298, Kinza Mirza ,Female,2002-07-18,lahore,Punjab,Rural,BSME,81.6,08-Aug-2022
+APP-KU-10299,Imran Baloch,Male ,11-Jun-2004,Karachi ,Sindh,Urban,BBA,78.4,23/10/2022
+APP-KU-10300,ahmed tariq,Male,14/01/2005,Hyderabad,Sindh,Urban,BSSE,71.5,2023-08-22
+APP-KU-10301,KOMAL MIRZA,FEMALE,2006-04-25,PEW,Khyber Pakhtunkhwa,Urban,BSEE,76.6,15-Sep-2024
+APP-KU-10302,mariam DAR,Female ,24-Apr-2004,ISB,Islamabad Capital Territory,Urban,BBA,53.3,06/08/2024
+APP-KU-10303,ARSALAN jatoi,M,21/07/2002,Multan,Punjab,Rural,BSCE,76.6,2022-08-14
+APP-KU-10304, Bushra Ghouri ,Female,2004-01-18,hyderabad,Sindh,urban,BSEE,55.4,10-Aug-2024
+APP-KU-10305,Kiran Qureshi,F,23-Aug-2004,Quetta,Balochistan,Urban,BSEE,55.7,15/10/2024
+APP-KU-10306,shahzaib sheikh,MALE,05/03/2004,lahore,Punjab,Urban,BBA,61.1,2024-08-20
+APP-KU-10307,MEHWISH MUGHAL,Female,2003-06-02,Lahore,Punjab,Rural,BSME,62.8,22-Sep-2022
+APP-KU-10308,kamran TARIQ,Male,13-Dec-2004,PINDI,Punjab,Urban,BSCS,70.6,08/08/2022
+APP-KU-10309,BAKHTAWAR abbasi,Female ,25/01/2004,fsd,Punjab,Urban,BSSE,73.7,2024-09-06
+APP-KU-10310, Javeria Dar ,F,2004-08-25,ISB,Islamabad Capital Territory,Rural,BSCE,73.6,10-Oct-2024
+APP-KU-10311,Noman Baig,M,10-Jun-2002,SKR,Sindh,Urban,BSEE,79.7,05/08/2022
+APP-KU-10312,imran niazi,M,17/10/2003,multan,Punjab,urban,BSME,74.6,2022-08-17
+APP-KU-10313,USMAN ALVI,Male ,2004-10-05,sukkur,Sindh,Urban,BSSE,64.5,11-Oct-2022
+APP-KU-10314,farah BALOCH,FEMALE,20-Feb-2002,Lahore,Punjab,Urban,BSME,66.3,02/10/2022
+APP-KU-10315,BUSHRA niazi,female,10/06/2004,Quetta,Balochistan,Urban,BSEE,73.7,2023-10-13
+APP-KU-10316, Naveed Niazi ,Male ,2006-01-18,Faisalabad,Punjab,Urban,BSCE,79.2,01-Aug-2024
+APP-KU-10317,Zunaira Khan,F,02-Oct-2006,Rawalpindi,Punjab,Urban,BSCE,87.1,14/10/2024
+APP-KU-10318,javeria mughal,F,13/12/2003,SKR,Sindh,Urban,BSSE,89.3,2022-08-19
+APP-KU-10319,MUHAMMAD BAIG,Male,2002-12-16,hyd,Sindh,Urban,BSCS,79.1,17-Sep-2022
+APP-KU-10320,hira MUGHAL,Female ,23-Jun-2003,PINDI,Punjab,urban,BSCE,77.3,14/09/2023
+APP-KU-10321,ASAD alvi,Male,03/06/2004,Karachi ,Sindh,Rural,BBA,77.2,2022-08-24
+APP-KU-10322, Nadia Chaudhry ,F,2006-11-16,sukkur,Sindh,Urban,BSEE,71.9,15-Oct-2024
+APP-KU-10323,Shanzay Laghari,f,03-Nov-2005,SKR,Sindh,Urban,BSME,72.7,07/08/2023
+APP-KU-10324,junaid farooq,male,28/03/2005,hyd,Sindh,Rural,BBA,55.2,2023-10-21
+APP-KU-10325,SHOAIB RAZA,male,2002-12-14,HYD,Sindh,Rural,BSSE,63.4,13-Sep-2022
+APP-KU-10326,waleed MUGHAL,M,12-Apr-2005,KHI,Sindh,Rural,BSCE,84.3,10/08/2023
+APP-KU-10327,NOMAN panhwar,Male ,12/10/2003,Islamabad,Islamabad Capital Territory,Urban,BSCS,84.6,2023-09-28
+APP-KU-10328, Zubair Rajput ,m,2003-09-25,PEW,Khyber Pakhtunkhwa,rural,BSCE,65.8,16-Aug-2022
+APP-KU-10329,Bushra Tariq,Female ,09-Jul-2004,isb,Islamabad Capital Territory,Urban,BSCE,64.8,27/09/2024
+APP-KU-10330,hamza tariq,Male ,13/11/2003,KHI,Sindh,Rural,BSME,82.0,2023-10-07
+APP-KU-10331,AMNA ABBASI,FEMALE,2004-01-19,SKR,Sindh,Rural,BSME,64.8,19-Aug-2022
+APP-KU-10332,adeel ABBASI,m,04-Dec-2003,Hyderabad,Sindh,Urban,BSEE,68.9,05/09/2022
+APP-KU-10333,KASHIF chaudhry,MALE,02/11/2005,FSD,Punjab,Rural,BSME,83.9,2023-10-28
+APP-KU-10334, Mahnoor Laghari ,female,2004-11-08,lhr,Punjab,Urban,BBA,72.5,22-Oct-2024
+APP-KU-10335,Hira Mughal,f,23-Aug-2003,sukkur,Sindh,Urban,BSEE,75.4,15/09/2023
+APP-KU-10336,sidra niazi,female,13/10/2003,HYD,Sindh,rural,BSCE,94.4,2023-10-19
+APP-KU-10337,ZUBAIR MEMON,Male ,2004-04-07,Lahore,Punjab,Rural,BSSE,54.1,19-Aug-2024
+APP-KU-10338,sana ABBASI,F,08-Feb-2002,lhr,Punjab,Rural,BSSE,63.3,06/08/2022
+APP-KU-10339,SALMAN raza,Male,09/09/2005,Faisalabad,Punjab,Urban,BSME,57.8,2024-10-03
+APP-KU-10340, Haris Raza ,male,2004-06-11,Peshawar,Khyber Pakhtunkhwa,Rural,BSSE,55.7,22-Sep-2024
+APP-KU-10341,Rabia Zaman,F,28-Jan-2005,khi,Sindh,Urban,BBA,65.9,22/09/2024
+APP-KU-10342,kinza malik,F,28/09/2004,Lahore,Punjab,Urban,BSSE,86.3,2022-09-05
+APP-KU-10343,SAAD SOOMRO,Male ,2004-07-17,Peshawar,Khyber Pakhtunkhwa,Urban,BSEE,69.6,06-Sep-2024
+APP-KU-10344,atif CHAUDHRY,m,04-Apr-2004,peshawar,Khyber Pakhtunkhwa,rural,BBA,71.6,17/08/2023
+APP-KU-10345,KAMRAN laghari,m,25/06/2002,hyderabad,Sindh,Urban,BSCS,65.6,2022-10-10
+APP-KU-10346, Hassan Ghouri ,M,2006-11-27,hyd,Sindh,Urban,BBA,76.2,18-Oct-2024
+APP-KU-10347,Farhan Chaudhry,Male,13-Jul-2004,KHI,Sindh,Urban,BSME,71.2,18/10/2023
+APP-KU-10348,salman abbasi,M,19/12/2004,isb,Islamabad Capital Territory,Urban,BSEE,87.1,2023-09-09
+APP-KU-10349,BUSHRA NIAZI,Female,2004-01-06,Multan,Punjab,Urban,BSEE,56.9,12-Aug-2022
+APP-KU-10350,farah DAR,f,10-Oct-2003,ISB,Islamabad Capital Territory,Rural,BSME,54.2,04/08/2023
+APP-KU-10351,MUHAMMAD chaudhry,male,06/07/2004,quetta,Balochistan,Urban,BSEE,72.6,2023-10-19
+APP-KU-10352, Sobia Niazi ,female,2003-12-11,ISB,Islamabad Capital Territory,rural,BSME,52.7,25-Oct-2022
+APP-KU-10353,Usman Qureshi,male,17-Nov-2003,isb,Islamabad Capital Territory,Rural,BSME,67.7,15/10/2022
+APP-KU-10354,tariq ansari,Male ,26/02/2003,Peshawar,Khyber Pakhtunkhwa,Urban,BSSE,67.6,2023-08-08
+APP-KU-10355,FARHAN CHAUDHRY,M,2004-03-11,PEW,Khyber Pakhtunkhwa,Urban,BSSE,62.5,11-Oct-2024
+APP-KU-10356,imran CHAUDHRY,MALE,15-Aug-2005,LHR,Punjab,Urban,BSME,61.6,17/09/2023
+APP-KU-10357,HAMZA panhwar,Male ,05/04/2003,Faisalabad,Punjab,Rural,BSCS,73.2,2023-10-18
+APP-KU-10358, Ahmed Ghouri ,Male,2004-02-15,sukkur,Sindh,Urban,BSCS,65.7,24-Sep-2022
+APP-KU-10359,Aimen Memon,Female ,05-Jul-2005,karachi,Sindh,Urban,BBA,63.9,10/08/2023
+APP-KU-10360,saad malik,MALE,07/04/2006,isb,Islamabad Capital Territory,urban,BSSE,85.3,2024-09-11
+APP-KU-10361,HARIS FAROOQ,Male ,2003-03-24,Hyderabad,Sindh,Urban,BBA,94.9,17-Aug-2022
+APP-KU-10362,muhammad ANSARI,Male ,05-Sep-2003,fsd,Punjab,Urban,BSSE,79.2,21/10/2022
+APP-KU-10363,NAVEED alvi,Male,24/09/2004,hyderabad,Sindh,Urban,BSEE,71.6,2023-10-21
+APP-KU-10364, Shoaib Khan ,Male ,2003-01-22,fsd,Punjab,Urban,BSME,66.0,01-Sep-2023
+APP-KU-10365,Aimen Baig,Female ,01-Dec-2005,khi,Sindh,Urban,BSME,58.8,24/10/2023
+APP-KU-10366,anum farooq,FEMALE,06/09/2004,Lahore,Punjab,Urban,BSCE,69.4,2022-08-15
+APP-KU-10367,FATIMA BALOCH,FEMALE,2003-08-15,KHI,Sindh,Urban,BBA,70.3,03-Aug-2023
+APP-KU-10368,junaid TARIQ,Male ,15-Sep-2003,sukkur,Sindh,urban,BSCE,82.8,26/10/2022
+APP-KU-10369,TARIQ khan,M,24/04/2003,sukkur,Sindh,Urban,BBA,75.7,2022-08-12
+APP-KU-10370, Imran Malik ,MALE,2004-12-01,Islamabad,Islamabad Capital Territory,Urban,BSSE,53.4,24-Sep-2023
+APP-KU-10371,Ahmed Siddiqui,male,13-Jun-2002,multan,Punjab,Urban,BSME,85.5,04/10/2022
+APP-KU-10372,ali jatoi,MALE,04/03/2004,SKR,Sindh,Urban,BSME,76.5,2022-10-25
+APP-KU-10373,TARIQ RAZA,m,2006-04-19,Karachi,Sindh,Rural,BSME,52.1,23-Sep-2024
+APP-KU-10374,mahnoor AHMED,F,04-Sep-2005,Rawalpindi,Punjab,Urban,BSSE,60.8,25/09/2024
+APP-KU-10375,FARAH abbasi,F,12/10/2004,quetta,Balochistan,Urban,BBA,72.4,2023-09-12
+APP-KU-10376, Zubair Memon ,MALE,2004-11-05,sukkur,Sindh,urban,BSCS,79.5,16-Sep-2022
+APP-KU-10377,Hira Baloch,F,17-Jun-2002,FSD,Punjab,Urban,BSCE,53.1,11/10/2022
+APP-KU-10378,bushra ansari,f,04/05/2003,Faisalabad,Punjab,Urban,BBA,54.0,2022-08-05
+APP-KU-10379,AYESHA PANHWAR,f,2004-09-22,Sukkur,Sindh,Urban,BSCE,57.0,01-Sep-2023
+APP-KU-10380,hassan RAZA,m,10-Nov-2004,peshawar,Khyber Pakhtunkhwa,Urban,BSCE,93.7,08/08/2023
+APP-KU-10381,KINZA ghouri,Female ,02/05/2005,HYD,Sindh,Urban,BSCS,87.7,2024-09-18
+APP-KU-10382, Hussain Ghouri ,MALE,2005-05-20,Quetta,Balochistan,Urban,BSCS,81.3,13-Oct-2024
+APP-KU-10383,Khadija Ghouri,Female,18-Apr-2005,FSD,Punjab,Urban,BSCE,61.7,13/10/2024
+APP-KU-10384,sana alvi,female,02/08/2005,peshawar,Khyber Pakhtunkhwa,rural,BBA,73.9,2023-10-04
+APP-KU-10385,AIMEN RAZA,F,2005-12-14,Lahore,Punjab,Rural,BSCE,79.8,21-Oct-2024
+APP-KU-10386,samreen AHMED,Female ,09-Jan-2006,HYD,Sindh,Rural,BSCE,61.1,18/10/2024
+APP-KU-10387,SHOAIB mughal,M,24/02/2004,sukkur,Sindh,Urban,BSEE,52.4,2024-10-13
+APP-KU-10388, Junaid Sheikh ,m,2004-09-18,hyd,Sindh,Urban,BSME,93.7,14-Sep-2022
+APP-KU-10389,Shahzaib Alvi,m,12-Feb-2002,PINDI,Punjab,Rural,BSSE,56.7,18/08/2022
+APP-KU-10390,javeria chaudhry,F,08/06/2003,lahore,Punjab,Rural,BSME,62.0,2022-08-28
+APP-KU-10391,LAIBA NIAZI,Female ,2002-08-26,Quetta,Balochistan,Urban,BSME,89.3,12-Oct-2022
+APP-KU-10392,tariq MUGHAL,M,26-Oct-2005,HYD,Sindh,urban,BBA,79.1,17/10/2024
+APP-KU-10393,SHAHZAIB ghouri,m,13/03/2004,SKR,Sindh,Rural,BSCS,92.1,2022-08-09
+APP-KU-10394, Farhan Qureshi ,MALE,2005-03-14,SKR,Sindh,Urban,BSME,63.4,12-Aug-2023
+APP-KU-10395,Zaid Farooq,m,26-Oct-2004,PINDI,Punjab,Urban,BSCE,63.0,22/10/2023
+APP-KU-10396,naveed rajput,male,26/04/2004,FSD,Punjab,Rural,BBA,70.4,2022-08-20
+APP-KU-10397,BABAR MIRZA,M,2003-01-23,LHR,Punjab,Rural,BSCE,87.1,14-Oct-2022
+APP-KU-10398,hassan MEMON,Male,12-Apr-2004,pindi,Punjab,Urban,BBA,59.3,04/10/2023
+APP-KU-10399,AIMEN baloch,female,07/02/2004,lhr,Punjab,Urban,BSCS,92.6,2023-10-05
+APP-KU-20000,mariam ALVI,female,27/02/2005,hyd,Sindh,Rural,BBA,48.2,12/09/2024
+APP-KU-20001,IMRAN baloch,male,2003-09-17,hyderabad,Sindh,Rural,BSCE,46.9,2022-09-13
+APP-KU-20002, Imran Raza ,Male ,10-Apr-2003,HYD,Sindh,Urban,BSCE,40.5,07-Sep-2022
+APP-KU-20003,Noman Malik,Male,08/08/2004,ISB,Islamabad Capital Territory,Rural,BSEE,36.2,06/09/2023
+APP-KU-20004,arsalan dar,male,2005-09-28,Karachi ,Sindh,Rural,BSME,38.4,2024-09-17
+APP-KU-20005,ZAID NIAZI,Male,07-Oct-2004,karachi,Sindh,Rural,BSME,33.7,20-Sep-2023
+APP-KU-20006,babar SIDDIQUI,Male,01/10/2005,SKR,Sindh,Rural,BSCE,35.6,23/09/2024
+APP-KU-20007,HIRA ahmed,f,2003-02-23,Islamabad,Islamabad Capital Territory,Rural,BSME,39.9,2022-08-13
+APP-KU-20008, Nadia Sheikh ,f,07-Apr-2005,lhr,Punjab,Rural,BSCE,48.5,18-Oct-2024
+APP-KU-20009,Saad Abbasi,M,06/01/2004,ISB,Islamabad Capital Territory,Urban,BSSE,26.5,18/09/2023
+APP-KU-20010,haris bhatti,male,2003-06-09,ISB,Islamabad Capital Territory,Rural,BSSE,47.7,2022-08-04
+APP-KU-20011,ZUNAIRA RAZA,F,01-Feb-2004,PEW,Khyber Pakhtunkhwa,Urban,BSSE,35.5,26-Oct-2023
+APP-KU-20012,kamran AHMED,Male,14/03/2004,Lahore,Punjab,Rural,BSME,38.8,02/09/2023
+APP-KU-20013,NADIA bhatti,F,2004-09-23,lahore,Punjab,Urban,BSEE,33.4,2023-08-21
+APP-KU-20014, Sidra Memon ,Female ,28-Aug-2003,fsd,Punjab,Urban,BSME,28.4,11-Aug-2022
+APP-KU-20015,Samreen Mughal,F,17/07/2005,Quetta,Balochistan,Rural,BSCS,49.5,06/09/2024
+APP-KU-20016,babar rajput,Male,2005-05-02,multan,Punjab,Rural,BSEE,26.3,2024-08-04
+APP-KU-20017,IQRA CHANDIO,female,20-Apr-2003,hyd,Sindh,Urban,BSCS,47.8,01-Oct-2022
+APP-KU-20018,zunaira AHMED,F,21/03/2004,PINDI,Punjab,Rural,BSSE,45.6,21/08/2023
+APP-KU-20019,OMER raza,MALE,2003-04-18,Karachi ,Sindh,Urban,BSEE,39.9,2022-08-15
+APP-KU-20020, Anum Baig ,f,09-Jun-2005,HYD,Sindh,Rural,BSSE,41.8,25-Aug-2024
+APP-KU-20021,Salman Mughal,male,03/11/2004,FSD,Punjab,Rural,BBA,34.0,08/09/2023
+APP-KU-20022,bilal mughal,Male,2005-12-09,Multan,Punjab,Rural,BSME,49.7,2024-10-06
+APP-KU-20023,KAMRAN SOOMRO,MALE,01-Nov-2005,pindi,Punjab,Urban,BSSE,37.3,12-Oct-2024
+APP-KU-20024,atif LAGHARI,m,02/10/2004,lhr,Punjab,Rural,BSEE,27.4,20/08/2023
+APP-KU-20025,MUHAMMAD memon,Male ,2003-02-26,peshawar,Khyber Pakhtunkhwa,Rural,BSSE,35.5,2022-08-08
+APP-KU-20026, Nimra Abbasi ,FEMALE,07-Nov-2003,Islamabad,Islamabad Capital Territory,Urban,BSCS,46.2,20-Aug-2022
+APP-KU-20027,Kashif Ahmed,Male,13/02/2005,pindi,Punjab,Rural,BSME,45.9,07/10/2024
+APP-KU-20028,mariam memon,f,2003-04-04,hyd,Sindh,Rural,BSCS,42.3,2022-10-05
+APP-KU-20029,NADIA LAGHARI,f,20-Feb-2004,peshawar,Khyber Pakhtunkhwa,Urban,BSSE,47.4,11-Aug-2023
+APP-KU-20030,adeel SIDDIQUI,Male,06/06/2004,quetta,Balochistan,Rural,BSSE,34.2,21/08/2023
+APP-KU-20031,HIRA chaudhry,female,2003-01-05,Lahore,Punjab,Rural,BSME,49.9,2022-08-21
+APP-KU-20032, Arsalan Khan ,M,07-Mar-2003,peshawar,Khyber Pakhtunkhwa,Rural,BSME,32.2,19-Sep-2022
+APP-KU-20033,Haris Mughal,Male ,05/04/2003,khi,Sindh,Rural,BSCE,40.6,11/09/2022
+APP-KU-20034,kamran tariq,M,2004-09-15,Karachi ,Sindh,Urban,BSCS,36.9,2023-08-11
+APP-KU-20035,HASSAN RAZA,Male,09-Dec-2003,Karachi ,Sindh,Rural,BSCE,45.1,06-Sep-2022
+APP-KU-20036,shoaib QURESHI,Male ,15/04/2003,karachi,Sindh,Rural,BSCE,31.6,22/08/2022
+APP-KU-20037,BABAR farooq,M,2004-11-02,Peshawar,Khyber Pakhtunkhwa,Urban,BSEE,31.4,2023-09-11
+APP-KU-20038, Babar Dar ,Male ,04-Jul-2003,Islamabad,Islamabad Capital Territory,Urban,BSCS,27.6,01-Sep-2022
+APP-KU-20039,Rabia Alvi,F,27/11/2003,KHI,Sindh,Urban,BSCS,48.4,17/10/2022
+APP-KU-20040,kamran bhatti,Male ,2004-01-03,karachi,Sindh,Rural,BBA,46.4,2023-09-01
+APP-KU-20041,JUNAID RAJPUT,Male,14-Feb-2003,pindi,Punjab,Rural,BSCE,29.3,03-Sep-2022
+APP-KU-20042,farhan DAR,Male,13/11/2004,Multan,Punjab,Rural,BSSE,28.6,10/09/2023
+APP-KU-20043,SALMAN malik,MALE,2005-02-14,FSD,Punjab,Rural,BSCS,30.6,2024-08-26
+APP-KU-20044, Sadia Baloch ,F,23-May-2005,Multan,Punjab,Rural,BSEE,26.6,08-Aug-2024
+APP-KU-20045,Zubair Sheikh,m,19/05/2003,sukkur,Sindh,Rural,BSCS,44.5,14/08/2022
+APP-KU-20046,sadia dar,Female ,2003-02-08,PINDI,Punjab,Rural,BSCE,47.1,2022-09-21
+APP-KU-20047,MUHAMMAD BHATTI,male,02-Nov-2004,Faisalabad,Punjab,Rural,BSSE,45.9,20-Oct-2023
+APP-KU-20048,kashif AHMED,MALE,08/09/2003,hyd,Sindh,Urban,BSCE,41.8,26/10/2022
+APP-KU-20049,ATIF memon,MALE,2004-05-23,isb,Islamabad Capital Territory,Rural,BSEE,35.8,2023-08-08
+APP-KU-20050, Kinza Siddiqui ,f,27-Jun-2005,ISB,Islamabad Capital Territory,Rural,BBA,26.2,05-Sep-2024
+APP-KU-20051,Usman Mirza,male,20/06/2005,Quetta,Balochistan,Rural,BBA,41.1,17/08/2024
+APP-KU-20052,fatima baloch,F,2005-01-20,Peshawar,Khyber Pakhtunkhwa,Urban,BSSE,26.7,2024-10-12
+APP-KU-20053,KASHIF ABBASI,MALE,24-Apr-2005,Lahore,Punjab,Urban,BSME,48.5,13-Aug-2024
+APP-KU-20054,waleed AHMED,Male,27/11/2005,PEW,Khyber Pakhtunkhwa,Rural,BSSE,41.2,24/10/2024
+APP-KU-20055,BILAL abbasi,M,2005-02-05,Karachi ,Sindh,Rural,BSSE,28.5,2024-08-03
+APP-KU-20056, Omer Sheikh ,M,13-Jun-2003,fsd,Punjab,Urban,BBA,25.1,06-Aug-2022
+APP-KU-20057,Kamran Bhatti,Male ,23/03/2004,MUX,Punjab,Urban,BBA,27.3,14/08/2023
+APP-KU-20058,atif sheikh,Male ,2003-11-16,isb,Islamabad Capital Territory,Rural,BBA,29.5,2022-08-11
+APP-KU-20059,MUHAMMAD FAROOQ,M,20-Aug-2004,ISB,Islamabad Capital Territory,Rural,BSCS,34.2,02-Aug-2023
+APP-KU-20060,sadia FAROOQ,female,28/01/2004,SKR,Sindh,Urban,BSCE,49.0,11/08/2023
+APP-KU-20061,MUHAMMAD alvi,M,2005-12-28,fsd,Punjab,Urban,BSME,32.4,2024-09-12
+APP-KU-20062, Amna Soomro ,F,24-Sep-2004,Karachi,Sindh,Urban,BSEE,39.6,08-Aug-2023
+APP-KU-20063,Mariam Baig,f,07/11/2005,hyderabad,Sindh,Urban,BSME,33.2,08/08/2024
+APP-KU-20064,iqra abbasi,Female,2005-05-23,Karachi,Sindh,Urban,BSEE,45.6,2024-09-17
+APP-KU-20065,HIRA MIRZA,Female ,17-Apr-2003,sukkur,Sindh,Rural,BSCS,48.5,16-Oct-2022
+APP-KU-20066,bakhtawar JATOI,female,17/01/2003,Peshawar,Khyber Pakhtunkhwa,Rural,BSSE,30.1,16/08/2022
+APP-KU-20067,SOBIA shah,Female ,2004-03-05,PEW,Khyber Pakhtunkhwa,Urban,BSSE,25.2,2023-10-18
+APP-KU-20068, Haris Shah ,MALE,27-Aug-2005,Sukkur,Sindh,Urban,BSSE,25.1,03-Aug-2024
+APP-KU-20069,Junaid Dar,Male,04/02/2005,isb,Islamabad Capital Territory,Rural,BSCS,41.8,18/08/2024
+APP-KU-20070,nimra jatoi,f,2004-01-15,fsd,Punjab,Urban,BBA,47.8,2023-09-10
+APP-KU-20071,HUSSAIN ALVI,male,04-Dec-2003,Karachi ,Sindh,Urban,BSCE,38.9,18-Sep-2022
+APP-KU-20072,zubair AHMED,male,16/05/2003,Faisalabad,Punjab,Urban,BBA,37.9,18/10/2022
+APP-KU-20073,ZAINAB soomro,Female,2004-06-28,ISB,Islamabad Capital Territory,Urban,BSME,44.3,2023-09-04
+APP-KU-20074, Atif Ahmed ,m,07-Jul-2005,isb,Islamabad Capital Territory,Urban,BSSE,44.7,23-Oct-2024
+APP-KU-20075,Saad Bhatti,male,08/12/2005,Hyderabad,Sindh,Urban,BSME,30.1,11/09/2024
+APP-KU-20076,ayesha butt,Female,2004-02-15,hyd,Sindh,Rural,BSSE,40.8,2023-09-20
+APP-KU-20077,HUSSAIN DAR,m,17-Jun-2003,khi,Sindh,Rural,BSEE,45.2,10-Aug-2022
+APP-KU-20078,junaid ZAMAN,M,18/07/2004,pindi,Punjab,Urban,BSEE,34.0,10/08/2023
+APP-KU-20079,ADEEL jatoi,Male ,2003-10-01,SKR,Sindh,Urban,BSME,45.2,2022-10-22
+APP-KU-20080, Bakhtawar Qureshi ,F,20-Jan-2003,Peshawar,Khyber Pakhtunkhwa,Urban,BSEE,32.8,24-Oct-2022
+APP-KU-20081,Farah Shah,FEMALE,18/07/2005,Rawalpindi,Punjab,Rural,BSME,33.2,25/10/2024
+APP-KU-20082,usman jatoi,MALE,2005-05-06,HYD,Sindh,Rural,BSCS,48.2,2024-09-09
+APP-KU-20083,HARIS MIRZA,m,16-Jul-2005,pindi,Punjab,Urban,BSCS,27.9,11-Oct-2024
+APP-KU-20084,noman AHMED,MALE,28/05/2003,KHI,Sindh,Urban,BBA,43.4,08/08/2022
+APP-KU-20085,BUSHRA khan,F,2005-05-26,pindi,Punjab,Rural,BBA,38.0,2024-08-27
+APP-KU-20086, Shanzay Memon ,FEMALE,14-Dec-2003,Rawalpindi,Punjab,Rural,BSSE,36.5,10-Aug-2022
+APP-KU-20087,Sobia Rajput,FEMALE,14/06/2004,Hyderabad,Sindh,Urban,BBA,34.9,06/09/2023
+APP-KU-20088,bilal raza,Male ,2003-12-16,SKR,Sindh,Urban,BSCS,49.7,2022-10-02
+APP-KU-20089,SAAD PANHWAR,m,22-Nov-2004,peshawar,Khyber Pakhtunkhwa,Urban,BBA,39.2,06-Sep-2023
+APP-KU-20090,mariam BALOCH,FEMALE,25/02/2003,fsd,Punjab,Urban,BSCE,35.8,28/09/2022
+APP-KU-20091,IMRAN alvi,Male ,2005-04-27,Karachi,Sindh,Urban,BSCE,49.1,2024-10-13
+APP-KU-20092, Hassan Niazi ,MALE,06-Jan-2004,peshawar,Khyber Pakhtunkhwa,Rural,BSCS,35.3,16-Sep-2023
+APP-KU-20093,Amna Siddiqui,FEMALE,17/11/2004,Lahore,Punjab,Rural,BSCS,48.5,25/09/2023
+APP-KU-20094,shanzay chandio,Female ,2003-04-28,multan,Punjab,Urban,BBA,48.5,2022-08-28
+APP-KU-20095,OMER CHANDIO,Male ,11-Dec-2005,KHI,Sindh,Rural,BBA,49.3,24-Sep-2024
+APP-KU-20096,fatima NIAZI,F,28/06/2005,Rawalpindi,Punjab,Urban,BSSE,28.9,13/09/2024
+APP-KU-20097,ATIF rajput,Male ,2003-04-16,Quetta,Balochistan,Rural,BSME,45.1,2022-10-16
+APP-KU-20098, Junaid Ansari ,MALE,28-May-2003,lahore,Punjab,Urban,BSSE,27.5,08-Sep-2022
+APP-KU-20099,Sana Alvi,F,15/05/2005,Multan,Punjab,Rural,BSME,42.4,15/10/2024
+APP-KU-20100,usman niazi,MALE,2003-06-06,PEW,Khyber Pakhtunkhwa,Urban,BBA,39.4,2022-10-07
+APP-KU-20101,KHADIJA ALVI,F,17-Jan-2005,Peshawar,Khyber Pakhtunkhwa,Rural,BBA,39.4,28-Sep-2024
+APP-KU-20102,arsalan LAGHARI,M,22/11/2003,quetta,Balochistan,Urban,BSCE,32.6,19/10/2022
+APP-KU-20103,IMRAN mirza,M,2003-06-26,multan,Punjab,Urban,BSEE,49.2,2022-09-02
+APP-KU-20104, Haris Soomro ,M,02-May-2004,sukkur,Sindh,Rural,BSEE,34.3,20-Sep-2023
+APP-KU-20105,Waleed Mirza,Male ,11/06/2005,SKR,Sindh,Rural,BSME,48.6,09/10/2024
+APP-KU-20106,bakhtawar baloch,f,2005-01-23,SKR,Sindh,Rural,BSEE,44.5,2024-09-06
+APP-KU-20107,NADIA LAGHARI,F,23-Nov-2004,lahore,Punjab,Rural,BSSE,33.2,17-Aug-2023
+APP-KU-20108,sadia RAJPUT,F,24/03/2005,Multan,Punjab,Urban,BSEE,35.2,27/09/2024
+APP-KU-20109,FAHAD chandio,Male ,2004-05-09,Lahore,Punjab,Rural,BSEE,42.3,2023-09-22
+APP-KU-20110, Babar Panhwar ,M,16-Apr-2003,fsd,Punjab,Rural,BSEE,32.0,12-Sep-2022
+APP-KU-20111,Hamza Niazi,m,14/11/2003,SKR,Sindh,Rural,BSEE,33.6,07/09/2022
+APP-KU-20112,laiba farooq,F,2003-10-16,hyderabad,Sindh,Urban,BSEE,26.3,2022-09-14
+APP-KU-20113,ZAINAB SHEIKH,Female,19-Dec-2003,Hyderabad,Sindh,Urban,BSME,32.5,10-Oct-2022
+APP-KU-20114,fahad CHANDIO,m,18/02/2004,hyd,Sindh,Rural,BSCE,39.4,10/10/2023
+APP-KU-20115,SADIA tariq,f,2005-05-02,ISB,Islamabad Capital Territory,Urban,BSSE,28.9,2024-09-14
+APP-KU-20116, Nadia Soomro ,f,21-Feb-2005,lahore,Punjab,Urban,BSEE,39.1,04-Sep-2024
+APP-KU-20117,Kashif Siddiqui,Male,09/10/2005,lahore,Punjab,Rural,BSEE,38.9,21/09/2024
+APP-KU-20118,komal baig,F,2005-09-17,Sukkur,Sindh,Urban,BSME,43.0,2024-09-06
+APP-KU-20119,ZUBAIR AHMED,M,06-Dec-2005,multan,Punjab,Urban,BSCE,44.8,01-Aug-2024
+APP-KU-10000,iqra baig,female,28/10/2003,KHI,Sindh,urban,BSEE,57.9,2023-10-08
+APP-KU-10001,OMER SHAH,Male ,2005-03-22,Hyderabad,Sindh,Urban,BSSE,82.0,07-Aug-2024
+APP-KU-10002,iqra BHATTI,Female ,27-Jun-2002,Peshawar,Khyber Pakhtunkhwa,Rural,BBA,91.7,03/09/2022
+APP-KU-10003,SOBIA qureshi,Female,27/10/2003,PEW,Khyber Pakhtunkhwa,Rural,BSCE,64.8,2023-09-18
+APP-KU-10004, Mariam Abbasi ,F,2004-11-15,Sukkur,Sindh,Rural,BSCE,80.1,26-Sep-2024
