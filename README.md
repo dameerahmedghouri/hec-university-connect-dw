@@ -112,5 +112,8 @@ teams/team-XX/04_tests/        Step 4: Validate integrity (primary keys, FK chec
 teams/team-XX/dashboard/       Step 5: Build analytical dashboard in Looker Studio or Power BI
 ```
 
-> **Full team instructions, topic assignments, and data dictionary:**
-> See [`docs/INSTRUCTIONS.md`](docs/INSTRUCTIONS.md) and [`core/seed/DATA_DICTIONARY.md`](core/seed/DATA_DICTIONARY.md)
+> **Project Documentation & Guides:**
+> - [Team Domain Instructions & Mapping](docs/INSTRUCTIONS.md)
+> - [Git & GitHub Beginner's Guide (CLI + VS Code / Desktop App)](docs/GIT_GUIDE.md)
+> - [Core Team Operations & Review Playbook](docs/CORE_TEAM_PLAYBOOK.md)
+> - [Data Dictionary & Shared Keys](core/seed/DATA_DICTIONARY.md)
