@@ -1,201 +1,126 @@
-# HEC University Connect — Git & GitHub Beginners Guide (Aasan Tareeqa)
+# Git Guide — Teams & Members Ke Liye
 
-Yeh guide un tamam students aur teams ke liye hai jinhon ne project par kaam karna hai. Isme bilkul aasan tareeqe se samjhaya gaya hai ke **Push**, **Pull**, aur **Branch** par kaam kaise karna hai — **Terminal (Commands)** se bhi aur **VS Code / GitHub Desktop (Direct GUI Apps)** ke zariye bhi!
-
----
-
-## Golden Rule (Hamesha Yaad Rakhein)
-> **Sirf Apne Folder Mein Kaam Karein!**  
-> Aapki team ka jo number hai (maslan Team 04), aapko sirf `teams/team-04/` ke andar hi files banani aur edit karni hain. Root directory ya doosri team ke folder ko touch nahi karna.
+Yeh guide sab team members ke liye hai taake Git aur GitHub par kaam karte waqt koi confusion na ho aur kisi ka code zaya na ho.
 
 ---
 
-## Tareeqa 1: VS Code App Ke Zariye (Sab Se Asaan — Zero Commands)
-
-Agar aapko terminal ya commands use nahi karni, to VS Code ke interface se direct kaam karein:
-
-### Step 1: Apni Team Branch Par Switch Karein
-1. VS Code ke **niche baen kone (bottom-left corner)** par branch ka naam dikhta hai (jaise `main`).
-2. Us par click karein.
-3. Upar ek search bar khulega:
-   - Agar aapki team ki branch already list mein hai (jaise `origin/team-04`), to us par click karein.
-   - Agar nayi banani hai, to type karein `team-04` aur **"Create new branch..."** select karein.
-
-### Step 2: Kaam Shuru Karne Se Pehle Pull Karein (Latest Code Lena)
-- Niche left corner mein circular arrows 🔄 (Sync icon) par click karein, ya:
-- Left panel par **Source Control** icon (3 dots wala icon) par click karein -> Upar 3 dots `...` par click karein -> **Pull** select karein.
-
-### Step 3: Files Edit / Add Karein
-- Apne folder `teams/team-XX/` ke andar apni SQL ya documentation files banayein aur save karein (`Ctrl + S`).
-
-### Step 4: Commit Aur Push Karein
-1. Left side bar par **Source Control** icon par click karein (wahan aapki changed files dikhengi).
-2. Upar message box mein chota sa message likhein (e.g. `Team 04: added clean sql for attendance`).
-3. **Commit** button dabayein.
-4. **Sync Changes / Push** ka button aayega, us par click karein.
-   *(Aapka kaam direct GitHub par aapki team branch mein chala gaya!)*
+### Sab Se Zaroori Baat (Pehle Yeh Parh Lo)
+- **Har team ka apna folder hai:** Agar aap **Team 04** mein ho, to aapko sirf `teams/team-04/` ke andar kaam karna hai.
+- Bahar root folder par ya kisi doosri team ke folder mein koi file nahi banani.
+- **Har team ki apni branch hai:** Maslan `team-01`, `team-02`, waghera. Main branch par direct kaam koi nahi karega.
 
 ---
 
-## Tareeqa 2: GitHub Desktop App Ke Zariye (Visual Interface)
+## 1. VS Code Se Kaam Kaise Karna Hai (Sab Se Asaan Tareeqa)
 
-Agar aap **GitHub Desktop** software use karte hain:
-1. **Clone Repo**: GitHub Desktop khol kar `File` -> `Clone Repository` -> `hec-university-connect-dw` select karein.
-2. **Current Branch**: Upar `Current Branch` par click karein aur apni team ki branch choose karein (e.g. `team-05`).
-3. **Fetch/Pull origin**: Upar right side par **Fetch origin** par click karein taake latest code mil jaye.
-4. **Kaam Karein**: Apne folder `teams/team-05/` mein files save karein.
-5. **Commit**: GitHub Desktop khud hi aapki changes left side par dikhayega. Niche message likhein aur blue button **Commit to team-XX** dabayein.
-6. **Push origin**: Upar **Push origin** par click kar dein. Kaam done!
+Agar aapko terminal commands se darr lagta hai to VS Code se direct karo, koi command likhne ki zaroorat nahi hai:
+
+### Step 1: Apni Team Ki Branch Par Aao
+1. VS Code ke bilkul niche left side par dekho, wahan branch ka naam likha hoga (jaise `main`).
+2. Us par click karo.
+3. Upar search box aayega, wahan apni team ki branch select karo (jaise `team-03`). Agar pehle se nahi bani hui to wahan `team-03` likh kar enter kar do.
+
+### Step 2: Kaam Shuru Karne Se Pehle Latest Code Lo (Pull)
+1. VS Code ke left side par **Source Control** icon par jao (jahan 3 dots jaisa nishan hota hai).
+2. Upar `...` (three dots) par click karo -> **Pull** par click karo.
+*(Is se agar aapki team ke kisi doosre dost ne koi kaam push kiya hoga to wo aapke paas aa jayega).*
+
+### Step 3: Apni File Banao Aur Kaam Karo
+- Apne folder `teams/team-XX/` mein jao.
+- Maslan `02_clean/` ke andar apni SQL file banao, kaam karo aur save karo (`Ctrl + S`).
+
+### Step 4: GitHub Par Bhejo (Commit & Push)
+1. Left side par wapis **Source Control** icon kholo. Wahan aapki edited files dikh rahi hongi.
+2. Upar message box mein likho ke aapne kya kaam kiya (jaise: `added clean script for admissions`).
+3. **Commit** ka button dabao.
+4. Niche blue button aayega **Sync Changes** ya **Push**, us par click kar do.  
+Bas! Aapka kaam GitHub par chala gaya.
 
 ---
 
-## Tareeqa 3: Terminal / Command Prompt Ke Zariye
+## 2. Terminal Se Kaam Kaise Karna Hai (Command Prompt / Bash)
 
-Agar aap terminal use karte hain, to bas yeh 5 commands aapki poori zaroorat poori kar dengi:
+Agar aap terminal use karte ho to bas yeh 4 steps yaad rakho:
 
-### Step 1: Repo Clone Karein (Sirf Pehli Baar)
 ```bash
-git clone https://github.com/dameerahmedghouri/hec-university-connect-dw.git
-cd hec-university-connect-dw
-```
-
-### Step 2: Apni Team Ki Branch Par Jayein
-```bash
-# Apni team ki branch par switch karein (e.g. team-03)
+# 1. Apni team ki branch par aao
 git checkout team-03
 
-# Agar branch pehle se nahi bani hui to yeh karein:
-git checkout -b team-03
-```
-
-### Step 3: Hamesha Kaam Se Pehle Pull Karein
-Roz kaam shuru karne se pehle yeh command chalayein taake team members ka naya kaam aapke paas aa jaye:
-```bash
+# 2. Hamesha kaam shuru karne se pehle pull karo
 git pull origin team-03
-```
 
-### Step 4: Kaam Karne Ke Baad Save Aur Commit Karein
-Jab aap apne folder `teams/team-XX/` mein kaam complete kar lein:
-```bash
-# Sirf apne team folder ki changes add karein
+# 3. Kaam karne ke baad sirf apna team folder add aur commit karo
 git add teams/team-03/
+git commit -m "added cleaning sql"
 
-# Message likhein
-git commit -m "Team 03: clean faculty dataset script added"
-
-# GitHub par push karein
+# 4. Push kar do
 git push origin team-03
 ```
 
 ---
 
-## Step 5: Kaam Main Warehouse Mein Kaise Jayega? (Pull Request / PR)
+## 3. Sab Ka Common Sawal: "Agar Kisi Aur Ne Push Kar Diya Aur Maine Baad Mein Kiya To Mera Code Chala Jayega?"
 
-Jab aapki team ka milestone ya task complete ho jaye:
-1. Web browser mein repository open karein:  
-   `https://github.com/dameerahmedghouri/hec-university-connect-dw`
-2. Aapko upar yellow strip dikhegi: **"team-XX had recent pushes - Compare & pull request"**.
-3. **Compare & pull request** par click karein.
-4. Check karein:
-   - **base:** `main`
-   - **compare:** `team-XX`
-5. Description mein likhein ke aapki team ne kya kaam kiya hai (maslan: *"Team 04 enrollment cleaning & tests complete"*).
-6. **Create pull request** par click kar dein.
-7. **Core Team** aapki PR review karegi aur use `main` mein merge kar degi!
+**Jawab: Nahi bhai, Git aapka code delete nahi karta.**
 
----
+Lekin masle se bachne ka seedha tareeqa yeh hai:
 
-## Aksar Aane Wale Masle Aur Unka Asaan Hal
+### Golden Rule: Team Ke Log Files Aapas Mein Baant Lein
+Kaam shuru karne se pehle aapas mein tay kar lo:
+- Ek banda `clean_applicants.sql` banaye.
+- Doosra banda `clean_status.sql` banaye.
+- Teesra banda `tests.sql` banaye.
 
-### 1. "Push Rejected / Updates were rejected because remote contains work..."
-**Waja:** Aapki team ke kisi aur member ne pehle push kar diya tha aur aapke local computer par woh code nahi hai.  
-**Hal:** Pehle pull karein, phir push karein:
-```bash
-git pull origin team-XX
-git push origin team-XX
-```
-*(VS Code mein bas 🔄 Sync Changes par click karein).*
+**Jab sab log alag alag files par kaam karenge, to kabhi koi clash ya masla aayega hi nahi.** Dono ka kaam aram se merge ho jayega.
 
----
+### Agar Doosre Ne Pehle Push Kar Diya Ho Aur Aapka Push Rok Diya Jaye:
+Agar aap push karo aur error aa jaye ke *"Updates were rejected because the remote contains work..."*, to ghabrana nahi hai:
 
-### 2. Ghalat Jagah File Ban Gayi? (Root par ya kisi aur ke folder mein)
-Aap file ko asaani se move kar sakte hain:
-```bash
-git mv ghalat_file.sql teams/team-XX/02_clean/
-git commit -m "fix: moved file to correct team folder"
-git push origin team-XX
-```
-
----
-
-### 3. Fazol File Commit Ho Gayi? (Cache ya scratch file)
-Aap usko Git se delete kar sakte hain baghair asal computer se uraye:
-```bash
-git rm -r --cached unwanted_file.csv
-git commit -m "chore: removed unwanted file"
-git push origin team-XX
-```
-
----
-
-## Sab Se Bada Darr: "Kya Pull Karne Se Mera Likha Hua Code Chala Jayega?"
-
-**Jawab: BILKUL NAHI! Git aapka code kabhi delete ya overwrite nahi karta.**
-
-Yeh samjhein ke asal mein hota kya hai aur is se kaise bachna hai:
-
-### Scenario A: Team ke 2 members alag alag files par kaam kar rahe hain (Best Practice)
-- Maslan: **Member 1** `02_clean/clean_applicants.sql` bana raha hai.
-- Aur **Member 2** `02_clean/clean_status.sql` bana raha hai.
-- Member 1 ne pehle push kar diya.
-- Jab Member 2 `git pull` karega, to Git Member 1 ki nayi file le aayega aur **Member 2 ka apna code 100% mehfooz rahega**. Dono files aapas mein automatically merge ho jayengi!
-
----
-
-### Scenario B: Agar doosre ne push kar diya aur aapne abhi commit nahi kiya
-Agar aapne kuch code likha hua hai aur aap `git pull` karte hain, to Git aapko foran rok dega aur error dega:  
-`"error: Your local changes would be overwritten by merge. Please commit your changes or stash them."`  
-**Matlab Git aapka code khud se urane hi nahi deta!**
-
-**Aasan 3-Step Formula (Hamesha Yeh Karein):**
-1. **Pehle apna code commit karein** (Commit karne se aapka code lock aur safe ho jata hai):
+1. **Pehle apna code commit karo** (taake aapka kaam save ho jaye):
    ```bash
    git add teams/team-XX/
-   git commit -m "my latest work"
+   git commit -m "mera kaam"
    ```
-2. **Phir pull karein** (Doosre ka code lene ke liye):
+2. **Phir pull karo** (taake sathi ka kaam bhi aa jaye):
    ```bash
    git pull origin team-XX
    ```
-3. **Phir push kar dein**:
+3. **Ab push karo**:
    ```bash
    git push origin team-XX
    ```
+*(VS Code mein bas Commit karne ke baad **Sync Changes** dabane se yeh kaam automatically ho jata hai).*
 
 ---
 
-### Scenario C: Agar do members ne EK HI FILE ki EK HI LINE ko badal diya (Merge Conflict)
-Agar aisa ho jaye to Git kisi ka bhi code delete nahi karta, balki file ke andar dono ka code dikha deta hai:
-```text
-<<<<<<< HEAD (Aapka likha hua code)
-SELECT student_id, UPPER(student_name) FROM raw_applicants;
-=======
-SELECT student_id, TRIM(student_name) FROM raw_applicants;
->>>>>>> origin/team-XX (Aapke sathi ka code)
-```
-**Hal:**
-1. VS Code mein upar buttons aate hain: `Accept Current Change` ya `Accept Incoming Change` ya `Accept Both`.
-2. Dono sathi aapas mein baat karein ke kaunsa code sahi hai, usko select karein aur file save karein.
-3. Commit & push kar dein:
-   ```bash
-   git commit -m "resolved conflict"
-   git push origin team-XX
-   ```
+## 4. Kaam Mukammal Hone Ke Baad Kya Karna Hai? (Pull Request / PR)
 
-### 💡 Golden Tip For Teams (Clash Se Bachne Ka Rasta):
-Team Lead kaam shuru hone se pehle files divide kar de:
-- *"Member A tu staging script banayega"*
-- *"Member B tu cleaning SQL likhega"*
-- *"Member C tu tests likhega"*
+Jab aapki team ka task ya milestone complete ho jaye:
+1. Browser mein GitHub repo kholo.
+2. Upar ek yellow patti aayegi: **"Compare & pull request"**, us par click karo.
+3. Check karo:
+   - `base: main`
+   - `compare: team-XX`
+4. Title mein likho: `Team XX Complete Cleaning & Model`.
+5. **Create pull request** par click kar do.
+6. Core Team aapka code check karegi aur usko `main` warehouse mein daal degi.
 
-Jab har banda apni alag file par kaam karega, to **zindagi mein kabhi koi clash ya masla nahi aayega!**
+---
+
+## 5. Agar Koi Ghalti Ho Jaye To Kya Karein?
+
+- **Ghalti se file bahar root folder mein ban gayi?**
+  Usko apne folder mein move kar lo:
+  ```bash
+  git mv ghalti_wali_file.sql teams/team-XX/02_clean/
+  git commit -m "moved file to correct folder"
+  git push origin team-XX
+  ```
+
+- **Koi fazol file commit ho gayi?**
+  Git se remove kar do:
+  ```bash
+  git rm -r --cached unwanted_file
+  git commit -m "removed unwanted file"
+  git push origin team-XX
+  ```
