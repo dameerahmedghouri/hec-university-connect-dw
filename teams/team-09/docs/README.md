@@ -44,3 +44,4 @@ Team 09 is responsible for the **Campus & Hostels** domain in this data warehous
 - `member_farhan.md`
 - `member_zahid.md`
 - `member_sajjad.md`
+- `beginner_guide_team09.md`
