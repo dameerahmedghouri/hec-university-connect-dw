@@ -19,6 +19,7 @@ data/universities/
 └── NED/    # NED University of Engineering and Technology (Karachi)
 ```
 
+
 Each university folder contains the operational transactional tables exported from that university's enterprise database systems (e.g. `applicants.csv`, `enrollments.csv`, `exam_marks.csv`, `fee_challans.csv`, etc.).
 
 ---
